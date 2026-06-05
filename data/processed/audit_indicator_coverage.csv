@@ -1,0 +1,26 @@
+country_code,country_name,source,frequency,indicator_group,indicator_slug,rows,start_date,end_date,missing_values
+ARG,Argentina,Bluelytics,daily,exchange_rate,dolar_blue,3155,2016-01-01,2026-06-03,0
+ARG,Argentina,Bluelytics,daily,exchange_rate,dolar_oficial,3155,2016-01-01,2026-06-03,0
+ARG,Argentina,World Bank API,annual,gdp,gdp_growth_annual_pct,9,2016-01-01,2024-01-01,0
+ARG,Argentina,World Bank API,annual,gdp,gdp_per_capita_current_usd,9,2016-01-01,2024-01-01,0
+ARG,Argentina,World Bank API,annual,inflation,inflation_annual_pct,7,2018-01-01,2024-01-01,0
+ARG,Argentina,World Bank API,annual,unemployment,unemployment_pct,10,2016-01-01,2025-01-01,0
+BRA,Brazil,Banco Central do Brasil SGS,daily,exchange_rate,cambio,2614,2016-01-04,2026-06-03,0
+BRA,Brazil,Banco Central do Brasil SGS,daily,interest_rate,selic,2614,2016-01-04,2026-06-03,0
+BRA,Brazil,Banco Central do Brasil SGS,monthly,gasoline,gasolina,124,2016-01-01,2026-04-01,0
+BRA,Brazil,Banco Central do Brasil SGS,monthly,inflation,ipca,124,2016-01-01,2026-04-01,0
+BRA,Brazil,World Bank API,annual,debt,central_government_debt_pct_gdp,9,2016-01-01,2024-01-01,0
+BRA,Brazil,World Bank API,annual,gdp,gdp_growth_annual_pct,9,2016-01-01,2024-01-01,0
+BRA,Brazil,World Bank API,annual,gdp,gdp_per_capita_current_usd,9,2016-01-01,2024-01-01,0
+BRA,Brazil,World Bank API,annual,inflation,inflation_annual_pct,9,2016-01-01,2024-01-01,0
+BRA,Brazil,World Bank API,annual,unemployment,unemployment_pct,10,2016-01-01,2025-01-01,0
+USA,United States,FRED,monthly,inflation,cpi,123,2016-01-01,2026-04-01,0
+USA,United States,FRED,monthly,interest_rate,fed_funds,125,2016-01-01,2026-05-01,0
+USA,United States,FRED,monthly,unemployment,unemployment,123,2016-01-01,2026-04-01,0
+USA,United States,FRED,quarterly,gdp,real_gdp,41,2016-01-01,2026-01-01,0
+USA,United States,FRED,weekly,gasoline,gasoline,544,2016-01-04,2026-06-01,0
+USA,United States,World Bank API,annual,debt,central_government_debt_pct_gdp,9,2016-01-01,2024-01-01,0
+USA,United States,World Bank API,annual,gdp,gdp_growth_annual_pct,9,2016-01-01,2024-01-01,0
+USA,United States,World Bank API,annual,gdp,gdp_per_capita_current_usd,9,2016-01-01,2024-01-01,0
+USA,United States,World Bank API,annual,inflation,inflation_annual_pct,9,2016-01-01,2024-01-01,0
+USA,United States,World Bank API,annual,unemployment,unemployment_pct,10,2016-01-01,2025-01-01,0

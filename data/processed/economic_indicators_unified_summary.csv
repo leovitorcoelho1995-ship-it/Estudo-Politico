@@ -1,0 +1,26 @@
+country_code,source,indicator_group,indicator_slug,frequency,rows,start_date,end_date,min_value,max_value
+ARG,Bluelytics,exchange_rate,dolar_blue,daily,3155,2016-01-01,2026-06-03,14.0,1550.0
+ARG,Bluelytics,exchange_rate,dolar_oficial,daily,3155,2016-01-01,2026-06-03,13.0,1521.0
+ARG,World Bank API,gdp,gdp_growth_annual_pct,annual,9,2016-01-01,2024-01-01,-9.9004848136464,10.4418119882506
+ARG,World Bank API,gdp,gdp_per_capita_current_usd,annual,9,2016-01-01,2024-01-01,8535.59938004389,14532.5009308511
+ARG,World Bank API,inflation,inflation_annual_pct,annual,7,2018-01-01,2024-01-01,34.2772237131003,219.883929014578
+ARG,World Bank API,unemployment,unemployment_pct,annual,10,2016-01-01,2025-01-01,6.139,11.461
+BRA,Banco Central do Brasil SGS,exchange_rate,cambio,daily,2614,2016-01-04,2026-06-03,3.051,6.2086
+BRA,Banco Central do Brasil SGS,gasoline,gasolina,monthly,124,2016-01-01,2026-04-01,5.1,14.9
+BRA,Banco Central do Brasil SGS,inflation,ipca,monthly,124,2016-01-01,2026-04-01,-0.68,1.62
+BRA,Banco Central do Brasil SGS,interest_rate,selic,daily,2614,2016-01-04,2026-06-03,0.007469,0.055131
+BRA,World Bank API,debt,central_government_debt_pct_gdp,annual,9,2016-01-01,2024-01-01,73.4188038019563,98.7098819471851
+BRA,World Bank API,gdp,gdp_growth_annual_pct,annual,9,2016-01-01,2024-01-01,-3.27675879612903,4.7626043797061
+BRA,World Bank API,gdp,gdp_per_capita_current_usd,annual,9,2016-01-01,2024-01-01,7074.19407495707,10377.5897719195
+BRA,World Bank API,inflation,inflation_annual_pct,annual,9,2016-01-01,2024-01-01,3.21176803803376,9.28010608956872
+BRA,World Bank API,unemployment,unemployment_pct,annual,10,2016-01-01,2025-01-01,5.97,13.697
+USA,FRED,gasoline,gasoline,weekly,544,2016-01-04,2026-06-01,1.724,5.006
+USA,FRED,gdp,real_gdp,quarterly,41,2016-01-01,2026-01-01,19001.69,24152.656
+USA,FRED,inflation,cpi,monthly,123,2016-01-01,2026-04-01,237.336,332.407
+USA,FRED,interest_rate,fed_funds,monthly,125,2016-01-01,2026-05-01,0.05,5.33
+USA,FRED,unemployment,unemployment,monthly,123,2016-01-01,2026-04-01,3.4,14.8
+USA,World Bank API,debt,central_government_debt_pct_gdp,annual,9,2016-01-01,2024-01-01,97.8800564031882,126.370405951231
+USA,World Bank API,gdp,gdp_growth_annual_pct,annual,9,2016-01-01,2024-01-01,-2.16302914036166,6.05505293244555
+USA,World Bank API,gdp,gdp_per_capita_current_usd,annual,9,2016-01-01,2024-01-01,57638.1018367192,84534.0407841548
+USA,World Bank API,inflation,inflation_annual_pct,annual,9,2016-01-01,2024-01-01,1.23358439630629,8.00279982052121
+USA,World Bank API,unemployment,unemployment_pct,annual,10,2016-01-01,2025-01-01,3.638,8.055

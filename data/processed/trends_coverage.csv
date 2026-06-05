@@ -1,0 +1,89 @@
+event_id,country_code,country_name,event_name,date_precision,event_category,event_subcategory,has_trends_data,has_seed_terms,seed_terms,collected_terms,trends_status
+ARG_2016_2019,ARG,Argentina,Governo Mauricio Macri,year_range,politics,economic_policy,False,False,governo mauricio macri; governo mauricio macri argentina,,missing_seed_terms
+ARG_2018_06,ARG,Argentina,Acordo com FMI,month,economy,debt_exchange_rate,True,True,fmi argentina; dolar argentina; crisis argentina,crisis argentina; dolar argentina; fmi argentina,collected
+ARG_2018_08_30,ARG,Argentina,Crise cambial e alta emergencial dos juros,day,economy,debt_exchange_rate,False,True,dolar argentina; crisis cambiaria; tasas argentina,,missing_collection
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,day,politics,election,True,True,paso argentina; macri fernandez; elecciones argentina,elecciones argentina; macri fernandez; paso argentina,collected
+ARG_2019_09_01,ARG,Argentina,Reintroducao de controles cambiais,day,economy,exchange_rate_inflation,False,True,cepo cambiario; dolar argentina; control de cambios,,missing_collection
+ARG_2019_10_27,ARG,Argentina,Eleicao Alberto Fernandez,day,politics,election,False,True,alberto fernandez; elecciones argentina; macri fernandez,,missing_collection
+ARG_2020_2022,ARG,Argentina,Controles cambiais e crise inflacionaria,year_range,economy,exchange_rate_inflation,False,False,controles cambiais e crise inflacionaria; controles cambiais e crise inflacionaria argentina,,missing_seed_terms
+ARG_2020_03,ARG,Argentina,Pandemia Covid,month,external_shock,health_crisis,True,True,coronavirus argentina; cuarentena argentina; pandemia argentina,coronavirus argentina; cuarentena argentina; pandemia argentina,collected
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,day,economy,debt,True,True,default argentina; deuda argentina; bonos argentina,bonos argentina; default argentina; deuda argentina,collected
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,day,economy,debt,True,True,deuda argentina; reestructuracion deuda; bonistas argentina,bonistas argentina; deuda argentina; reestructuracion deuda,collected
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,month,economy,debt,True,True,fmi argentina; deuda argentina; acuerdo fmi,acuerdo fmi; deuda argentina; fmi argentina,collected
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,day,economy,economic_policy,True,True,martin guzman; renuncia guzman; ministro economia argentina,martin guzman; ministro economia argentina; renuncia guzman,collected
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,day,economy,economic_policy,True,True,sergio massa; ministro economia; dolar argentina,dolar argentina; ministro economia; sergio massa,collected
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,month,politics,election,True,True,milei; dolarizacion; primarias argentina,dolarizacion; milei; primarias argentina,collected
+ARG_2023_08_14,ARG,Argentina,Desvalorizacao pos-PASO,day,economy,exchange_rate_inflation,False,True,devaluacion argentina; dolar argentina; paso milei,,missing_collection
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,day,politics,election,True,True,milei presidente; javier milei; dolarizacion argentina,dolarizacion argentina; javier milei; milei presidente,collected
+ARG_2023_12,ARG,Argentina,Desvalorizacao inicial do peso,month,economy,exchange_rate_inflation,False,True,devaluacion argentina; dolar argentina; caputo,,missing_collection
+ARG_2023_12_12,ARG,Argentina,Pacote Caputo e forte desvalorizacao,day,economy,exchange_rate_inflation,False,True,caputo; devaluacion argentina; dolar argentina,,missing_collection
+ARG_2023_12_20,ARG,Argentina,DNU de desregulacao de Milei,day,economy,economic_policy,False,True,dnu milei; milei decreto; desregulacion,,missing_collection
+ARG_2024_FISCAL_REFORMS,ARG,Argentina,Ajuste fiscal e reformas,year,economy,fiscal_social,False,False,ajuste fiscal e reformas; ajuste fiscal e reformas argentina,,missing_seed_terms
+ARG_2024_PROTESTS,ARG,Argentina,Protestos e greve geral,year,society,social_reaction,False,False,protestos e greve geral; protestos e greve geral argentina,,missing_seed_terms
+ARG_2024_01_24,ARG,Argentina,Greve geral contra reformas,day,society,social_reaction,False,True,paro general; cgt; milei protestas,,missing_collection
+ARG_2024_04_30,ARG,Argentina,Aprovacao inicial da Lei Bases na Camara,day,economy,fiscal_social,False,True,ley bases; milei ley bases; reformas milei,,missing_collection
+ARG_2024_06_12,ARG,Argentina,Aprovacao da Lei Bases no Senado,day,economy,fiscal_social,False,True,ley bases senado; ley bases; milei,,missing_collection
+ARG_2025_2026,ARG,Argentina,Continuidade das reformas,year_range,economy,macroeconomy,False,False,continuidade das reformas; continuidade das reformas argentina,,missing_seed_terms
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,day,politics,institutional,True,True,impeachment dilma; dilma impeachment; temer,dilma impeachment; impeachment dilma; temer,collected
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,day,economy,monetary_policy,True,True,copom selic; corte selic; taxa selic,copom selic; corte selic; taxa selic,collected
+BRA_2016_12_15,BRA,Brazil,Teto de gastos,day,economy,fiscal,False,True,teto de gastos; pec do teto; gastos publicos,,missing_collection
+BRA_2017_05_17,BRA,Brazil,Crise Joesley Day,day,politics,political_crisis,False,True,joesley day; temer joesley; jbs temer,,missing_collection
+BRA_2017_07_13,BRA,Brazil,Reforma trabalhista,day,economy,labor_market,False,True,reforma trabalhista; terceirizacao; clt reforma,,missing_collection
+BRA_2018_04_07,BRA,Brazil,Prisao de Lula,day,politics,election_justice,False,True,lula preso; prisao lula; lava jato,,missing_collection
+BRA_2018_05_21,BRA,Brazil,Inicio da greve dos caminhoneiros,day,economy,energy_inflation,False,True,greve caminhoneiros; caminhoneiros; diesel greve,,missing_collection
+BRA_2018_05_27,BRA,Brazil,Subvencao ao diesel apos greve,day,economy,energy_fiscal,False,True,subvencao diesel; diesel caminhoneiros; preco diesel,,missing_collection
+BRA_2018_09_06,BRA,Brazil,Facada em Bolsonaro,day,politics,election_crisis,False,True,facada bolsonaro; bolsonaro facada; juiz de fora,,missing_collection
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,day,politics,election,True,True,bolsonaro; eleicao 2018; paulo guedes,bolsonaro; eleicao 2018; paulo guedes,collected
+BRA_2019_11_08,BRA,Brazil,Soltura de Lula,day,politics,election_justice,False,False,soltura de lula; soltura de lula brasil,,missing_seed_terms
+BRA_2019_11_12,BRA,Brazil,Reforma da Previdencia,day,economy,fiscal,False,False,reforma da previdencia; reforma da previdencia brasil,,missing_seed_terms
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,day,external_shock,health_crisis,True,True,coronavirus brasil; pandemia brasil; covid brasil,pandemia covid; pandemia covid brasil,collected
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,day,economy,fiscal_social,True,True,auxilio emergencial; coronavirus auxilio; caixa auxilio,auxilio emergencial; caixa auxilio; coronavirus auxilio,collected
+BRA_2021_2022,BRA,Brazil,Alta dos combustiveis,year_range,economy,energy_inflation,True,True,preco combustivel; preco gasolina; gasolina brasil,gasolina brasil; preco combustivel; preco gasolina,collected
+BRA_2021_02_19,BRA,Brazil,Troca no comando da Petrobras,day,economy,energy,False,True,petrobras; castello branco petrobras; preco combustivel,,missing_collection
+BRA_2021_03_17,BRA,Brazil,Inicio do ciclo de alta da Selic,day,economy,monetary_policy,False,True,alta selic; copom selic; taxa selic,,missing_collection
+BRA_2021_04_27,BRA,Brazil,CPI da Covid,day,politics,political_crisis,False,True,cpi covid; vacina covid; pandemia brasil,,missing_collection
+BRA_2021_12_02,BRA,Brazil,Aprovacao da PEC dos Precatorios,day,economy,fiscal_social,False,True,pec precatorios; precatorios; auxilio brasil,,missing_collection
+BRA_2022_02_24,BRA,Brazil,Choque global da guerra na Ucrania,day,external_shock,energy_inflation,False,True,guerra ucrania; preco gasolina; petroleo,,missing_collection
+BRA_2022_06_23,BRA,Brazil,Teto do ICMS dos combustiveis,day,economy,energy_fiscal,True,True,icms gasolina; preco gasolina; combustivel,teto do icms dos combustiveis; teto do icms dos combustiveis brasil,collected
+BRA_2022_07_14,BRA,Brazil,PEC dos beneficios eleitorais,day,economy,fiscal_social,False,True,pec beneficios; auxilio brasil; pec kamikaze,,missing_collection
+BRA_2022_10_30,BRA,Brazil,Eleicao Lula,day,politics,election,False,True,lula; bolsonaro; eleicao 2022,,missing_collection
+BRA_2022_12_09,BRA,Brazil,Anuncio de Fernando Haddad na Fazenda,day,economy,economic_policy,False,True,fernando haddad fazenda; haddad ministro; ministro da fazenda,,missing_collection
+BRA_2022_12_21,BRA,Brazil,Aprovacao da PEC da Transicao,day,economy,fiscal,False,True,pec transicao; orcamento; bolsa familia,,missing_collection
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,day,politics,institutional_crisis,True,True,8 de janeiro; invasao brasilia; atos antidemocraticos,8 de janeiro; atos antidemocraticos; invasao brasilia,collected
+BRA_2023_03_30,BRA,Brazil,Apresentacao do novo arcabouco fiscal,day,economy,fiscal,False,True,arcabouco fiscal; novo arcabouco fiscal; haddad,,missing_collection
+BRA_2023_05_16,BRA,Brazil,Mudanca na politica de precos da Petrobras,day,economy,energy,False,True,preco combustivel; petrobras combustivel; politica de precos petrobras,,missing_collection
+BRA_2023_08_02,BRA,Brazil,Inicio do ciclo de corte da Selic de 2023,day,economy,monetary_policy,False,True,corte selic; copom selic; taxa selic,,missing_collection
+BRA_2023_08_31,BRA,Brazil,Novo arcabouco fiscal,day,economy,fiscal,False,True,arcabouco fiscal; novo arcabouco fiscal; regra fiscal,,missing_collection
+BRA_2023_12_20,BRA,Brazil,Promulgacao da reforma tributaria,day,economy,fiscal,False,True,reforma tributaria; tributaria; imposto,,missing_collection
+BRA_2024_09_18,BRA,Brazil,Retomada do ciclo de alta da Selic,day,economy,monetary_policy,False,True,alta selic; copom selic; taxa selic,,missing_collection
+BRA_2024_10,BRA,Brazil,Eleicoes municipais,month,politics,election,False,True,eleicoes municipais; prefeito; eleicao municipal,,missing_collection
+BRA_2025_2026,BRA,Brazil,Cenario fiscal juros inflacao e crescimento,year_range,economy,macroeconomy,False,False,cenario fiscal juros inflacao e crescimento; cenario fiscal juros inflacao e crescimento brasil,,missing_seed_terms
+USA_2016_11_08,USA,United States,Eleicao Trump,day,politics,election,False,True,trump election; donald trump; hillary clinton,,missing_collection
+USA_2016_12_14,USA,United States,Alta de juros do Fed apos eleicao Trump,day,economy,monetary_policy,False,True,fed rate hike; interest rates; federal reserve,,missing_collection
+USA_2017_03_15,USA,United States,Fed acelera ciclo de alta de juros,day,economy,monetary_policy,False,True,fed rate hike; interest rates; federal reserve,,missing_collection
+USA_2017_12_22,USA,United States,Tax Cuts and Jobs Act,day,economy,fiscal,False,True,tax cuts jobs act; trump tax cuts; tax reform,,missing_collection
+USA_2018_03,USA,United States,Tarifas comerciais contra China,month,economy,trade,False,True,china tariffs; trade war; trump tariffs,,missing_collection
+USA_2018_07_06,USA,United States,Inicio das tarifas EUA-China,day,economy,trade,False,True,china tariffs; trade war; trump tariffs,,missing_collection
+USA_2018_12_19,USA,United States,Fed eleva juros em meio a turbulencia de mercado,day,economy,monetary_policy,False,True,fed rate hike; stock market; interest rates,,missing_collection
+USA_2019_07_31,USA,United States,Primeiro corte de juros do Fed desde 2008,day,economy,monetary_policy,False,True,fed rate cut; interest rates; federal reserve,,missing_collection
+USA_2020_03,USA,United States,Pandemia Covid,month,external_shock,health_crisis,False,True,covid stimulus; covid unemployment; pandemic usa,,missing_collection
+USA_2020_03_03,USA,United States,Corte emergencial de juros do Fed,day,economy,monetary_policy,False,True,fed emergency rate cut; interest rates; federal reserve,,missing_collection
+USA_2020_03_15,USA,United States,Fed leva juros a zero e relanca QE,day,economy,monetary_policy,False,True,fed zero rates; quantitative easing; federal reserve,,missing_collection
+USA_2020_03_27,USA,United States,CARES Act,day,economy,fiscal_social,True,True,cares act; stimulus check; covid stimulus,cares act; cares act usa,collected
+USA_2020_11_03,USA,United States,Eleicao Biden,day,politics,election,False,True,biden election; trump biden; election 2020,,missing_collection
+USA_2020_12_27,USA,United States,Segundo pacote fiscal Covid,day,economy,fiscal_social,False,True,stimulus check; covid relief bill; second stimulus,,missing_collection
+USA_2021_2022,USA,United States,Alta inflacionaria,year_range,economy,inflation,True,True,inflation; gas prices; fed rates,fed rates; gas prices; inflation,collected
+USA_2021_01_06,USA,United States,Invasao do Capitolio,day,politics,institutional_crisis,True,True,capitol riot; january 6; capitol attack,capitol attack; capitol riot; january 6,collected
+USA_2021_03_11,USA,United States,American Rescue Plan,day,economy,fiscal_social,True,True,stimulus check; american rescue plan; biden stimulus,american rescue plan; biden stimulus; stimulus check,collected
+USA_2021_11_15,USA,United States,Infrastructure Investment and Jobs Act,day,economy,fiscal,False,True,infrastructure bill; biden infrastructure; infrastructure act,,missing_collection
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,month,economy,monetary_policy,True,True,fed rates; interest rates; inflation,fed rates; inflation; interest rates,collected
+USA_2022_03_16,USA,United States,Primeira alta de juros do Fed no ciclo inflacionario,day,economy,monetary_policy,False,True,fed rate hike; interest rates; inflation,,missing_collection
+USA_2022_06_15,USA,United States,Fed faz alta de 75 pontos-base,day,economy,monetary_policy,False,True,fed 75 basis points; fed rate hike; interest rates,,missing_collection
+USA_2022_08_16,USA,United States,Inflation Reduction Act,day,economy,fiscal_energy,False,True,inflation reduction act; climate bill; biden inflation act,,missing_collection
+USA_2023_03_10,USA,United States,Colapso do Silicon Valley Bank,day,economy,financial_stability,False,True,silicon valley bank; svb collapse; bank failure,,missing_collection
+USA_2023_05_01,USA,United States,First Republic Bank assumido pelo JPMorgan,day,economy,financial_stability,False,True,first republic bank; jpmorgan first republic; bank failure,,missing_collection
+USA_2023_06_03,USA,United States,Debt ceiling deal 2023,day,economy,fiscal,False,True,debt ceiling; debt ceiling deal; us debt limit,,missing_collection
+USA_2023_07_26,USA,United States,Fed atinge pico do ciclo de juros,day,economy,monetary_policy,False,True,fed rate hike; interest rates; federal reserve,,missing_collection
+USA_2024_09_18,USA,United States,Fed inicia ciclo de corte de juros,day,economy,monetary_policy,False,True,fed rate cut; interest rates; federal reserve,,missing_collection
+USA_2024_11,USA,United States,Eleicao presidencial,month,politics,election,False,True,presidential election; trump biden; election 2024,,missing_collection
+USA_2025_2026,USA,United States,Decisoes economicas recentes,year_range,economy,macroeconomy,False,False,decisoes economicas recentes; decisoes economicas recentes usa,,missing_seed_terms

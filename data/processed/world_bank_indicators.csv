@@ -1,0 +1,151 @@
+country_code,country_name,year,indicator_slug,indicator_code,indicator_name,value,source
+ARG,Argentina,2025,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",,World Bank API
+ARG,Argentina,2024,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",219.883929014578,World Bank API
+ARG,Argentina,2023,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",133.488935594175,World Bank API
+ARG,Argentina,2022,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",72.430757531824,World Bank API
+ARG,Argentina,2021,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",48.4093786255199,World Bank API
+ARG,Argentina,2020,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",42.0150947376509,World Bank API
+ARG,Argentina,2019,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",53.5483043492339,World Bank API
+ARG,Argentina,2018,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",34.2772237131003,World Bank API
+ARG,Argentina,2017,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",,World Bank API
+ARG,Argentina,2016,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",,World Bank API
+BRA,Brazil,2025,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",,World Bank API
+BRA,Brazil,2024,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",4.36746407652336,World Bank API
+BRA,Brazil,2023,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",4.59356282283203,World Bank API
+BRA,Brazil,2022,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",9.28010608956872,World Bank API
+BRA,Brazil,2021,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",8.30165975585673,World Bank API
+BRA,Brazil,2020,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",3.21176803803376,World Bank API
+BRA,Brazil,2019,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",3.73297621216893,World Bank API
+BRA,Brazil,2018,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",3.66485028376728,World Bank API
+BRA,Brazil,2017,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",3.44637335032669,World Bank API
+BRA,Brazil,2016,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",8.73914352329393,World Bank API
+USA,United States,2025,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",,World Bank API
+USA,United States,2024,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2.94952520485207,World Bank API
+USA,United States,2023,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",4.11633838374488,World Bank API
+USA,United States,2022,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",8.00279982052121,World Bank API
+USA,United States,2021,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",4.69785886363742,World Bank API
+USA,United States,2020,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1.23358439630629,World Bank API
+USA,United States,2019,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1.81221007526021,World Bank API
+USA,United States,2018,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2.44258329692817,World Bank API
+USA,United States,2017,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2.13011000365961,World Bank API
+USA,United States,2016,inflation_annual_pct,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1.26158320570536,World Bank API
+ARG,Argentina,2025,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",7.145,World Bank API
+ARG,Argentina,2024,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",7.15,World Bank API
+ARG,Argentina,2023,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",6.139,World Bank API
+ARG,Argentina,2022,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",6.805,World Bank API
+ARG,Argentina,2021,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",8.736,World Bank API
+ARG,Argentina,2020,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",11.461,World Bank API
+ARG,Argentina,2019,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",9.843,World Bank API
+ARG,Argentina,2018,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",9.22,World Bank API
+ARG,Argentina,2017,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",8.347,World Bank API
+ARG,Argentina,2016,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",8.088,World Bank API
+BRA,Brazil,2025,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",5.97,World Bank API
+BRA,Brazil,2024,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",6.801,World Bank API
+BRA,Brazil,2023,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",7.947,World Bank API
+BRA,Brazil,2022,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",9.231,World Bank API
+BRA,Brazil,2021,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",13.158,World Bank API
+BRA,Brazil,2020,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",13.697,World Bank API
+BRA,Brazil,2019,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",11.936,World Bank API
+BRA,Brazil,2018,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",12.329,World Bank API
+BRA,Brazil,2017,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",12.792,World Bank API
+BRA,Brazil,2016,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",11.58,World Bank API
+USA,United States,2025,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",4.198,World Bank API
+USA,United States,2024,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",4.022,World Bank API
+USA,United States,2023,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",3.638,World Bank API
+USA,United States,2022,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",3.65,World Bank API
+USA,United States,2021,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",5.349,World Bank API
+USA,United States,2020,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",8.055,World Bank API
+USA,United States,2019,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",3.669,World Bank API
+USA,United States,2018,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",3.896,World Bank API
+USA,United States,2017,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",4.355,World Bank API
+USA,United States,2016,unemployment_pct,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force)",4.869,World Bank API
+ARG,Argentina,2025,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),,World Bank API
+ARG,Argentina,2024,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.34293072157739,World Bank API
+ARG,Argentina,2023,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.85578803046339,World Bank API
+ARG,Argentina,2022,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.02074537534855,World Bank API
+ARG,Argentina,2021,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),10.4418119882506,World Bank API
+ARG,Argentina,2020,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.9004848136464,World Bank API
+ARG,Argentina,2019,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.00086100285785,World Bank API
+ARG,Argentina,2018,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.61739646282038,World Bank API
+ARG,Argentina,2017,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.81850297775918,World Bank API
+ARG,Argentina,2016,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.08032784377811,World Bank API
+BRA,Brazil,2025,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),,World Bank API
+BRA,Brazil,2024,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.41931516597739,World Bank API
+BRA,Brazil,2023,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.24165532813583,World Bank API
+BRA,Brazil,2022,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.01669435408112,World Bank API
+BRA,Brazil,2021,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.7626043797061,World Bank API
+BRA,Brazil,2020,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.27675879612903,World Bank API
+BRA,Brazil,2019,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.22077782271943,World Bank API
+BRA,Brazil,2018,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.78366676137003,World Bank API
+BRA,Brazil,2017,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.32286905390815,World Bank API
+BRA,Brazil,2016,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.2759169063211,World Bank API
+USA,United States,2025,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),,World Bank API
+USA,United States,2024,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.79300127716779,World Bank API
+USA,United States,2023,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.88755600749487,World Bank API
+USA,United States,2022,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.51237531986017,World Bank API
+USA,United States,2021,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.05505293244555,World Bank API
+USA,United States,2020,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.16302914036166,World Bank API
+USA,United States,2019,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.58382533412825,World Bank API
+USA,United States,2018,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.96650506901305,World Bank API
+USA,United States,2017,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.45762229852507,World Bank API
+USA,United States,2016,gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.81945147788167,World Bank API
+ARG,Argentina,2025,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),,World Bank API
+ARG,Argentina,2024,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),13969.7836603737,World Bank API
+ARG,Argentina,2023,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),14261.8465667948,World Bank API
+ARG,Argentina,2022,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),13962.1894087223,World Bank API
+ARG,Argentina,2021,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),10738.0179223384,World Bank API
+ARG,Argentina,2020,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),8535.59938004389,World Bank API
+ARG,Argentina,2019,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),9955.97478680428,World Bank API
+ARG,Argentina,2018,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),11752.7998922979,World Bank API
+ARG,Argentina,2017,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),14532.5009308511,World Bank API
+ARG,Argentina,2016,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),12699.9623137756,World Bank API
+BRA,Brazil,2025,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),,World Bank API
+BRA,Brazil,2024,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),10310.5488778166,World Bank API
+BRA,Brazil,2023,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),10377.5897719195,World Bank API
+BRA,Brazil,2022,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),9281.33282136864,World Bank API
+BRA,Brazil,2021,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),7972.53696080695,World Bank API
+BRA,Brazil,2020,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),7074.19407495707,World Bank API
+BRA,Brazil,2019,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),9029.83304401079,World Bank API
+BRA,Brazil,2018,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),9300.66072904004,World Bank API
+BRA,Brazil,2017,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),10080.5078722821,World Bank API
+BRA,Brazil,2016,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),8836.28546025694,World Bank API
+USA,United States,2025,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),,World Bank API
+USA,United States,2024,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),84534.0407841548,World Bank API
+USA,United States,2023,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),81032.262117545,World Bank API
+USA,United States,2022,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),76657.2488844403,World Bank API
+USA,United States,2021,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),70205.050916026,World Bank API
+USA,United States,2020,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),63515.9491807833,World Bank API
+USA,United States,2019,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),64746.4506778863,World Bank API
+USA,United States,2018,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),62499.8744390068,World Bank API
+USA,United States,2017,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),59635.0984397965,World Bank API
+USA,United States,2016,gdp_per_capita_current_usd,NY.GDP.PCAP.CD,GDP per capita (current US$),57638.1018367192,World Bank API
+ARG,Argentina,2025,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2024,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2023,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2022,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2021,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2020,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2019,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2018,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2017,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+ARG,Argentina,2016,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+BRA,Brazil,2025,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+BRA,Brazil,2024,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",81.8554431189056,World Bank API
+BRA,Brazil,2023,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",83.0317498523499,World Bank API
+BRA,Brazil,2022,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",79.1023218880378,World Bank API
+BRA,Brazil,2021,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",85.011503676948,World Bank API
+BRA,Brazil,2020,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",98.7098819471851,World Bank API
+BRA,Brazil,2019,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",92.5652531951269,World Bank API
+BRA,Brazil,2018,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",86.6078841212333,World Bank API
+BRA,Brazil,2017,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",83.6692026491606,World Bank API
+BRA,Brazil,2016,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",73.4188038019563,World Bank API
+USA,United States,2025,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",,World Bank API
+USA,United States,2024,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",117.973234857902,World Bank API
+USA,United States,2023,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",116.918808847311,World Bank API
+USA,United States,2022,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",114.694842004206,World Bank API
+USA,United States,2021,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",120.367733355153,World Bank API
+USA,United States,2020,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",126.370405951231,World Bank API
+USA,United States,2019,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",100.979786328903,World Bank API
+USA,United States,2018,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",99.2223695206525,World Bank API
+USA,United States,2017,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",97.8800564031882,World Bank API
+USA,United States,2016,central_government_debt_pct_gdp,GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",98.6931939368279,World Bank API

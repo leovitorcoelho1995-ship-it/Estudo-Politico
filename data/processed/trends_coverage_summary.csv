@@ -1,0 +1,10 @@
+country_code,trends_status,events
+ARG,collected,10
+ARG,missing_collection,10
+ARG,missing_seed_terms,5
+BRA,collected,8
+BRA,missing_collection,23
+BRA,missing_seed_terms,3
+USA,collected,5
+USA,missing_collection,23
+USA,missing_seed_terms,1

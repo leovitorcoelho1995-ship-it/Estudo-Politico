@@ -1,0 +1,5 @@
+country_code,total_events,short_term_events,annual_events,frequent_indicators,annual_indicators,priority_gap
+ARG,25,20,25,2,4,eventos longos ou sem janela curta
+BRA,34,32,34,4,5,eventos longos ou sem janela curta
+USA,29,27,29,5,5,eventos longos ou sem janela curta
+PROJECT,88,79,88,11,14,Google Trends parcial; fontes verificadas no top 15 e contextuais no restante

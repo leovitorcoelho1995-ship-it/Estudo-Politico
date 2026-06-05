@@ -1,0 +1,89 @@
+event_id,country_code,country_name,event_name,date_precision,event_category,event_subcategory,has_short_term_impact,has_annual_impact,coverage_status
+ARG_2024_FISCAL_REFORMS,ARG,Argentina,Ajuste fiscal e reformas,year,economy,fiscal_social,False,True,annual_only
+ARG_2025_2026,ARG,Argentina,Continuidade das reformas,year_range,economy,macroeconomy,False,True,annual_only
+ARG_2020_2022,ARG,Argentina,Controles cambiais e crise inflacionaria,year_range,economy,exchange_rate_inflation,False,True,annual_only
+ARG_2016_2019,ARG,Argentina,Governo Mauricio Macri,year_range,politics,economic_policy,False,True,annual_only
+ARG_2024_PROTESTS,ARG,Argentina,Protestos e greve geral,year,society,social_reaction,False,True,annual_only
+ARG_2018_06,ARG,Argentina,Acordo com FMI,month,economy,debt_exchange_rate,True,True,short_and_annual
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,day,economy,debt,True,True,short_and_annual
+ARG_2024_06_12,ARG,Argentina,Aprovacao da Lei Bases no Senado,day,economy,fiscal_social,True,True,short_and_annual
+ARG_2024_04_30,ARG,Argentina,Aprovacao inicial da Lei Bases na Camara,day,economy,fiscal_social,True,True,short_and_annual
+ARG_2018_08_30,ARG,Argentina,Crise cambial e alta emergencial dos juros,day,economy,debt_exchange_rate,True,True,short_and_annual
+ARG_2023_12_20,ARG,Argentina,DNU de desregulacao de Milei,day,economy,economic_policy,True,True,short_and_annual
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,day,economy,debt,True,True,short_and_annual
+ARG_2023_12,ARG,Argentina,Desvalorizacao inicial do peso,month,economy,exchange_rate_inflation,True,True,short_and_annual
+ARG_2023_08_14,ARG,Argentina,Desvalorizacao pos-PASO,day,economy,exchange_rate_inflation,True,True,short_and_annual
+ARG_2019_10_27,ARG,Argentina,Eleicao Alberto Fernandez,day,politics,election,True,True,short_and_annual
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,day,politics,election,True,True,short_and_annual
+ARG_2024_01_24,ARG,Argentina,Greve geral contra reformas,day,society,social_reaction,True,True,short_and_annual
+ARG_2023_12_12,ARG,Argentina,Pacote Caputo e forte desvalorizacao,day,economy,exchange_rate_inflation,True,True,short_and_annual
+ARG_2020_03,ARG,Argentina,Pandemia Covid,month,external_shock,health_crisis,True,True,short_and_annual
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,day,economy,economic_policy,True,True,short_and_annual
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,month,politics,election,True,True,short_and_annual
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,day,politics,election,True,True,short_and_annual
+ARG_2019_09_01,ARG,Argentina,Reintroducao de controles cambiais,day,economy,exchange_rate_inflation,True,True,short_and_annual
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,month,economy,debt,True,True,short_and_annual
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,day,economy,economic_policy,True,True,short_and_annual
+BRA_2021_2022,BRA,Brazil,Alta dos combustiveis,year_range,economy,energy_inflation,False,True,annual_only
+BRA_2025_2026,BRA,Brazil,Cenario fiscal juros inflacao e crescimento,year_range,economy,macroeconomy,False,True,annual_only
+BRA_2022_12_09,BRA,Brazil,Anuncio de Fernando Haddad na Fazenda,day,economy,economic_policy,True,True,short_and_annual
+BRA_2023_03_30,BRA,Brazil,Apresentacao do novo arcabouco fiscal,day,economy,fiscal,True,True,short_and_annual
+BRA_2022_12_21,BRA,Brazil,Aprovacao da PEC da Transicao,day,economy,fiscal,True,True,short_and_annual
+BRA_2021_12_02,BRA,Brazil,Aprovacao da PEC dos Precatorios,day,economy,fiscal_social,True,True,short_and_annual
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,day,politics,institutional_crisis,True,True,short_and_annual
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,day,economy,fiscal_social,True,True,short_and_annual
+BRA_2021_04_27,BRA,Brazil,CPI da Covid,day,politics,political_crisis,True,True,short_and_annual
+BRA_2022_02_24,BRA,Brazil,Choque global da guerra na Ucrania,day,external_shock,energy_inflation,True,True,short_and_annual
+BRA_2017_05_17,BRA,Brazil,Crise Joesley Day,day,politics,political_crisis,True,True,short_and_annual
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,day,politics,election,True,True,short_and_annual
+BRA_2022_10_30,BRA,Brazil,Eleicao Lula,day,politics,election,True,True,short_and_annual
+BRA_2024_10,BRA,Brazil,Eleicoes municipais,month,politics,election,True,True,short_and_annual
+BRA_2018_09_06,BRA,Brazil,Facada em Bolsonaro,day,politics,election_crisis,True,True,short_and_annual
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,day,politics,institutional,True,True,short_and_annual
+BRA_2018_05_21,BRA,Brazil,Inicio da greve dos caminhoneiros,day,economy,energy_inflation,True,True,short_and_annual
+BRA_2021_03_17,BRA,Brazil,Inicio do ciclo de alta da Selic,day,economy,monetary_policy,True,True,short_and_annual
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,day,economy,monetary_policy,True,True,short_and_annual
+BRA_2023_08_02,BRA,Brazil,Inicio do ciclo de corte da Selic de 2023,day,economy,monetary_policy,True,True,short_and_annual
+BRA_2023_05_16,BRA,Brazil,Mudanca na politica de precos da Petrobras,day,economy,energy,True,True,short_and_annual
+BRA_2023_08_31,BRA,Brazil,Novo arcabouco fiscal,day,economy,fiscal,True,True,short_and_annual
+BRA_2022_07_14,BRA,Brazil,PEC dos beneficios eleitorais,day,economy,fiscal_social,True,True,short_and_annual
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,day,external_shock,health_crisis,True,True,short_and_annual
+BRA_2018_04_07,BRA,Brazil,Prisao de Lula,day,politics,election_justice,True,True,short_and_annual
+BRA_2023_12_20,BRA,Brazil,Promulgacao da reforma tributaria,day,economy,fiscal,True,True,short_and_annual
+BRA_2019_11_12,BRA,Brazil,Reforma da Previdencia,day,economy,fiscal,True,True,short_and_annual
+BRA_2017_07_13,BRA,Brazil,Reforma trabalhista,day,economy,labor_market,True,True,short_and_annual
+BRA_2024_09_18,BRA,Brazil,Retomada do ciclo de alta da Selic,day,economy,monetary_policy,True,True,short_and_annual
+BRA_2019_11_08,BRA,Brazil,Soltura de Lula,day,politics,election_justice,True,True,short_and_annual
+BRA_2018_05_27,BRA,Brazil,Subvencao ao diesel apos greve,day,economy,energy_fiscal,True,True,short_and_annual
+BRA_2016_12_15,BRA,Brazil,Teto de gastos,day,economy,fiscal,True,True,short_and_annual
+BRA_2022_06_23,BRA,Brazil,Teto do ICMS dos combustiveis,day,economy,energy_fiscal,True,True,short_and_annual
+BRA_2021_02_19,BRA,Brazil,Troca no comando da Petrobras,day,economy,energy,True,True,short_and_annual
+USA_2021_2022,USA,United States,Alta inflacionaria,year_range,economy,inflation,False,True,annual_only
+USA_2025_2026,USA,United States,Decisoes economicas recentes,year_range,economy,macroeconomy,False,True,annual_only
+USA_2016_12_14,USA,United States,Alta de juros do Fed apos eleicao Trump,day,economy,monetary_policy,True,True,short_and_annual
+USA_2021_03_11,USA,United States,American Rescue Plan,day,economy,fiscal_social,True,True,short_and_annual
+USA_2020_03_27,USA,United States,CARES Act,day,economy,fiscal_social,True,True,short_and_annual
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,month,economy,monetary_policy,True,True,short_and_annual
+USA_2023_03_10,USA,United States,Colapso do Silicon Valley Bank,day,economy,financial_stability,True,True,short_and_annual
+USA_2020_03_03,USA,United States,Corte emergencial de juros do Fed,day,economy,monetary_policy,True,True,short_and_annual
+USA_2023_06_03,USA,United States,Debt ceiling deal 2023,day,economy,fiscal,True,True,short_and_annual
+USA_2020_11_03,USA,United States,Eleicao Biden,day,politics,election,True,True,short_and_annual
+USA_2016_11_08,USA,United States,Eleicao Trump,day,politics,election,True,True,short_and_annual
+USA_2024_11,USA,United States,Eleicao presidencial,month,politics,election,True,True,short_and_annual
+USA_2017_03_15,USA,United States,Fed acelera ciclo de alta de juros,day,economy,monetary_policy,True,True,short_and_annual
+USA_2023_07_26,USA,United States,Fed atinge pico do ciclo de juros,day,economy,monetary_policy,True,True,short_and_annual
+USA_2018_12_19,USA,United States,Fed eleva juros em meio a turbulencia de mercado,day,economy,monetary_policy,True,True,short_and_annual
+USA_2022_06_15,USA,United States,Fed faz alta de 75 pontos-base,day,economy,monetary_policy,True,True,short_and_annual
+USA_2024_09_18,USA,United States,Fed inicia ciclo de corte de juros,day,economy,monetary_policy,True,True,short_and_annual
+USA_2020_03_15,USA,United States,Fed leva juros a zero e relanca QE,day,economy,monetary_policy,True,True,short_and_annual
+USA_2023_05_01,USA,United States,First Republic Bank assumido pelo JPMorgan,day,economy,financial_stability,True,True,short_and_annual
+USA_2022_08_16,USA,United States,Inflation Reduction Act,day,economy,fiscal_energy,True,True,short_and_annual
+USA_2021_11_15,USA,United States,Infrastructure Investment and Jobs Act,day,economy,fiscal,True,True,short_and_annual
+USA_2018_07_06,USA,United States,Inicio das tarifas EUA-China,day,economy,trade,True,True,short_and_annual
+USA_2021_01_06,USA,United States,Invasao do Capitolio,day,politics,institutional_crisis,True,True,short_and_annual
+USA_2020_03,USA,United States,Pandemia Covid,month,external_shock,health_crisis,True,True,short_and_annual
+USA_2022_03_16,USA,United States,Primeira alta de juros do Fed no ciclo inflacionario,day,economy,monetary_policy,True,True,short_and_annual
+USA_2019_07_31,USA,United States,Primeiro corte de juros do Fed desde 2008,day,economy,monetary_policy,True,True,short_and_annual
+USA_2020_12_27,USA,United States,Segundo pacote fiscal Covid,day,economy,fiscal_social,True,True,short_and_annual
+USA_2018_03,USA,United States,Tarifas comerciais contra China,month,economy,trade,True,True,short_and_annual
+USA_2017_12_22,USA,United States,Tax Cuts and Jobs Act,day,economy,fiscal,True,True,short_and_annual

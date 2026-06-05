@@ -1,0 +1,5 @@
+series_slug,series_code,series_name,rows,start_date,end_date,missing_values,min_value,max_value,latest_value
+cambio,1,Taxa de cambio,2614,2016-01-04,2026-06-03,0,3.051,6.2086,5.0415
+gasolina,24369,Gasolina,124,2016-01-01,2026-04-01,0,5.1,14.9,5.8
+ipca,433,IPCA,124,2016-01-01,2026-04-01,0,-0.68,1.62,0.67
+selic,11,Selic,2614,2016-01-04,2026-06-03,0,0.007469,0.055131,0.0534

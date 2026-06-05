@@ -1,0 +1,15 @@
+country_code,indicator_slug,rows,events,first_event_year,last_event_year,max_abs_z_change_from_previous
+ARG,gdp_growth_annual_pct,24,24,2016,2024,1.437896199012628
+ARG,gdp_per_capita_current_usd,24,24,2016,2024,1.591466687981145
+ARG,inflation_annual_pct,23,23,2018,2024,1.3799006533055223
+ARG,unemployment_pct,25,25,2016,2025,1.2727808373303424
+BRA,central_government_debt_pct_gdp,33,33,2016,2024,1.9769574175526075
+BRA,gdp_growth_annual_pct,33,33,2016,2024,2.9847108926715635
+BRA,gdp_per_capita_current_usd,33,33,2016,2024,1.8967965736225658
+BRA,inflation_annual_pct,33,33,2016,2024,2.230517115821113
+BRA,unemployment_pct,34,34,2016,2025,1.4693856227723558
+USA,central_government_debt_pct_gdp,28,28,2016,2024,2.43302910661027
+USA,gdp_growth_annual_pct,28,28,2016,2024,4.151365969875456
+USA,gdp_per_capita_current_usd,28,28,2016,2024,0.7311239952396592
+USA,inflation_annual_pct,28,28,2016,2024,1.9045073522936955
+USA,unemployment_pct,29,29,2016,2025,3.434592269416152

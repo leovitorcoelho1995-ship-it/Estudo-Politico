@@ -1,0 +1,7 @@
+score_version,component,weight,note
+score_v1_1_trends_partial,impact_score,0.35,positive contribution
+score_v1_1_trends_partial,robustness_score,0.25,positive contribution
+score_v1_1_trends_partial,significance_score,0.15,positive contribution
+score_v1_1_trends_partial,persistence_score,0.15,positive contribution
+score_v1_1_trends_partial,trends_score,0.05,positive contribution
+score_v1_1_trends_partial,contamination_penalty,-0.05,negative weight means penalty

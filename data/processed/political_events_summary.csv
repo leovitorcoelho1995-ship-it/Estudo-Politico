@@ -1,0 +1,11 @@
+country_code,event_category,events,first_event,last_event
+ARG,economy,17,2018-06-01,2026-12-31
+ARG,external_shock,1,2020-03-01,2020-03-31
+ARG,politics,5,2016-01-01,2023-11-19
+ARG,society,2,2024-01-01,2024-12-31
+BRA,economy,22,2016-10-19,2026-12-31
+BRA,external_shock,2,2020-03-11,2022-02-24
+BRA,politics,10,2016-08-31,2024-10-31
+USA,economy,24,2016-12-14,2026-12-31
+USA,external_shock,1,2020-03-01,2020-03-31
+USA,politics,4,2016-11-08,2024-11-30

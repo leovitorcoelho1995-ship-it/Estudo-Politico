@@ -1,0 +1,89 @@
+event_id,country_code,country_name,start_date,end_date,date_precision,event_name,event_category,event_subcategory,source_note,start_year,end_year,duration_days
+ARG_2016_2019,ARG,Argentina,2016-01-01,2019-12-31,year_range,Governo Mauricio Macri,politics,economic_policy,Initial project plan section 9,2016,2019,1461
+ARG_2018_06,ARG,Argentina,2018-06-01,2018-06-30,month,Acordo com FMI,economy,debt_exchange_rate,Initial project plan section 9,2018,2018,30
+ARG_2018_08_30,ARG,Argentina,2018-08-30,2018-08-30,day,Crise cambial e alta emergencial dos juros,economy,debt_exchange_rate,Expansion criterion: market shock or formal policy decision,2018,2018,1
+ARG_2019_08_11,ARG,Argentina,2019-08-11,2019-08-11,day,Primarias com derrota de Macri,politics,election,Expansion criterion: front-page political-economic event,2019,2019,1
+ARG_2019_09_01,ARG,Argentina,2019-09-01,2019-09-01,day,Reintroducao de controles cambiais,economy,exchange_rate_inflation,Expansion criterion: formal exchange-rate policy decision,2019,2019,1
+ARG_2019_10_27,ARG,Argentina,2019-10-27,2019-10-27,day,Eleicao Alberto Fernandez,politics,election,Initial project plan section 9,2019,2019,1
+ARG_2020_2022,ARG,Argentina,2020-01-01,2022-12-31,year_range,Controles cambiais e crise inflacionaria,economy,exchange_rate_inflation,Initial project plan section 9,2020,2022,1096
+ARG_2020_03,ARG,Argentina,2020-03-01,2020-03-31,month,Pandemia Covid,external_shock,health_crisis,Initial project plan section 9,2020,2020,31
+ARG_2020_05_22,ARG,Argentina,2020-05-22,2020-05-22,day,Default da divida soberana,economy,debt,Expansion criterion: sovereign debt event,2020,2020,1
+ARG_2020_08_04,ARG,Argentina,2020-08-04,2020-08-04,day,Acordo de reestruturacao da divida,economy,debt,Expansion criterion: formal debt negotiation milestone,2020,2020,1
+ARG_2022_03,ARG,Argentina,2022-03-01,2022-03-31,month,Renegociacao com FMI,economy,debt,Initial project plan section 9,2022,2022,31
+ARG_2022_07_02,ARG,Argentina,2022-07-02,2022-07-02,day,Renuncia de Martin Guzman,economy,economic_policy,Expansion criterion: economy minister change,2022,2022,1
+ARG_2022_08_03,ARG,Argentina,2022-08-03,2022-08-03,day,Posse de Sergio Massa na Economia,economy,economic_policy,Expansion criterion: economy minister change,2022,2022,1
+ARG_2023_08,ARG,Argentina,2023-08-01,2023-08-31,month,Primarias com Milei forte,politics,election,Initial project plan section 9,2023,2023,31
+ARG_2023_08_14,ARG,Argentina,2023-08-14,2023-08-14,day,Desvalorizacao pos-PASO,economy,exchange_rate_inflation,Expansion criterion: formal exchange-rate policy decision after election shock,2023,2023,1
+ARG_2023_11_19,ARG,Argentina,2023-11-19,2023-11-19,day,Eleicao Milei,politics,election,Initial project plan section 9,2023,2023,1
+ARG_2023_12,ARG,Argentina,2023-12-01,2023-12-31,month,Desvalorizacao inicial do peso,economy,exchange_rate_inflation,Initial project plan section 9,2023,2023,31
+ARG_2023_12_12,ARG,Argentina,2023-12-12,2023-12-12,day,Pacote Caputo e forte desvalorizacao,economy,exchange_rate_inflation,Expansion criterion: formal economic policy package,2023,2023,1
+ARG_2023_12_20,ARG,Argentina,2023-12-20,2023-12-20,day,DNU de desregulacao de Milei,economy,economic_policy,Expansion criterion: formal institutional-economic decision,2023,2023,1
+ARG_2024_FISCAL_REFORMS,ARG,Argentina,2024-01-01,2024-12-31,year,Ajuste fiscal e reformas,economy,fiscal_social,Initial project plan section 9,2024,2024,366
+ARG_2024_PROTESTS,ARG,Argentina,2024-01-01,2024-12-31,year,Protestos e greve geral,society,social_reaction,Initial project plan section 9,2024,2024,366
+ARG_2024_01_24,ARG,Argentina,2024-01-24,2024-01-24,day,Greve geral contra reformas,society,social_reaction,Expansion criterion: front-page social reaction to economic reform,2024,2024,1
+ARG_2024_04_30,ARG,Argentina,2024-04-30,2024-04-30,day,Aprovacao inicial da Lei Bases na Camara,economy,fiscal_social,Expansion criterion: formal reform milestone,2024,2024,1
+ARG_2024_06_12,ARG,Argentina,2024-06-12,2024-06-12,day,Aprovacao da Lei Bases no Senado,economy,fiscal_social,Expansion criterion: formal reform milestone,2024,2024,1
+ARG_2025_2026,ARG,Argentina,2025-01-01,2026-12-31,year_range,Continuidade das reformas,economy,macroeconomy,Initial project plan section 9,2025,2026,730
+BRA_2016_08_31,BRA,Brazil,2016-08-31,2016-08-31,day,Impeachment Dilma,politics,institutional,Initial project plan section 9,2016,2016,1
+BRA_2016_10_19,BRA,Brazil,2016-10-19,2016-10-19,day,Inicio do ciclo de corte da Selic,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2016,2016,1
+BRA_2016_12_15,BRA,Brazil,2016-12-15,2016-12-15,day,Teto de gastos,economy,fiscal,Initial project plan section 9,2016,2016,1
+BRA_2017_05_17,BRA,Brazil,2017-05-17,2017-05-17,day,Crise Joesley Day,politics,political_crisis,Expansion criterion: front-page institutional shock with market impact,2017,2017,1
+BRA_2017_07_13,BRA,Brazil,2017-07-13,2017-07-13,day,Reforma trabalhista,economy,labor_market,Initial project plan section 9,2017,2017,1
+BRA_2018_04_07,BRA,Brazil,2018-04-07,2018-04-07,day,Prisao de Lula,politics,election_justice,Initial project plan section 9,2018,2018,1
+BRA_2018_05_21,BRA,Brazil,2018-05-21,2018-05-21,day,Inicio da greve dos caminhoneiros,economy,energy_inflation,Expansion criterion: front-page supply and fuel shock,2018,2018,1
+BRA_2018_05_27,BRA,Brazil,2018-05-27,2018-05-27,day,Subvencao ao diesel apos greve,economy,energy_fiscal,Expansion criterion: formal fiscal-energy policy response,2018,2018,1
+BRA_2018_09_06,BRA,Brazil,2018-09-06,2018-09-06,day,Facada em Bolsonaro,politics,election_crisis,Initial project plan section 9,2018,2018,1
+BRA_2018_10_28,BRA,Brazil,2018-10-28,2018-10-28,day,Eleicao Bolsonaro,politics,election,Initial project plan section 9,2018,2018,1
+BRA_2019_11_08,BRA,Brazil,2019-11-08,2019-11-08,day,Soltura de Lula,politics,election_justice,Expansion criterion: front-page political event with expected market attention,2019,2019,1
+BRA_2019_11_12,BRA,Brazil,2019-11-12,2019-11-12,day,Reforma da Previdencia,economy,fiscal,Initial project plan section 9,2019,2019,1
+BRA_2020_03_11,BRA,Brazil,2020-03-11,2020-03-11,day,Pandemia Covid,external_shock,health_crisis,Initial project plan section 9,2020,2020,1
+BRA_2020_04_02,BRA,Brazil,2020-04-02,2020-04-02,day,Auxilio emergencial,economy,fiscal_social,Initial project plan section 9,2020,2020,1
+BRA_2021_2022,BRA,Brazil,2021-01-01,2022-12-31,year_range,Alta dos combustiveis,economy,energy_inflation,Initial project plan section 9,2021,2022,730
+BRA_2021_02_19,BRA,Brazil,2021-02-19,2021-02-19,day,Troca no comando da Petrobras,economy,energy,Expansion criterion: formal state-controlled company decision with fuel-price impact,2021,2021,1
+BRA_2021_03_17,BRA,Brazil,2021-03-17,2021-03-17,day,Inicio do ciclo de alta da Selic,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2021,2021,1
+BRA_2021_04_27,BRA,Brazil,2021-04-27,2021-04-27,day,CPI da Covid,politics,political_crisis,Initial project plan section 9,2021,2021,1
+BRA_2021_12_02,BRA,Brazil,2021-12-02,2021-12-02,day,Aprovacao da PEC dos Precatorios,economy,fiscal_social,Expansion criterion: formal fiscal policy decision,2021,2021,1
+BRA_2022_02_24,BRA,Brazil,2022-02-24,2022-02-24,day,Choque global da guerra na Ucrania,external_shock,energy_inflation,Expansion criterion: external shock with fuel and inflation channel,2022,2022,1
+BRA_2022_06_23,BRA,Brazil,2022-06-23,2022-06-23,day,Teto do ICMS dos combustiveis,economy,energy_fiscal,Initial project plan section 9,2022,2022,1
+BRA_2022_07_14,BRA,Brazil,2022-07-14,2022-07-14,day,PEC dos beneficios eleitorais,economy,fiscal_social,Expansion criterion: formal fiscal policy decision,2022,2022,1
+BRA_2022_10_30,BRA,Brazil,2022-10-30,2022-10-30,day,Eleicao Lula,politics,election,Initial project plan section 9,2022,2022,1
+BRA_2022_12_09,BRA,Brazil,2022-12-09,2022-12-09,day,Anuncio de Fernando Haddad na Fazenda,economy,economic_policy,Expansion criterion: economy minister appointment,2022,2022,1
+BRA_2022_12_21,BRA,Brazil,2022-12-21,2022-12-21,day,Aprovacao da PEC da Transicao,economy,fiscal,Expansion criterion: formal fiscal policy decision,2022,2022,1
+BRA_2023_01_08,BRA,Brazil,2023-01-08,2023-01-08,day,Atos de 8 de janeiro,politics,institutional_crisis,Initial project plan section 9,2023,2023,1
+BRA_2023_03_30,BRA,Brazil,2023-03-30,2023-03-30,day,Apresentacao do novo arcabouco fiscal,economy,fiscal,Expansion criterion: formal fiscal framework announcement,2023,2023,1
+BRA_2023_05_16,BRA,Brazil,2023-05-16,2023-05-16,day,Mudanca na politica de precos da Petrobras,economy,energy,Initial project plan section 9,2023,2023,1
+BRA_2023_08_02,BRA,Brazil,2023-08-02,2023-08-02,day,Inicio do ciclo de corte da Selic de 2023,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2023,2023,1
+BRA_2023_08_31,BRA,Brazil,2023-08-31,2023-08-31,day,Novo arcabouco fiscal,economy,fiscal,Initial project plan section 9,2023,2023,1
+BRA_2023_12_20,BRA,Brazil,2023-12-20,2023-12-20,day,Promulgacao da reforma tributaria,economy,fiscal,Expansion criterion: formal structural reform milestone,2023,2023,1
+BRA_2024_09_18,BRA,Brazil,2024-09-18,2024-09-18,day,Retomada do ciclo de alta da Selic,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2024,2024,1
+BRA_2024_10,BRA,Brazil,2024-10-01,2024-10-31,month,Eleicoes municipais,politics,election,Initial project plan section 9,2024,2024,31
+BRA_2025_2026,BRA,Brazil,2025-01-01,2026-12-31,year_range,Cenario fiscal juros inflacao e crescimento,economy,macroeconomy,Initial project plan section 9,2025,2026,730
+USA_2016_11_08,USA,United States,2016-11-08,2016-11-08,day,Eleicao Trump,politics,election,Initial project plan section 9,2016,2016,1
+USA_2016_12_14,USA,United States,2016-12-14,2016-12-14,day,Alta de juros do Fed apos eleicao Trump,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2016,2016,1
+USA_2017_03_15,USA,United States,2017-03-15,2017-03-15,day,Fed acelera ciclo de alta de juros,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2017,2017,1
+USA_2017_12_22,USA,United States,2017-12-22,2017-12-22,day,Tax Cuts and Jobs Act,economy,fiscal,Initial project plan section 9,2017,2017,1
+USA_2018_03,USA,United States,2018-03-01,2018-03-31,month,Tarifas comerciais contra China,economy,trade,Initial project plan section 9,2018,2018,31
+USA_2018_07_06,USA,United States,2018-07-06,2018-07-06,day,Inicio das tarifas EUA-China,economy,trade,Expansion criterion: formal trade policy decision,2018,2018,1
+USA_2018_12_19,USA,United States,2018-12-19,2018-12-19,day,Fed eleva juros em meio a turbulencia de mercado,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2018,2018,1
+USA_2019_07_31,USA,United States,2019-07-31,2019-07-31,day,Primeiro corte de juros do Fed desde 2008,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2019,2019,1
+USA_2020_03,USA,United States,2020-03-01,2020-03-31,month,Pandemia Covid,external_shock,health_crisis,Initial project plan section 9,2020,2020,31
+USA_2020_03_03,USA,United States,2020-03-03,2020-03-03,day,Corte emergencial de juros do Fed,economy,monetary_policy,Expansion criterion: emergency monetary policy decision,2020,2020,1
+USA_2020_03_15,USA,United States,2020-03-15,2020-03-15,day,Fed leva juros a zero e relanca QE,economy,monetary_policy,Expansion criterion: emergency monetary policy decision,2020,2020,1
+USA_2020_03_27,USA,United States,2020-03-27,2020-03-27,day,CARES Act,economy,fiscal_social,Initial project plan section 9,2020,2020,1
+USA_2020_11_03,USA,United States,2020-11-03,2020-11-03,day,Eleicao Biden,politics,election,Initial project plan section 9,2020,2020,1
+USA_2020_12_27,USA,United States,2020-12-27,2020-12-27,day,Segundo pacote fiscal Covid,economy,fiscal_social,Expansion criterion: formal fiscal stimulus package,2020,2020,1
+USA_2021_2022,USA,United States,2021-01-01,2022-12-31,year_range,Alta inflacionaria,economy,inflation,Initial project plan section 9,2021,2022,730
+USA_2021_01_06,USA,United States,2021-01-06,2021-01-06,day,Invasao do Capitolio,politics,institutional_crisis,Initial project plan section 9,2021,2021,1
+USA_2021_03_11,USA,United States,2021-03-11,2021-03-11,day,American Rescue Plan,economy,fiscal_social,Initial project plan section 9,2021,2021,1
+USA_2021_11_15,USA,United States,2021-11-15,2021-11-15,day,Infrastructure Investment and Jobs Act,economy,fiscal,Expansion criterion: formal fiscal infrastructure package,2021,2021,1
+USA_2022_03,USA,United States,2022-03-01,2022-03-31,month,Ciclo de alta de juros do Fed,economy,monetary_policy,Initial project plan section 9,2022,2022,31
+USA_2022_03_16,USA,United States,2022-03-16,2022-03-16,day,Primeira alta de juros do Fed no ciclo inflacionario,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2022,2022,1
+USA_2022_06_15,USA,United States,2022-06-15,2022-06-15,day,Fed faz alta de 75 pontos-base,economy,monetary_policy,Expansion criterion: unusually large formal monetary policy decision,2022,2022,1
+USA_2022_08_16,USA,United States,2022-08-16,2022-08-16,day,Inflation Reduction Act,economy,fiscal_energy,Initial project plan section 9,2022,2022,1
+USA_2023_03_10,USA,United States,2023-03-10,2023-03-10,day,Colapso do Silicon Valley Bank,economy,financial_stability,Expansion criterion: banking shock with macro-financial transmission,2023,2023,1
+USA_2023_05_01,USA,United States,2023-05-01,2023-05-01,day,First Republic Bank assumido pelo JPMorgan,economy,financial_stability,Expansion criterion: banking shock with macro-financial transmission,2023,2023,1
+USA_2023_06_03,USA,United States,2023-06-03,2023-06-03,day,Debt ceiling deal 2023,economy,fiscal,Expansion criterion: formal debt ceiling resolution,2023,2023,1
+USA_2023_07_26,USA,United States,2023-07-26,2023-07-26,day,Fed atinge pico do ciclo de juros,economy,monetary_policy,Expansion criterion: formal monetary policy milestone,2023,2023,1
+USA_2024_09_18,USA,United States,2024-09-18,2024-09-18,day,Fed inicia ciclo de corte de juros,economy,monetary_policy,Expansion criterion: formal monetary policy decision,2024,2024,1
+USA_2024_11,USA,United States,2024-11-01,2024-11-30,month,Eleicao presidencial,politics,election,Initial project plan section 9,2024,2024,30
+USA_2025_2026,USA,United States,2025-01-01,2026-12-31,year_range,Decisoes economicas recentes,economy,macroeconomy,Initial project plan section 9,2025,2026,730

@@ -1,0 +1,957 @@
+country_code,country_name,date,series_slug,series_code,series_name,value,source
+USA,United States,2016-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,237.652,FRED
+USA,United States,2016-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,237.336,FRED
+USA,United States,2016-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,238.080,FRED
+USA,United States,2016-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,238.992,FRED
+USA,United States,2016-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,239.557,FRED
+USA,United States,2016-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,240.222,FRED
+USA,United States,2016-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,240.101,FRED
+USA,United States,2016-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,240.545,FRED
+USA,United States,2016-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,241.176,FRED
+USA,United States,2016-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,241.741,FRED
+USA,United States,2016-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,242.026,FRED
+USA,United States,2016-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,242.637,FRED
+USA,United States,2017-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,243.618,FRED
+USA,United States,2017-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,244.006,FRED
+USA,United States,2017-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,243.892,FRED
+USA,United States,2017-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,244.193,FRED
+USA,United States,2017-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,244.004,FRED
+USA,United States,2017-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,244.163,FRED
+USA,United States,2017-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,244.243,FRED
+USA,United States,2017-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,245.183,FRED
+USA,United States,2017-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,246.435,FRED
+USA,United States,2017-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,246.626,FRED
+USA,United States,2017-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,247.284,FRED
+USA,United States,2017-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,247.805,FRED
+USA,United States,2018-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,248.859,FRED
+USA,United States,2018-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,249.529,FRED
+USA,United States,2018-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,249.577,FRED
+USA,United States,2018-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,250.227,FRED
+USA,United States,2018-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,250.792,FRED
+USA,United States,2018-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,251.018,FRED
+USA,United States,2018-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,251.214,FRED
+USA,United States,2018-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,251.663,FRED
+USA,United States,2018-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,252.182,FRED
+USA,United States,2018-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,252.772,FRED
+USA,United States,2018-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,252.594,FRED
+USA,United States,2018-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,252.767,FRED
+USA,United States,2019-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,252.561,FRED
+USA,United States,2019-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,253.319,FRED
+USA,United States,2019-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,254.277,FRED
+USA,United States,2019-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,255.233,FRED
+USA,United States,2019-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,255.296,FRED
+USA,United States,2019-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,255.213,FRED
+USA,United States,2019-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,255.802,FRED
+USA,United States,2019-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,256.036,FRED
+USA,United States,2019-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,256.430,FRED
+USA,United States,2019-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,257.155,FRED
+USA,United States,2019-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,257.879,FRED
+USA,United States,2019-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,258.630,FRED
+USA,United States,2020-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,259.127,FRED
+USA,United States,2020-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,259.250,FRED
+USA,United States,2020-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,258.076,FRED
+USA,United States,2020-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,256.032,FRED
+USA,United States,2020-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,255.802,FRED
+USA,United States,2020-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,257.042,FRED
+USA,United States,2020-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,258.352,FRED
+USA,United States,2020-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,259.316,FRED
+USA,United States,2020-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,259.997,FRED
+USA,United States,2020-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,260.319,FRED
+USA,United States,2020-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,260.911,FRED
+USA,United States,2020-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,262.045,FRED
+USA,United States,2021-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,262.687,FRED
+USA,United States,2021-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,263.579,FRED
+USA,United States,2021-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,264.961,FRED
+USA,United States,2021-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,266.614,FRED
+USA,United States,2021-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,268.383,FRED
+USA,United States,2021-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,270.654,FRED
+USA,United States,2021-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,271.903,FRED
+USA,United States,2021-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,272.676,FRED
+USA,United States,2021-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,273.910,FRED
+USA,United States,2021-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,276.550,FRED
+USA,United States,2021-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,278.919,FRED
+USA,United States,2021-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,280.845,FRED
+USA,United States,2022-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,282.543,FRED
+USA,United States,2022-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,284.500,FRED
+USA,United States,2022-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,287.674,FRED
+USA,United States,2022-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,288.561,FRED
+USA,United States,2022-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,291.298,FRED
+USA,United States,2022-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,294.957,FRED
+USA,United States,2022-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,294.913,FRED
+USA,United States,2022-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,295.097,FRED
+USA,United States,2022-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,296.349,FRED
+USA,United States,2022-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,298.007,FRED
+USA,United States,2022-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,298.786,FRED
+USA,United States,2022-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,298.832,FRED
+USA,United States,2023-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,300.420,FRED
+USA,United States,2023-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,301.450,FRED
+USA,United States,2023-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,301.821,FRED
+USA,United States,2023-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,302.845,FRED
+USA,United States,2023-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,303.334,FRED
+USA,United States,2023-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,304.014,FRED
+USA,United States,2023-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,304.609,FRED
+USA,United States,2023-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,306.082,FRED
+USA,United States,2023-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,307.276,FRED
+USA,United States,2023-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,307.696,FRED
+USA,United States,2023-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,308.148,FRED
+USA,United States,2023-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,308.741,FRED
+USA,United States,2024-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,309.698,FRED
+USA,United States,2024-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,310.967,FRED
+USA,United States,2024-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,312.345,FRED
+USA,United States,2024-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,313.023,FRED
+USA,United States,2024-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,313.175,FRED
+USA,United States,2024-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,313.044,FRED
+USA,United States,2024-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,313.569,FRED
+USA,United States,2024-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,314.062,FRED
+USA,United States,2024-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,314.732,FRED
+USA,United States,2024-10-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,315.631,FRED
+USA,United States,2024-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,316.528,FRED
+USA,United States,2024-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,317.604,FRED
+USA,United States,2025-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,318.961,FRED
+USA,United States,2025-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,319.679,FRED
+USA,United States,2025-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,319.785,FRED
+USA,United States,2025-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,320.302,FRED
+USA,United States,2025-05-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,320.620,FRED
+USA,United States,2025-06-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,321.435,FRED
+USA,United States,2025-07-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,322.169,FRED
+USA,United States,2025-08-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,323.291,FRED
+USA,United States,2025-09-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,324.245,FRED
+USA,United States,2025-11-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,325.063,FRED
+USA,United States,2025-12-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,326.031,FRED
+USA,United States,2026-01-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,326.588,FRED
+USA,United States,2026-02-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,327.460,FRED
+USA,United States,2026-03-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,330.293,FRED
+USA,United States,2026-04-01,cpi,CPIAUCSL,Consumer Price Index for All Urban Consumers,332.407,FRED
+USA,United States,2016-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.34,FRED
+USA,United States,2016-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.38,FRED
+USA,United States,2016-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.36,FRED
+USA,United States,2016-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.37,FRED
+USA,United States,2016-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.37,FRED
+USA,United States,2016-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.38,FRED
+USA,United States,2016-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.39,FRED
+USA,United States,2016-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.40,FRED
+USA,United States,2016-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.40,FRED
+USA,United States,2016-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.40,FRED
+USA,United States,2016-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.41,FRED
+USA,United States,2016-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.54,FRED
+USA,United States,2017-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.65,FRED
+USA,United States,2017-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.66,FRED
+USA,United States,2017-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.79,FRED
+USA,United States,2017-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.90,FRED
+USA,United States,2017-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.91,FRED
+USA,United States,2017-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.04,FRED
+USA,United States,2017-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.15,FRED
+USA,United States,2017-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.16,FRED
+USA,United States,2017-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.15,FRED
+USA,United States,2017-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.15,FRED
+USA,United States,2017-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.16,FRED
+USA,United States,2017-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.30,FRED
+USA,United States,2018-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.41,FRED
+USA,United States,2018-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.42,FRED
+USA,United States,2018-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.51,FRED
+USA,United States,2018-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.69,FRED
+USA,United States,2018-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.70,FRED
+USA,United States,2018-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.82,FRED
+USA,United States,2018-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.91,FRED
+USA,United States,2018-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.91,FRED
+USA,United States,2018-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.95,FRED
+USA,United States,2018-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.19,FRED
+USA,United States,2018-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.20,FRED
+USA,United States,2018-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.27,FRED
+USA,United States,2019-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.40,FRED
+USA,United States,2019-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.40,FRED
+USA,United States,2019-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.41,FRED
+USA,United States,2019-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.42,FRED
+USA,United States,2019-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.39,FRED
+USA,United States,2019-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.38,FRED
+USA,United States,2019-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.40,FRED
+USA,United States,2019-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.13,FRED
+USA,United States,2019-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.04,FRED
+USA,United States,2019-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.83,FRED
+USA,United States,2019-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.55,FRED
+USA,United States,2019-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.55,FRED
+USA,United States,2020-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.55,FRED
+USA,United States,2020-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.58,FRED
+USA,United States,2020-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.65,FRED
+USA,United States,2020-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.05,FRED
+USA,United States,2020-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.05,FRED
+USA,United States,2020-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2020-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2020-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.10,FRED
+USA,United States,2020-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2020-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2020-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2020-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2021-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2021-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2021-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.07,FRED
+USA,United States,2021-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.07,FRED
+USA,United States,2021-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.06,FRED
+USA,United States,2021-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2021-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.10,FRED
+USA,United States,2021-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.09,FRED
+USA,United States,2021-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2021-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2021-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2021-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2022-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2022-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.08,FRED
+USA,United States,2022-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.20,FRED
+USA,United States,2022-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.33,FRED
+USA,United States,2022-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,0.77,FRED
+USA,United States,2022-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.21,FRED
+USA,United States,2022-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,1.68,FRED
+USA,United States,2022-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.33,FRED
+USA,United States,2022-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,2.56,FRED
+USA,United States,2022-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.08,FRED
+USA,United States,2022-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.78,FRED
+USA,United States,2022-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.10,FRED
+USA,United States,2023-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2023-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.57,FRED
+USA,United States,2023-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.65,FRED
+USA,United States,2023-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.83,FRED
+USA,United States,2023-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.06,FRED
+USA,United States,2023-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.08,FRED
+USA,United States,2023-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.12,FRED
+USA,United States,2023-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2023-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2023-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2023-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2023-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.33,FRED
+USA,United States,2024-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,5.13,FRED
+USA,United States,2024-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.83,FRED
+USA,United States,2024-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.64,FRED
+USA,United States,2024-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.48,FRED
+USA,United States,2025-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-06-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-07-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-08-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.33,FRED
+USA,United States,2025-09-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.22,FRED
+USA,United States,2025-10-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,4.09,FRED
+USA,United States,2025-11-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.88,FRED
+USA,United States,2025-12-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.72,FRED
+USA,United States,2026-01-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.64,FRED
+USA,United States,2026-02-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.64,FRED
+USA,United States,2026-03-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.64,FRED
+USA,United States,2026-04-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.64,FRED
+USA,United States,2026-05-01,fed_funds,FEDFUNDS,Effective Federal Funds Rate,3.63,FRED
+USA,United States,2016-01-01,unemployment,UNRATE,Unemployment Rate,4.8,FRED
+USA,United States,2016-02-01,unemployment,UNRATE,Unemployment Rate,4.9,FRED
+USA,United States,2016-03-01,unemployment,UNRATE,Unemployment Rate,5.0,FRED
+USA,United States,2016-04-01,unemployment,UNRATE,Unemployment Rate,5.1,FRED
+USA,United States,2016-05-01,unemployment,UNRATE,Unemployment Rate,4.8,FRED
+USA,United States,2016-06-01,unemployment,UNRATE,Unemployment Rate,4.9,FRED
+USA,United States,2016-07-01,unemployment,UNRATE,Unemployment Rate,4.8,FRED
+USA,United States,2016-08-01,unemployment,UNRATE,Unemployment Rate,4.9,FRED
+USA,United States,2016-09-01,unemployment,UNRATE,Unemployment Rate,5.0,FRED
+USA,United States,2016-10-01,unemployment,UNRATE,Unemployment Rate,4.9,FRED
+USA,United States,2016-11-01,unemployment,UNRATE,Unemployment Rate,4.7,FRED
+USA,United States,2016-12-01,unemployment,UNRATE,Unemployment Rate,4.7,FRED
+USA,United States,2017-01-01,unemployment,UNRATE,Unemployment Rate,4.7,FRED
+USA,United States,2017-02-01,unemployment,UNRATE,Unemployment Rate,4.6,FRED
+USA,United States,2017-03-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2017-04-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2017-05-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2017-06-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2017-07-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2017-08-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2017-09-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2017-10-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2017-11-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2017-12-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2018-01-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2018-02-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2018-03-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2018-04-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2018-05-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2018-06-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2018-07-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2018-08-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2018-09-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2018-10-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2018-11-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2018-12-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2019-01-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2019-02-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2019-03-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2019-04-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2019-05-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2019-06-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2019-07-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2019-08-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2019-09-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2019-10-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2019-11-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2019-12-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2020-01-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2020-02-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2020-03-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2020-04-01,unemployment,UNRATE,Unemployment Rate,14.8,FRED
+USA,United States,2020-05-01,unemployment,UNRATE,Unemployment Rate,13.2,FRED
+USA,United States,2020-06-01,unemployment,UNRATE,Unemployment Rate,11.0,FRED
+USA,United States,2020-07-01,unemployment,UNRATE,Unemployment Rate,10.2,FRED
+USA,United States,2020-08-01,unemployment,UNRATE,Unemployment Rate,8.4,FRED
+USA,United States,2020-09-01,unemployment,UNRATE,Unemployment Rate,7.8,FRED
+USA,United States,2020-10-01,unemployment,UNRATE,Unemployment Rate,6.9,FRED
+USA,United States,2020-11-01,unemployment,UNRATE,Unemployment Rate,6.7,FRED
+USA,United States,2020-12-01,unemployment,UNRATE,Unemployment Rate,6.7,FRED
+USA,United States,2021-01-01,unemployment,UNRATE,Unemployment Rate,6.4,FRED
+USA,United States,2021-02-01,unemployment,UNRATE,Unemployment Rate,6.2,FRED
+USA,United States,2021-03-01,unemployment,UNRATE,Unemployment Rate,6.1,FRED
+USA,United States,2021-04-01,unemployment,UNRATE,Unemployment Rate,6.1,FRED
+USA,United States,2021-05-01,unemployment,UNRATE,Unemployment Rate,5.8,FRED
+USA,United States,2021-06-01,unemployment,UNRATE,Unemployment Rate,5.9,FRED
+USA,United States,2021-07-01,unemployment,UNRATE,Unemployment Rate,5.4,FRED
+USA,United States,2021-08-01,unemployment,UNRATE,Unemployment Rate,5.1,FRED
+USA,United States,2021-09-01,unemployment,UNRATE,Unemployment Rate,4.7,FRED
+USA,United States,2021-10-01,unemployment,UNRATE,Unemployment Rate,4.5,FRED
+USA,United States,2021-11-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2021-12-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2022-01-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2022-02-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2022-03-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2022-04-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2022-05-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2022-06-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2022-07-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2022-08-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2022-09-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2022-10-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2022-11-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2022-12-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2023-01-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2023-02-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2023-03-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2023-04-01,unemployment,UNRATE,Unemployment Rate,3.4,FRED
+USA,United States,2023-05-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2023-06-01,unemployment,UNRATE,Unemployment Rate,3.6,FRED
+USA,United States,2023-07-01,unemployment,UNRATE,Unemployment Rate,3.5,FRED
+USA,United States,2023-08-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2023-09-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2023-10-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2023-11-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2023-12-01,unemployment,UNRATE,Unemployment Rate,3.8,FRED
+USA,United States,2024-01-01,unemployment,UNRATE,Unemployment Rate,3.7,FRED
+USA,United States,2024-02-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2024-03-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2024-04-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2024-05-01,unemployment,UNRATE,Unemployment Rate,3.9,FRED
+USA,United States,2024-06-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2024-07-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2024-08-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2024-09-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2024-10-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2024-11-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2024-12-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2025-01-01,unemployment,UNRATE,Unemployment Rate,4.0,FRED
+USA,United States,2025-02-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2025-03-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2025-04-01,unemployment,UNRATE,Unemployment Rate,4.2,FRED
+USA,United States,2025-05-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2025-06-01,unemployment,UNRATE,Unemployment Rate,4.1,FRED
+USA,United States,2025-07-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2025-08-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2025-09-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2025-11-01,unemployment,UNRATE,Unemployment Rate,4.5,FRED
+USA,United States,2025-12-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2026-01-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2026-02-01,unemployment,UNRATE,Unemployment Rate,4.4,FRED
+USA,United States,2026-03-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2026-04-01,unemployment,UNRATE,Unemployment Rate,4.3,FRED
+USA,United States,2016-01-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.028,FRED
+USA,United States,2016-01-11,gasoline,GASREGW,US Regular All Formulations Gas Price,1.996,FRED
+USA,United States,2016-01-18,gasoline,GASREGW,US Regular All Formulations Gas Price,1.914,FRED
+USA,United States,2016-01-25,gasoline,GASREGW,US Regular All Formulations Gas Price,1.856,FRED
+USA,United States,2016-02-01,gasoline,GASREGW,US Regular All Formulations Gas Price,1.822,FRED
+USA,United States,2016-02-08,gasoline,GASREGW,US Regular All Formulations Gas Price,1.759,FRED
+USA,United States,2016-02-15,gasoline,GASREGW,US Regular All Formulations Gas Price,1.724,FRED
+USA,United States,2016-02-22,gasoline,GASREGW,US Regular All Formulations Gas Price,1.730,FRED
+USA,United States,2016-02-29,gasoline,GASREGW,US Regular All Formulations Gas Price,1.783,FRED
+USA,United States,2016-03-07,gasoline,GASREGW,US Regular All Formulations Gas Price,1.841,FRED
+USA,United States,2016-03-14,gasoline,GASREGW,US Regular All Formulations Gas Price,1.961,FRED
+USA,United States,2016-03-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.007,FRED
+USA,United States,2016-03-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.066,FRED
+USA,United States,2016-04-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.083,FRED
+USA,United States,2016-04-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.069,FRED
+USA,United States,2016-04-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.137,FRED
+USA,United States,2016-04-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.162,FRED
+USA,United States,2016-05-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.240,FRED
+USA,United States,2016-05-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.220,FRED
+USA,United States,2016-05-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.242,FRED
+USA,United States,2016-05-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.300,FRED
+USA,United States,2016-05-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.339,FRED
+USA,United States,2016-06-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.381,FRED
+USA,United States,2016-06-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.399,FRED
+USA,United States,2016-06-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.353,FRED
+USA,United States,2016-06-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.329,FRED
+USA,United States,2016-07-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.291,FRED
+USA,United States,2016-07-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.253,FRED
+USA,United States,2016-07-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.230,FRED
+USA,United States,2016-07-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.182,FRED
+USA,United States,2016-08-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.159,FRED
+USA,United States,2016-08-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.150,FRED
+USA,United States,2016-08-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.149,FRED
+USA,United States,2016-08-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.193,FRED
+USA,United States,2016-08-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.237,FRED
+USA,United States,2016-09-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.223,FRED
+USA,United States,2016-09-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.202,FRED
+USA,United States,2016-09-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.225,FRED
+USA,United States,2016-09-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.224,FRED
+USA,United States,2016-10-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.245,FRED
+USA,United States,2016-10-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.272,FRED
+USA,United States,2016-10-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.257,FRED
+USA,United States,2016-10-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.243,FRED
+USA,United States,2016-10-31,gasoline,GASREGW,US Regular All Formulations Gas Price,2.230,FRED
+USA,United States,2016-11-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.233,FRED
+USA,United States,2016-11-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.184,FRED
+USA,United States,2016-11-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.155,FRED
+USA,United States,2016-11-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.154,FRED
+USA,United States,2016-12-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.208,FRED
+USA,United States,2016-12-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.236,FRED
+USA,United States,2016-12-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.264,FRED
+USA,United States,2016-12-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.309,FRED
+USA,United States,2017-01-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.377,FRED
+USA,United States,2017-01-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.388,FRED
+USA,United States,2017-01-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.358,FRED
+USA,United States,2017-01-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.326,FRED
+USA,United States,2017-01-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.296,FRED
+USA,United States,2017-02-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.293,FRED
+USA,United States,2017-02-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.307,FRED
+USA,United States,2017-02-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.302,FRED
+USA,United States,2017-02-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.314,FRED
+USA,United States,2017-03-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.341,FRED
+USA,United States,2017-03-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.323,FRED
+USA,United States,2017-03-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.321,FRED
+USA,United States,2017-03-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.315,FRED
+USA,United States,2017-04-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.360,FRED
+USA,United States,2017-04-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.424,FRED
+USA,United States,2017-04-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.436,FRED
+USA,United States,2017-04-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.449,FRED
+USA,United States,2017-05-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.411,FRED
+USA,United States,2017-05-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.372,FRED
+USA,United States,2017-05-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.369,FRED
+USA,United States,2017-05-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.399,FRED
+USA,United States,2017-05-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.406,FRED
+USA,United States,2017-06-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.414,FRED
+USA,United States,2017-06-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.366,FRED
+USA,United States,2017-06-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.318,FRED
+USA,United States,2017-06-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.288,FRED
+USA,United States,2017-07-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.260,FRED
+USA,United States,2017-07-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.297,FRED
+USA,United States,2017-07-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.278,FRED
+USA,United States,2017-07-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.312,FRED
+USA,United States,2017-07-31,gasoline,GASREGW,US Regular All Formulations Gas Price,2.352,FRED
+USA,United States,2017-08-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.378,FRED
+USA,United States,2017-08-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.384,FRED
+USA,United States,2017-08-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.360,FRED
+USA,United States,2017-08-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.399,FRED
+USA,United States,2017-09-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.679,FRED
+USA,United States,2017-09-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.685,FRED
+USA,United States,2017-09-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.634,FRED
+USA,United States,2017-09-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.583,FRED
+USA,United States,2017-10-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.565,FRED
+USA,United States,2017-10-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.504,FRED
+USA,United States,2017-10-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.489,FRED
+USA,United States,2017-10-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.479,FRED
+USA,United States,2017-10-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.488,FRED
+USA,United States,2017-11-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.561,FRED
+USA,United States,2017-11-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.592,FRED
+USA,United States,2017-11-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.568,FRED
+USA,United States,2017-11-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.533,FRED
+USA,United States,2017-12-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.500,FRED
+USA,United States,2017-12-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.485,FRED
+USA,United States,2017-12-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.450,FRED
+USA,United States,2017-12-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.472,FRED
+USA,United States,2018-01-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.520,FRED
+USA,United States,2018-01-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.522,FRED
+USA,United States,2018-01-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.557,FRED
+USA,United States,2018-01-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.567,FRED
+USA,United States,2018-01-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.607,FRED
+USA,United States,2018-02-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.637,FRED
+USA,United States,2018-02-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.607,FRED
+USA,United States,2018-02-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.557,FRED
+USA,United States,2018-02-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.548,FRED
+USA,United States,2018-03-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.560,FRED
+USA,United States,2018-03-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.559,FRED
+USA,United States,2018-03-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.598,FRED
+USA,United States,2018-03-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.648,FRED
+USA,United States,2018-04-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.700,FRED
+USA,United States,2018-04-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.694,FRED
+USA,United States,2018-04-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.747,FRED
+USA,United States,2018-04-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.798,FRED
+USA,United States,2018-04-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.846,FRED
+USA,United States,2018-05-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.845,FRED
+USA,United States,2018-05-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.873,FRED
+USA,United States,2018-05-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.923,FRED
+USA,United States,2018-05-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.962,FRED
+USA,United States,2018-06-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.940,FRED
+USA,United States,2018-06-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.911,FRED
+USA,United States,2018-06-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.879,FRED
+USA,United States,2018-06-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.833,FRED
+USA,United States,2018-07-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.844,FRED
+USA,United States,2018-07-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.857,FRED
+USA,United States,2018-07-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.865,FRED
+USA,United States,2018-07-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.831,FRED
+USA,United States,2018-07-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.846,FRED
+USA,United States,2018-08-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.852,FRED
+USA,United States,2018-08-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.843,FRED
+USA,United States,2018-08-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.821,FRED
+USA,United States,2018-08-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.827,FRED
+USA,United States,2018-09-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.824,FRED
+USA,United States,2018-09-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.833,FRED
+USA,United States,2018-09-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.841,FRED
+USA,United States,2018-09-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.844,FRED
+USA,United States,2018-10-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.866,FRED
+USA,United States,2018-10-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.903,FRED
+USA,United States,2018-10-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.879,FRED
+USA,United States,2018-10-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.841,FRED
+USA,United States,2018-10-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.811,FRED
+USA,United States,2018-11-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.753,FRED
+USA,United States,2018-11-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.686,FRED
+USA,United States,2018-11-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.611,FRED
+USA,United States,2018-11-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.539,FRED
+USA,United States,2018-12-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.451,FRED
+USA,United States,2018-12-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.421,FRED
+USA,United States,2018-12-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.369,FRED
+USA,United States,2018-12-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.321,FRED
+USA,United States,2018-12-31,gasoline,GASREGW,US Regular All Formulations Gas Price,2.266,FRED
+USA,United States,2019-01-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.237,FRED
+USA,United States,2019-01-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.247,FRED
+USA,United States,2019-01-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.251,FRED
+USA,United States,2019-01-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.256,FRED
+USA,United States,2019-02-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.254,FRED
+USA,United States,2019-02-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.276,FRED
+USA,United States,2019-02-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.317,FRED
+USA,United States,2019-02-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.390,FRED
+USA,United States,2019-03-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.422,FRED
+USA,United States,2019-03-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.471,FRED
+USA,United States,2019-03-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.548,FRED
+USA,United States,2019-03-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.623,FRED
+USA,United States,2019-04-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.691,FRED
+USA,United States,2019-04-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.745,FRED
+USA,United States,2019-04-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.828,FRED
+USA,United States,2019-04-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.841,FRED
+USA,United States,2019-04-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.887,FRED
+USA,United States,2019-05-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.897,FRED
+USA,United States,2019-05-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.866,FRED
+USA,United States,2019-05-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.852,FRED
+USA,United States,2019-05-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.822,FRED
+USA,United States,2019-06-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.807,FRED
+USA,United States,2019-06-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.732,FRED
+USA,United States,2019-06-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.670,FRED
+USA,United States,2019-06-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.654,FRED
+USA,United States,2019-07-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.713,FRED
+USA,United States,2019-07-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.743,FRED
+USA,United States,2019-07-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.779,FRED
+USA,United States,2019-07-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.750,FRED
+USA,United States,2019-07-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.715,FRED
+USA,United States,2019-08-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.688,FRED
+USA,United States,2019-08-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.624,FRED
+USA,United States,2019-08-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.598,FRED
+USA,United States,2019-08-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.574,FRED
+USA,United States,2019-09-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.563,FRED
+USA,United States,2019-09-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.550,FRED
+USA,United States,2019-09-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.552,FRED
+USA,United States,2019-09-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.654,FRED
+USA,United States,2019-09-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.642,FRED
+USA,United States,2019-10-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.645,FRED
+USA,United States,2019-10-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.629,FRED
+USA,United States,2019-10-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.638,FRED
+USA,United States,2019-10-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.596,FRED
+USA,United States,2019-11-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.605,FRED
+USA,United States,2019-11-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.615,FRED
+USA,United States,2019-11-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.592,FRED
+USA,United States,2019-11-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.579,FRED
+USA,United States,2019-12-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.575,FRED
+USA,United States,2019-12-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.561,FRED
+USA,United States,2019-12-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.536,FRED
+USA,United States,2019-12-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.532,FRED
+USA,United States,2019-12-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.571,FRED
+USA,United States,2020-01-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.578,FRED
+USA,United States,2020-01-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.570,FRED
+USA,United States,2020-01-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.537,FRED
+USA,United States,2020-01-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.506,FRED
+USA,United States,2020-02-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.455,FRED
+USA,United States,2020-02-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.419,FRED
+USA,United States,2020-02-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.428,FRED
+USA,United States,2020-02-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.466,FRED
+USA,United States,2020-03-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.423,FRED
+USA,United States,2020-03-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.375,FRED
+USA,United States,2020-03-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.248,FRED
+USA,United States,2020-03-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.120,FRED
+USA,United States,2020-03-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.005,FRED
+USA,United States,2020-04-06,gasoline,GASREGW,US Regular All Formulations Gas Price,1.924,FRED
+USA,United States,2020-04-13,gasoline,GASREGW,US Regular All Formulations Gas Price,1.853,FRED
+USA,United States,2020-04-20,gasoline,GASREGW,US Regular All Formulations Gas Price,1.812,FRED
+USA,United States,2020-04-27,gasoline,GASREGW,US Regular All Formulations Gas Price,1.773,FRED
+USA,United States,2020-05-04,gasoline,GASREGW,US Regular All Formulations Gas Price,1.789,FRED
+USA,United States,2020-05-11,gasoline,GASREGW,US Regular All Formulations Gas Price,1.851,FRED
+USA,United States,2020-05-18,gasoline,GASREGW,US Regular All Formulations Gas Price,1.878,FRED
+USA,United States,2020-05-25,gasoline,GASREGW,US Regular All Formulations Gas Price,1.960,FRED
+USA,United States,2020-06-01,gasoline,GASREGW,US Regular All Formulations Gas Price,1.974,FRED
+USA,United States,2020-06-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.036,FRED
+USA,United States,2020-06-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.098,FRED
+USA,United States,2020-06-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.129,FRED
+USA,United States,2020-06-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.174,FRED
+USA,United States,2020-07-06,gasoline,GASREGW,US Regular All Formulations Gas Price,2.177,FRED
+USA,United States,2020-07-13,gasoline,GASREGW,US Regular All Formulations Gas Price,2.195,FRED
+USA,United States,2020-07-20,gasoline,GASREGW,US Regular All Formulations Gas Price,2.186,FRED
+USA,United States,2020-07-27,gasoline,GASREGW,US Regular All Formulations Gas Price,2.175,FRED
+USA,United States,2020-08-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.176,FRED
+USA,United States,2020-08-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.166,FRED
+USA,United States,2020-08-17,gasoline,GASREGW,US Regular All Formulations Gas Price,2.166,FRED
+USA,United States,2020-08-24,gasoline,GASREGW,US Regular All Formulations Gas Price,2.182,FRED
+USA,United States,2020-08-31,gasoline,GASREGW,US Regular All Formulations Gas Price,2.222,FRED
+USA,United States,2020-09-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.211,FRED
+USA,United States,2020-09-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.183,FRED
+USA,United States,2020-09-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.168,FRED
+USA,United States,2020-09-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.169,FRED
+USA,United States,2020-10-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.172,FRED
+USA,United States,2020-10-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.167,FRED
+USA,United States,2020-10-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.150,FRED
+USA,United States,2020-10-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.143,FRED
+USA,United States,2020-11-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.112,FRED
+USA,United States,2020-11-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.096,FRED
+USA,United States,2020-11-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.111,FRED
+USA,United States,2020-11-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.102,FRED
+USA,United States,2020-11-30,gasoline,GASREGW,US Regular All Formulations Gas Price,2.120,FRED
+USA,United States,2020-12-07,gasoline,GASREGW,US Regular All Formulations Gas Price,2.156,FRED
+USA,United States,2020-12-14,gasoline,GASREGW,US Regular All Formulations Gas Price,2.158,FRED
+USA,United States,2020-12-21,gasoline,GASREGW,US Regular All Formulations Gas Price,2.224,FRED
+USA,United States,2020-12-28,gasoline,GASREGW,US Regular All Formulations Gas Price,2.243,FRED
+USA,United States,2021-01-04,gasoline,GASREGW,US Regular All Formulations Gas Price,2.249,FRED
+USA,United States,2021-01-11,gasoline,GASREGW,US Regular All Formulations Gas Price,2.317,FRED
+USA,United States,2021-01-18,gasoline,GASREGW,US Regular All Formulations Gas Price,2.379,FRED
+USA,United States,2021-01-25,gasoline,GASREGW,US Regular All Formulations Gas Price,2.392,FRED
+USA,United States,2021-02-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.409,FRED
+USA,United States,2021-02-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.461,FRED
+USA,United States,2021-02-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.501,FRED
+USA,United States,2021-02-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.633,FRED
+USA,United States,2021-03-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.711,FRED
+USA,United States,2021-03-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.771,FRED
+USA,United States,2021-03-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.853,FRED
+USA,United States,2021-03-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.865,FRED
+USA,United States,2021-03-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.852,FRED
+USA,United States,2021-04-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.857,FRED
+USA,United States,2021-04-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.849,FRED
+USA,United States,2021-04-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.855,FRED
+USA,United States,2021-04-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.872,FRED
+USA,United States,2021-05-03,gasoline,GASREGW,US Regular All Formulations Gas Price,2.890,FRED
+USA,United States,2021-05-10,gasoline,GASREGW,US Regular All Formulations Gas Price,2.961,FRED
+USA,United States,2021-05-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.028,FRED
+USA,United States,2021-05-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.020,FRED
+USA,United States,2021-05-31,gasoline,GASREGW,US Regular All Formulations Gas Price,3.027,FRED
+USA,United States,2021-06-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.035,FRED
+USA,United States,2021-06-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.069,FRED
+USA,United States,2021-06-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.060,FRED
+USA,United States,2021-06-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.091,FRED
+USA,United States,2021-07-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.122,FRED
+USA,United States,2021-07-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.133,FRED
+USA,United States,2021-07-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.153,FRED
+USA,United States,2021-07-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.136,FRED
+USA,United States,2021-08-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.159,FRED
+USA,United States,2021-08-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.172,FRED
+USA,United States,2021-08-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.174,FRED
+USA,United States,2021-08-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.145,FRED
+USA,United States,2021-08-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.139,FRED
+USA,United States,2021-09-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.176,FRED
+USA,United States,2021-09-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.165,FRED
+USA,United States,2021-09-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.184,FRED
+USA,United States,2021-09-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.175,FRED
+USA,United States,2021-10-04,gasoline,GASREGW,US Regular All Formulations Gas Price,3.190,FRED
+USA,United States,2021-10-11,gasoline,GASREGW,US Regular All Formulations Gas Price,3.267,FRED
+USA,United States,2021-10-18,gasoline,GASREGW,US Regular All Formulations Gas Price,3.322,FRED
+USA,United States,2021-10-25,gasoline,GASREGW,US Regular All Formulations Gas Price,3.383,FRED
+USA,United States,2021-11-01,gasoline,GASREGW,US Regular All Formulations Gas Price,3.390,FRED
+USA,United States,2021-11-08,gasoline,GASREGW,US Regular All Formulations Gas Price,3.410,FRED
+USA,United States,2021-11-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.399,FRED
+USA,United States,2021-11-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.395,FRED
+USA,United States,2021-11-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.380,FRED
+USA,United States,2021-12-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.341,FRED
+USA,United States,2021-12-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.315,FRED
+USA,United States,2021-12-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.295,FRED
+USA,United States,2021-12-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.275,FRED
+USA,United States,2022-01-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.281,FRED
+USA,United States,2022-01-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.295,FRED
+USA,United States,2022-01-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.306,FRED
+USA,United States,2022-01-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.323,FRED
+USA,United States,2022-01-31,gasoline,GASREGW,US Regular All Formulations Gas Price,3.368,FRED
+USA,United States,2022-02-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.444,FRED
+USA,United States,2022-02-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.487,FRED
+USA,United States,2022-02-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.530,FRED
+USA,United States,2022-02-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.608,FRED
+USA,United States,2022-03-07,gasoline,GASREGW,US Regular All Formulations Gas Price,4.102,FRED
+USA,United States,2022-03-14,gasoline,GASREGW,US Regular All Formulations Gas Price,4.315,FRED
+USA,United States,2022-03-21,gasoline,GASREGW,US Regular All Formulations Gas Price,4.239,FRED
+USA,United States,2022-03-28,gasoline,GASREGW,US Regular All Formulations Gas Price,4.231,FRED
+USA,United States,2022-04-04,gasoline,GASREGW,US Regular All Formulations Gas Price,4.170,FRED
+USA,United States,2022-04-11,gasoline,GASREGW,US Regular All Formulations Gas Price,4.091,FRED
+USA,United States,2022-04-18,gasoline,GASREGW,US Regular All Formulations Gas Price,4.066,FRED
+USA,United States,2022-04-25,gasoline,GASREGW,US Regular All Formulations Gas Price,4.107,FRED
+USA,United States,2022-05-02,gasoline,GASREGW,US Regular All Formulations Gas Price,4.182,FRED
+USA,United States,2022-05-09,gasoline,GASREGW,US Regular All Formulations Gas Price,4.328,FRED
+USA,United States,2022-05-16,gasoline,GASREGW,US Regular All Formulations Gas Price,4.491,FRED
+USA,United States,2022-05-23,gasoline,GASREGW,US Regular All Formulations Gas Price,4.593,FRED
+USA,United States,2022-05-30,gasoline,GASREGW,US Regular All Formulations Gas Price,4.624,FRED
+USA,United States,2022-06-06,gasoline,GASREGW,US Regular All Formulations Gas Price,4.876,FRED
+USA,United States,2022-06-13,gasoline,GASREGW,US Regular All Formulations Gas Price,5.006,FRED
+USA,United States,2022-06-20,gasoline,GASREGW,US Regular All Formulations Gas Price,4.962,FRED
+USA,United States,2022-06-27,gasoline,GASREGW,US Regular All Formulations Gas Price,4.872,FRED
+USA,United States,2022-07-04,gasoline,GASREGW,US Regular All Formulations Gas Price,4.771,FRED
+USA,United States,2022-07-11,gasoline,GASREGW,US Regular All Formulations Gas Price,4.646,FRED
+USA,United States,2022-07-18,gasoline,GASREGW,US Regular All Formulations Gas Price,4.490,FRED
+USA,United States,2022-07-25,gasoline,GASREGW,US Regular All Formulations Gas Price,4.330,FRED
+USA,United States,2022-08-01,gasoline,GASREGW,US Regular All Formulations Gas Price,4.192,FRED
+USA,United States,2022-08-08,gasoline,GASREGW,US Regular All Formulations Gas Price,4.038,FRED
+USA,United States,2022-08-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.938,FRED
+USA,United States,2022-08-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.880,FRED
+USA,United States,2022-08-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.827,FRED
+USA,United States,2022-09-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.746,FRED
+USA,United States,2022-09-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.690,FRED
+USA,United States,2022-09-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.654,FRED
+USA,United States,2022-09-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.711,FRED
+USA,United States,2022-10-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.782,FRED
+USA,United States,2022-10-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.912,FRED
+USA,United States,2022-10-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.871,FRED
+USA,United States,2022-10-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.769,FRED
+USA,United States,2022-10-31,gasoline,GASREGW,US Regular All Formulations Gas Price,3.742,FRED
+USA,United States,2022-11-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.796,FRED
+USA,United States,2022-11-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.762,FRED
+USA,United States,2022-11-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.648,FRED
+USA,United States,2022-11-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.534,FRED
+USA,United States,2022-12-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.390,FRED
+USA,United States,2022-12-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.239,FRED
+USA,United States,2022-12-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.120,FRED
+USA,United States,2022-12-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.091,FRED
+USA,United States,2023-01-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.223,FRED
+USA,United States,2023-01-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.259,FRED
+USA,United States,2023-01-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.310,FRED
+USA,United States,2023-01-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.415,FRED
+USA,United States,2023-01-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.489,FRED
+USA,United States,2023-02-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.444,FRED
+USA,United States,2023-02-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.390,FRED
+USA,United States,2023-02-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.379,FRED
+USA,United States,2023-02-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.342,FRED
+USA,United States,2023-03-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.389,FRED
+USA,United States,2023-03-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.456,FRED
+USA,United States,2023-03-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.422,FRED
+USA,United States,2023-03-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.421,FRED
+USA,United States,2023-04-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.497,FRED
+USA,United States,2023-04-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.596,FRED
+USA,United States,2023-04-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.663,FRED
+USA,United States,2023-04-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.656,FRED
+USA,United States,2023-05-01,gasoline,GASREGW,US Regular All Formulations Gas Price,3.600,FRED
+USA,United States,2023-05-08,gasoline,GASREGW,US Regular All Formulations Gas Price,3.533,FRED
+USA,United States,2023-05-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.536,FRED
+USA,United States,2023-05-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.534,FRED
+USA,United States,2023-05-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.571,FRED
+USA,United States,2023-06-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.541,FRED
+USA,United States,2023-06-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.595,FRED
+USA,United States,2023-06-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.577,FRED
+USA,United States,2023-06-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.571,FRED
+USA,United States,2023-07-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.527,FRED
+USA,United States,2023-07-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.546,FRED
+USA,United States,2023-07-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.559,FRED
+USA,United States,2023-07-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.596,FRED
+USA,United States,2023-07-31,gasoline,GASREGW,US Regular All Formulations Gas Price,3.757,FRED
+USA,United States,2023-08-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.828,FRED
+USA,United States,2023-08-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.850,FRED
+USA,United States,2023-08-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.868,FRED
+USA,United States,2023-08-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.813,FRED
+USA,United States,2023-09-04,gasoline,GASREGW,US Regular All Formulations Gas Price,3.807,FRED
+USA,United States,2023-09-11,gasoline,GASREGW,US Regular All Formulations Gas Price,3.822,FRED
+USA,United States,2023-09-18,gasoline,GASREGW,US Regular All Formulations Gas Price,3.878,FRED
+USA,United States,2023-09-25,gasoline,GASREGW,US Regular All Formulations Gas Price,3.837,FRED
+USA,United States,2023-10-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.798,FRED
+USA,United States,2023-10-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.684,FRED
+USA,United States,2023-10-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.576,FRED
+USA,United States,2023-10-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.533,FRED
+USA,United States,2023-10-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.473,FRED
+USA,United States,2023-11-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.396,FRED
+USA,United States,2023-11-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.349,FRED
+USA,United States,2023-11-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.289,FRED
+USA,United States,2023-11-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.238,FRED
+USA,United States,2023-12-04,gasoline,GASREGW,US Regular All Formulations Gas Price,3.231,FRED
+USA,United States,2023-12-11,gasoline,GASREGW,US Regular All Formulations Gas Price,3.136,FRED
+USA,United States,2023-12-18,gasoline,GASREGW,US Regular All Formulations Gas Price,3.053,FRED
+USA,United States,2023-12-25,gasoline,GASREGW,US Regular All Formulations Gas Price,3.116,FRED
+USA,United States,2024-01-01,gasoline,GASREGW,US Regular All Formulations Gas Price,3.089,FRED
+USA,United States,2024-01-08,gasoline,GASREGW,US Regular All Formulations Gas Price,3.073,FRED
+USA,United States,2024-01-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.058,FRED
+USA,United States,2024-01-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.062,FRED
+USA,United States,2024-01-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.095,FRED
+USA,United States,2024-02-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.136,FRED
+USA,United States,2024-02-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.192,FRED
+USA,United States,2024-02-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.269,FRED
+USA,United States,2024-02-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.249,FRED
+USA,United States,2024-03-04,gasoline,GASREGW,US Regular All Formulations Gas Price,3.350,FRED
+USA,United States,2024-03-11,gasoline,GASREGW,US Regular All Formulations Gas Price,3.376,FRED
+USA,United States,2024-03-18,gasoline,GASREGW,US Regular All Formulations Gas Price,3.453,FRED
+USA,United States,2024-03-25,gasoline,GASREGW,US Regular All Formulations Gas Price,3.523,FRED
+USA,United States,2024-04-01,gasoline,GASREGW,US Regular All Formulations Gas Price,3.517,FRED
+USA,United States,2024-04-08,gasoline,GASREGW,US Regular All Formulations Gas Price,3.591,FRED
+USA,United States,2024-04-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.628,FRED
+USA,United States,2024-04-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.668,FRED
+USA,United States,2024-04-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.653,FRED
+USA,United States,2024-05-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.643,FRED
+USA,United States,2024-05-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.608,FRED
+USA,United States,2024-05-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.584,FRED
+USA,United States,2024-05-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.577,FRED
+USA,United States,2024-06-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.516,FRED
+USA,United States,2024-06-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.429,FRED
+USA,United States,2024-06-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.435,FRED
+USA,United States,2024-06-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.438,FRED
+USA,United States,2024-07-01,gasoline,GASREGW,US Regular All Formulations Gas Price,3.479,FRED
+USA,United States,2024-07-08,gasoline,GASREGW,US Regular All Formulations Gas Price,3.489,FRED
+USA,United States,2024-07-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.496,FRED
+USA,United States,2024-07-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.471,FRED
+USA,United States,2024-07-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.484,FRED
+USA,United States,2024-08-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.448,FRED
+USA,United States,2024-08-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.414,FRED
+USA,United States,2024-08-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.382,FRED
+USA,United States,2024-08-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.313,FRED
+USA,United States,2024-09-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.289,FRED
+USA,United States,2024-09-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.236,FRED
+USA,United States,2024-09-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.180,FRED
+USA,United States,2024-09-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.185,FRED
+USA,United States,2024-09-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.179,FRED
+USA,United States,2024-10-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.136,FRED
+USA,United States,2024-10-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.171,FRED
+USA,United States,2024-10-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.144,FRED
+USA,United States,2024-10-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.097,FRED
+USA,United States,2024-11-04,gasoline,GASREGW,US Regular All Formulations Gas Price,3.069,FRED
+USA,United States,2024-11-11,gasoline,GASREGW,US Regular All Formulations Gas Price,3.052,FRED
+USA,United States,2024-11-18,gasoline,GASREGW,US Regular All Formulations Gas Price,3.046,FRED
+USA,United States,2024-11-25,gasoline,GASREGW,US Regular All Formulations Gas Price,3.044,FRED
+USA,United States,2024-12-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.034,FRED
+USA,United States,2024-12-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.008,FRED
+USA,United States,2024-12-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.016,FRED
+USA,United States,2024-12-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.024,FRED
+USA,United States,2024-12-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.006,FRED
+USA,United States,2025-01-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.047,FRED
+USA,United States,2025-01-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.043,FRED
+USA,United States,2025-01-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.109,FRED
+USA,United States,2025-01-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.103,FRED
+USA,United States,2025-02-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.082,FRED
+USA,United States,2025-02-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.128,FRED
+USA,United States,2025-02-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.148,FRED
+USA,United States,2025-02-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.125,FRED
+USA,United States,2025-03-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.078,FRED
+USA,United States,2025-03-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.069,FRED
+USA,United States,2025-03-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.058,FRED
+USA,United States,2025-03-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.115,FRED
+USA,United States,2025-03-31,gasoline,GASREGW,US Regular All Formulations Gas Price,3.162,FRED
+USA,United States,2025-04-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.243,FRED
+USA,United States,2025-04-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.168,FRED
+USA,United States,2025-04-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.141,FRED
+USA,United States,2025-04-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.133,FRED
+USA,United States,2025-05-05,gasoline,GASREGW,US Regular All Formulations Gas Price,3.147,FRED
+USA,United States,2025-05-12,gasoline,GASREGW,US Regular All Formulations Gas Price,3.120,FRED
+USA,United States,2025-05-19,gasoline,GASREGW,US Regular All Formulations Gas Price,3.173,FRED
+USA,United States,2025-05-26,gasoline,GASREGW,US Regular All Formulations Gas Price,3.160,FRED
+USA,United States,2025-06-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.127,FRED
+USA,United States,2025-06-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.108,FRED
+USA,United States,2025-06-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.139,FRED
+USA,United States,2025-06-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.213,FRED
+USA,United States,2025-06-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.164,FRED
+USA,United States,2025-07-07,gasoline,GASREGW,US Regular All Formulations Gas Price,3.125,FRED
+USA,United States,2025-07-14,gasoline,GASREGW,US Regular All Formulations Gas Price,3.130,FRED
+USA,United States,2025-07-21,gasoline,GASREGW,US Regular All Formulations Gas Price,3.121,FRED
+USA,United States,2025-07-28,gasoline,GASREGW,US Regular All Formulations Gas Price,3.123,FRED
+USA,United States,2025-08-04,gasoline,GASREGW,US Regular All Formulations Gas Price,3.140,FRED
+USA,United States,2025-08-11,gasoline,GASREGW,US Regular All Formulations Gas Price,3.118,FRED
+USA,United States,2025-08-18,gasoline,GASREGW,US Regular All Formulations Gas Price,3.125,FRED
+USA,United States,2025-08-25,gasoline,GASREGW,US Regular All Formulations Gas Price,3.147,FRED
+USA,United States,2025-09-01,gasoline,GASREGW,US Regular All Formulations Gas Price,3.177,FRED
+USA,United States,2025-09-08,gasoline,GASREGW,US Regular All Formulations Gas Price,3.192,FRED
+USA,United States,2025-09-15,gasoline,GASREGW,US Regular All Formulations Gas Price,3.168,FRED
+USA,United States,2025-09-22,gasoline,GASREGW,US Regular All Formulations Gas Price,3.173,FRED
+USA,United States,2025-09-29,gasoline,GASREGW,US Regular All Formulations Gas Price,3.118,FRED
+USA,United States,2025-10-06,gasoline,GASREGW,US Regular All Formulations Gas Price,3.124,FRED
+USA,United States,2025-10-13,gasoline,GASREGW,US Regular All Formulations Gas Price,3.061,FRED
+USA,United States,2025-10-20,gasoline,GASREGW,US Regular All Formulations Gas Price,3.019,FRED
+USA,United States,2025-10-27,gasoline,GASREGW,US Regular All Formulations Gas Price,3.035,FRED
+USA,United States,2025-11-03,gasoline,GASREGW,US Regular All Formulations Gas Price,3.019,FRED
+USA,United States,2025-11-10,gasoline,GASREGW,US Regular All Formulations Gas Price,3.056,FRED
+USA,United States,2025-11-17,gasoline,GASREGW,US Regular All Formulations Gas Price,3.062,FRED
+USA,United States,2025-11-24,gasoline,GASREGW,US Regular All Formulations Gas Price,3.061,FRED
+USA,United States,2025-12-01,gasoline,GASREGW,US Regular All Formulations Gas Price,2.985,FRED
+USA,United States,2025-12-08,gasoline,GASREGW,US Regular All Formulations Gas Price,2.940,FRED
+USA,United States,2025-12-15,gasoline,GASREGW,US Regular All Formulations Gas Price,2.895,FRED
+USA,United States,2025-12-22,gasoline,GASREGW,US Regular All Formulations Gas Price,2.841,FRED
+USA,United States,2025-12-29,gasoline,GASREGW,US Regular All Formulations Gas Price,2.811,FRED
+USA,United States,2026-01-05,gasoline,GASREGW,US Regular All Formulations Gas Price,2.796,FRED
+USA,United States,2026-01-12,gasoline,GASREGW,US Regular All Formulations Gas Price,2.779,FRED
+USA,United States,2026-01-19,gasoline,GASREGW,US Regular All Formulations Gas Price,2.806,FRED
+USA,United States,2026-01-26,gasoline,GASREGW,US Regular All Formulations Gas Price,2.853,FRED
+USA,United States,2026-02-02,gasoline,GASREGW,US Regular All Formulations Gas Price,2.867,FRED
+USA,United States,2026-02-09,gasoline,GASREGW,US Regular All Formulations Gas Price,2.902,FRED
+USA,United States,2026-02-16,gasoline,GASREGW,US Regular All Formulations Gas Price,2.924,FRED
+USA,United States,2026-02-23,gasoline,GASREGW,US Regular All Formulations Gas Price,2.937,FRED
+USA,United States,2026-03-02,gasoline,GASREGW,US Regular All Formulations Gas Price,3.015,FRED
+USA,United States,2026-03-09,gasoline,GASREGW,US Regular All Formulations Gas Price,3.502,FRED
+USA,United States,2026-03-16,gasoline,GASREGW,US Regular All Formulations Gas Price,3.720,FRED
+USA,United States,2026-03-23,gasoline,GASREGW,US Regular All Formulations Gas Price,3.961,FRED
+USA,United States,2026-03-30,gasoline,GASREGW,US Regular All Formulations Gas Price,3.990,FRED
+USA,United States,2026-04-06,gasoline,GASREGW,US Regular All Formulations Gas Price,4.120,FRED
+USA,United States,2026-04-13,gasoline,GASREGW,US Regular All Formulations Gas Price,4.123,FRED
+USA,United States,2026-04-20,gasoline,GASREGW,US Regular All Formulations Gas Price,4.044,FRED
+USA,United States,2026-04-27,gasoline,GASREGW,US Regular All Formulations Gas Price,4.123,FRED
+USA,United States,2026-05-04,gasoline,GASREGW,US Regular All Formulations Gas Price,4.452,FRED
+USA,United States,2026-05-11,gasoline,GASREGW,US Regular All Formulations Gas Price,4.500,FRED
+USA,United States,2026-05-18,gasoline,GASREGW,US Regular All Formulations Gas Price,4.490,FRED
+USA,United States,2026-05-25,gasoline,GASREGW,US Regular All Formulations Gas Price,4.475,FRED
+USA,United States,2026-06-01,gasoline,GASREGW,US Regular All Formulations Gas Price,4.305,FRED
+USA,United States,2016-01-01,real_gdp,GDPC1,Real Gross Domestic Product,19001.690,FRED
+USA,United States,2016-04-01,real_gdp,GDPC1,Real Gross Domestic Product,19062.709,FRED
+USA,United States,2016-07-01,real_gdp,GDPC1,Real Gross Domestic Product,19197.938,FRED
+USA,United States,2016-10-01,real_gdp,GDPC1,Real Gross Domestic Product,19304.352,FRED
+USA,United States,2017-01-01,real_gdp,GDPC1,Real Gross Domestic Product,19398.343,FRED
+USA,United States,2017-04-01,real_gdp,GDPC1,Real Gross Domestic Product,19506.949,FRED
+USA,United States,2017-07-01,real_gdp,GDPC1,Real Gross Domestic Product,19660.766,FRED
+USA,United States,2017-10-01,real_gdp,GDPC1,Real Gross Domestic Product,19882.352,FRED
+USA,United States,2018-01-01,real_gdp,GDPC1,Real Gross Domestic Product,20044.077,FRED
+USA,United States,2018-04-01,real_gdp,GDPC1,Real Gross Domestic Product,20150.476,FRED
+USA,United States,2018-07-01,real_gdp,GDPC1,Real Gross Domestic Product,20276.154,FRED
+USA,United States,2018-10-01,real_gdp,GDPC1,Real Gross Domestic Product,20304.874,FRED
+USA,United States,2019-01-01,real_gdp,GDPC1,Real Gross Domestic Product,20431.641,FRED
+USA,United States,2019-04-01,real_gdp,GDPC1,Real Gross Domestic Product,20602.275,FRED
+USA,United States,2019-07-01,real_gdp,GDPC1,Real Gross Domestic Product,20843.322,FRED
+USA,United States,2019-10-01,real_gdp,GDPC1,Real Gross Domestic Product,20985.448,FRED
+USA,United States,2020-01-01,real_gdp,GDPC1,Real Gross Domestic Product,20709.212,FRED
+USA,United States,2020-04-01,real_gdp,GDPC1,Real Gross Domestic Product,19077.992,FRED
+USA,United States,2020-07-01,real_gdp,GDPC1,Real Gross Domestic Product,20558.879,FRED
+USA,United States,2020-10-01,real_gdp,GDPC1,Real Gross Domestic Product,20791.917,FRED
+USA,United States,2021-01-01,real_gdp,GDPC1,Real Gross Domestic Product,21082.134,FRED
+USA,United States,2021-04-01,real_gdp,GDPC1,Real Gross Domestic Product,21440.929,FRED
+USA,United States,2021-07-01,real_gdp,GDPC1,Real Gross Domestic Product,21617.828,FRED
+USA,United States,2021-10-01,real_gdp,GDPC1,Real Gross Domestic Product,21988.737,FRED
+USA,United States,2022-01-01,real_gdp,GDPC1,Real Gross Domestic Product,21932.710,FRED
+USA,United States,2022-04-01,real_gdp,GDPC1,Real Gross Domestic Product,21967.045,FRED
+USA,United States,2022-07-01,real_gdp,GDPC1,Real Gross Domestic Product,22125.625,FRED
+USA,United States,2022-10-01,real_gdp,GDPC1,Real Gross Domestic Product,22278.345,FRED
+USA,United States,2023-01-01,real_gdp,GDPC1,Real Gross Domestic Product,22439.607,FRED
+USA,United States,2023-04-01,real_gdp,GDPC1,Real Gross Domestic Product,22580.499,FRED
+USA,United States,2023-07-01,real_gdp,GDPC1,Real Gross Domestic Product,22840.989,FRED
+USA,United States,2023-10-01,real_gdp,GDPC1,Real Gross Domestic Product,23033.780,FRED
+USA,United States,2024-01-01,real_gdp,GDPC1,Real Gross Domestic Product,23082.119,FRED
+USA,United States,2024-04-01,real_gdp,GDPC1,Real Gross Domestic Product,23286.508,FRED
+USA,United States,2024-07-01,real_gdp,GDPC1,Real Gross Domestic Product,23478.570,FRED
+USA,United States,2024-10-01,real_gdp,GDPC1,Real Gross Domestic Product,23586.542,FRED
+USA,United States,2025-01-01,real_gdp,GDPC1,Real Gross Domestic Product,23548.210,FRED
+USA,United States,2025-04-01,real_gdp,GDPC1,Real Gross Domestic Product,23770.976,FRED
+USA,United States,2025-07-01,real_gdp,GDPC1,Real Gross Domestic Product,24026.834,FRED
+USA,United States,2025-10-01,real_gdp,GDPC1,Real Gross Domestic Product,24055.749,FRED
+USA,United States,2026-01-01,real_gdp,GDPC1,Real Gross Domestic Product,24152.656,FRED

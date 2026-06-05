@@ -1,0 +1,64 @@
+event_id,country_code,country_name,event_name,event_start_date,event_end_date,term,peak_date,peak_interest,peak_z_score,days_from_event,timing
+ARG_2018_06,ARG,Argentina,Acordo com FMI,2018-06-01,2018-06-30,fmi argentina,2018-05-06,13,6.570062134989339,-26,antes
+ARG_2018_06,ARG,Argentina,Acordo com FMI,2018-06-01,2018-06-30,dolar argentina,2018-08-26,100,5.623468556465001,86,depois
+ARG_2018_06,ARG,Argentina,Acordo com FMI,2018-06-01,2018-06-30,crisis argentina,2018-08-26,5,4.029515382729439,86,depois
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,2019-08-11,2019-08-11,elecciones argentina,2019-10-27,100,6.714763729181784,77,depois
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,2019-08-11,2019-08-11,paso argentina,2019-08-11,7,5.872023755352613,0,no evento
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,2019-08-11,2019-08-11,macri fernandez,2019-10-27,4,4.629531092835958,77,depois
+ARG_2020_03,ARG,Argentina,Pandemia Covid,2020-03-01,2020-03-31,coronavirus argentina,2020-03-15,100,4.243835519342038,14,depois
+ARG_2020_03,ARG,Argentina,Pandemia Covid,2020-03-01,2020-03-31,cuarentena argentina,2020-03-15,20,4.197390300469667,14,depois
+ARG_2020_03,ARG,Argentina,Pandemia Covid,2020-03-01,2020-03-31,pandemia argentina,2020-03-22,2,3.3606722016672235,21,depois
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,2020-05-22,2020-05-22,deuda argentina,2020-08-02,100,6.25632481615935,72,depois
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,2020-05-22,2020-05-22,default argentina,2020-05-17,43,4.8903510755480175,-5,antes
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,2020-05-22,2020-05-22,bonos argentina,2020-03-22,10,3.706169831900352,-61,antes
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,2020-08-04,2020-08-04,bonistas argentina,2020-08-02,12,6.426259237541814,-2,antes
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,2020-08-04,2020-08-04,deuda argentina,2020-08-02,100,6.056119999227608,-2,antes
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,2020-08-04,2020-08-04,reestructuracion deuda,2020-08-02,3,4.446518750465641,-2,antes
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,2022-03-01,2022-03-31,acuerdo fmi,2022-03-06,100,5.300461857293297,5,depois
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,2022-03-01,2022-03-31,fmi argentina,2022-01-23,52,4.819414099627664,-37,antes
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,2022-03-01,2022-03-31,deuda argentina,2022-03-20,48,4.584243953122432,19,depois
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,2022-07-02,2022-07-02,ministro economia argentina,2022-07-03,62,6.475961387912185,1,depois
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,2022-07-02,2022-07-02,renuncia guzman,2022-07-03,60,5.947777652774472,1,depois
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,2022-07-02,2022-07-02,martin guzman,2022-07-03,100,5.64203002916159,1,depois
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,2022-08-03,2022-08-03,ministro economia,2022-07-03,64,6.417353353556307,-31,antes
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,2022-08-03,2022-08-03,sergio massa,2022-07-24,59,5.46665265299003,-10,antes
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,2022-08-03,2022-08-03,dolar argentina,2022-07-03,100,3.621456080050288,-31,antes
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,2023-08-01,2023-08-31,dolarizacion,2023-04-23,1,4.242640687119285,-100,antes
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,2023-08-01,2023-08-31,milei,2023-11-19,100,3.896095517306184,110,depois
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,2023-11-19,2023-11-19,milei presidente,2023-11-19,37,5.42118221520571,0,no evento
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,2023-11-19,2023-11-19,dolarizacion argentina,2023-08-13,2,5.376941921276327,-98,antes
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,2023-11-19,2023-11-19,javier milei,2023-11-19,100,4.334003634932842,0,no evento
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,2016-08-31,2016-08-31,impeachment dilma,2016-04-17,56,5.900874594115567,-136,antes
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,2016-08-31,2016-08-31,dilma impeachment,2016-04-17,53,5.74448529295686,-136,antes
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,2016-08-31,2016-08-31,temer,2016-05-08,100,5.057746585485541,-115,antes
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,2016-10-19,2016-10-19,copom selic,2017-02-19,15,4.599297459167425,123,depois
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,2016-10-19,2016-10-19,corte selic,2017-01-08,3,4.08248290463863,81,depois
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,2016-10-19,2016-10-19,taxa selic,2017-01-08,100,3.5926415267828817,81,depois
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,2018-10-28,2018-10-28,eleicao 2018,2018-10-07,16,6.524621319234989,-21,antes
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,2018-10-28,2018-10-28,paulo guedes,2018-10-07,3,3.347670317059931,-21,antes
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,2018-10-28,2018-10-28,bolsonaro,2018-10-07,100,3.226516409144068,-21,antes
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,2020-03-11,2020-03-11,pandemia covid brasil,2020-05-24,19,2.007999897483252,74,depois
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,2020-03-11,2020-03-11,pandemia covid,2020-05-10,100,1.6680315809378117,60,depois
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,2020-04-02,2020-04-02,coronavirus auxilio,2020-04-05,2,5.42979363876175,3,depois
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,2020-04-02,2020-04-02,caixa auxilio,2020-04-05,33,5.306954796690435,3,depois
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,2020-04-02,2020-04-02,auxilio emergencial,2020-04-05,100,3.352553113930464,3,depois
+BRA_2021_2022,BRA,Brazil,Alta dos combustiveis,2021-01-01,2022-12-31,gasolina brasil,2022-03-06,63,7.970605172829137,429,depois
+BRA_2021_2022,BRA,Brazil,Alta dos combustiveis,2021-01-01,2022-12-31,preco gasolina,2022-03-06,100,7.673125337371233,429,depois
+BRA_2021_2022,BRA,Brazil,Alta dos combustiveis,2021-01-01,2022-12-31,preco combustivel,2022-03-06,7,6.048255562460734,429,depois
+BRA_2022_06_23,BRA,Brazil,Teto do ICMS dos combustiveis,2022-06-23,2022-06-23,teto do icms dos combustiveis,2022-03-13,100,7.211102550927977,-102,antes
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,2023-01-08,2023-01-08,invasao brasilia,2023-01-08,57,7.115990074057786,0,no evento
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,2023-01-08,2023-01-08,atos antidemocraticos,2023-01-08,5,5.769899132182723,0,no evento
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,2023-01-08,2023-01-08,8 de janeiro,2023-04-16,100,4.501361325411679,98,depois
+USA_2020_03_27,USA,United States,CARES Act,2020-03-27,2020-03-27,cares act,2020-03-29,100,3.499099083772913,2,depois
+USA_2021_01_06,USA,United States,Invasao do Capitolio,2021-01-06,2021-01-06,january 6,2021-01-03,72,6.149814255492865,-3,antes
+USA_2021_01_06,USA,United States,Invasao do Capitolio,2021-01-06,2021-01-06,capitol riot,2021-01-10,100,5.406541590063246,4,depois
+USA_2021_01_06,USA,United States,Invasao do Capitolio,2021-01-06,2021-01-06,capitol attack,2021-03-28,26,4.555672287768941,81,depois
+USA_2021_03_11,USA,United States,American Rescue Plan,2021-03-11,2021-03-11,stimulus check,2020-12-27,100,4.202080327307987,-74,antes
+USA_2021_03_11,USA,United States,American Rescue Plan,2021-03-11,2021-03-11,american rescue plan,2021-03-07,1,4.0824829046386295,-4,antes
+USA_2021_03_11,USA,United States,American Rescue Plan,2021-03-11,2021-03-11,biden stimulus,2021-03-07,3,3.915237599082764,-4,antes
+USA_2021_2022,USA,United States,Alta inflacionaria,2021-01-01,2022-12-31,gas prices,2022-03-06,100,9.281553081046368,429,depois
+USA_2021_2022,USA,United States,Alta inflacionaria,2021-01-01,2022-12-31,fed rates,2022-06-12,4,5.547390434046452,527,depois
+USA_2021_2022,USA,United States,Alta inflacionaria,2021-01-01,2022-12-31,inflation,2022-08-07,25,4.536144197123599,583,depois
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,2022-03-01,2022-03-31,fed rates,2022-06-12,14,4.615878595077082,103,depois
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,2022-03-01,2022-03-31,interest rates,2022-06-12,70,4.475683366609044,103,depois
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,2022-03-01,2022-03-31,inflation,2022-08-07,100,3.772853818882648,159,depois

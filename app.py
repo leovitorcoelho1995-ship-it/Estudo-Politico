@@ -22,6 +22,15 @@ EVENT_STUDY_PATH = PROCESSED_DIR / "event_study_series.csv"
 EVENT_STUDY_AGG_PATH = PROCESSED_DIR / "event_study_category_aggregates.csv"
 FINAL_SCORE_PATH = PROCESSED_DIR / "event_final_score.csv"
 
+REQUIRED_DATA_FILES = [
+    "political_events_processed.csv",
+    "economic_indicators_normalized.csv",
+    "event_economic_impact_normalized.csv",
+    "ranking_short_term_impacts.csv",
+    "ranking_annual_impacts.csv",
+    "ranking_annual_context_by_country_year.csv",
+]
+
 COUNTRY_LABELS = {
     "BRA": "Brasil",
     "USA": "Estados Unidos",
@@ -687,12 +696,7 @@ st.markdown(
 
 def data_signature() -> tuple[tuple[str, float | None], ...]:
     paths = [
-        PROCESSED_DIR / "political_events_processed.csv",
-        PROCESSED_DIR / "economic_indicators_normalized.csv",
-        PROCESSED_DIR / "event_economic_impact_normalized.csv",
-        PROCESSED_DIR / "ranking_short_term_impacts.csv",
-        PROCESSED_DIR / "ranking_annual_impacts.csv",
-        PROCESSED_DIR / "ranking_annual_context_by_country_year.csv",
+        *(PROCESSED_DIR / file_name for file_name in REQUIRED_DATA_FILES),
         ROBUSTNESS_PATH,
         SIGNIFICANCE_PATH,
         CONTAMINATION_PATH,
@@ -706,8 +710,22 @@ def data_signature() -> tuple[tuple[str, float | None], ...]:
     return tuple((path.name, path.stat().st_mtime if path.exists() else None) for path in paths)
 
 
+def require_data_files() -> None:
+    missing = [file_name for file_name in REQUIRED_DATA_FILES if not (PROCESSED_DIR / file_name).exists()]
+    if not missing:
+        return
+
+    st.error("Base processada nao encontrada no deploy.")
+    st.markdown(
+        "O app precisa dos CSVs em `data/processed/`. Rode o pipeline localmente, versiona esses arquivos e faca novo deploy."
+    )
+    st.code("\n".join(f"data/processed/{file_name}" for file_name in missing), language="text")
+    st.stop()
+
+
 @st.cache_data(show_spinner=False)
 def load_data(signature: tuple[tuple[str, float | None], ...] | None = None) -> dict[str, pd.DataFrame]:
+    require_data_files()
     events = pd.read_csv(PROCESSED_DIR / "political_events_processed.csv")
     indicators = pd.read_csv(PROCESSED_DIR / "economic_indicators_normalized.csv")
     event_impact = pd.read_csv(PROCESSED_DIR / "event_economic_impact_normalized.csv")

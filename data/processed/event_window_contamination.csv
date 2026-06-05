@@ -1,0 +1,238 @@
+event_id,country_code,country_name,event_name,event_anchor_date,event_date_precision,window_days,nearby_event_count,contamination_level,nearby_event_ids,nearby_event_names,nearby_event_distance_days,is_contaminated_window
+ARG_2018_06,ARG,Argentina,Acordo com FMI,2018-06-15,month,30,0,baixa,,,,False
+ARG_2018_06,ARG,Argentina,Acordo com FMI,2018-06-15,month,90,1,moderada,ARG_2018_08_30,Crise cambial e alta emergencial dos juros,75,True
+ARG_2018_06,ARG,Argentina,Acordo com FMI,2018-06-15,month,180,1,moderada,ARG_2018_08_30,Crise cambial e alta emergencial dos juros,75,True
+ARG_2018_08_30,ARG,Argentina,Crise cambial e alta emergencial dos juros,2018-08-30,day,30,0,baixa,,,,False
+ARG_2018_08_30,ARG,Argentina,Crise cambial e alta emergencial dos juros,2018-08-30,day,90,1,moderada,ARG_2018_06,Acordo com FMI,-76,True
+ARG_2018_08_30,ARG,Argentina,Crise cambial e alta emergencial dos juros,2018-08-30,day,180,1,moderada,ARG_2018_06,Acordo com FMI,-76,True
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,2019-08-11,day,30,1,moderada,ARG_2019_09_01,Reintroducao de controles cambiais,21,True
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,2019-08-11,day,90,2,moderada,ARG_2019_09_01; ARG_2019_10_27,Reintroducao de controles cambiais; Eleicao Alberto Fernandez,21; 77,True
+ARG_2019_08_11,ARG,Argentina,Primarias com derrota de Macri,2019-08-11,day,180,2,moderada,ARG_2019_09_01; ARG_2019_10_27,Reintroducao de controles cambiais; Eleicao Alberto Fernandez,21; 77,True
+ARG_2019_09_01,ARG,Argentina,Reintroducao de controles cambiais,2019-09-01,day,30,1,moderada,ARG_2019_08_11,Primarias com derrota de Macri,-21,True
+ARG_2019_09_01,ARG,Argentina,Reintroducao de controles cambiais,2019-09-01,day,90,2,moderada,ARG_2019_08_11; ARG_2019_10_27,Primarias com derrota de Macri; Eleicao Alberto Fernandez,-21; 56,True
+ARG_2019_09_01,ARG,Argentina,Reintroducao de controles cambiais,2019-09-01,day,180,2,moderada,ARG_2019_08_11; ARG_2019_10_27,Primarias com derrota de Macri; Eleicao Alberto Fernandez,-21; 56,True
+ARG_2019_10_27,ARG,Argentina,Eleicao Alberto Fernandez,2019-10-27,day,30,0,baixa,,,,False
+ARG_2019_10_27,ARG,Argentina,Eleicao Alberto Fernandez,2019-10-27,day,90,2,moderada,ARG_2019_09_01; ARG_2019_08_11,Reintroducao de controles cambiais; Primarias com derrota de Macri,-56; -77,True
+ARG_2019_10_27,ARG,Argentina,Eleicao Alberto Fernandez,2019-10-27,day,180,3,alta,ARG_2019_09_01; ARG_2019_08_11; ARG_2020_03,Reintroducao de controles cambiais; Primarias com derrota de Macri; Pandemia Covid,-56; -77; 141,True
+ARG_2020_03,ARG,Argentina,Pandemia Covid,2020-03-16,month,30,0,baixa,,,,False
+ARG_2020_03,ARG,Argentina,Pandemia Covid,2020-03-16,month,90,1,moderada,ARG_2020_05_22,Default da divida soberana,67,True
+ARG_2020_03,ARG,Argentina,Pandemia Covid,2020-03-16,month,180,3,alta,ARG_2020_05_22; ARG_2019_10_27; ARG_2020_08_04,Default da divida soberana; Eleicao Alberto Fernandez; Acordo de reestruturacao da divida,67; -141; 141,True
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,2020-05-22,day,30,0,baixa,,,,False
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,2020-05-22,day,90,2,moderada,ARG_2020_03; ARG_2020_08_04,Pandemia Covid; Acordo de reestruturacao da divida,-67; 74,True
+ARG_2020_05_22,ARG,Argentina,Default da divida soberana,2020-05-22,day,180,2,moderada,ARG_2020_03; ARG_2020_08_04,Pandemia Covid; Acordo de reestruturacao da divida,-67; 74,True
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,2020-08-04,day,30,0,baixa,,,,False
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,2020-08-04,day,90,1,moderada,ARG_2020_05_22,Default da divida soberana,-74,True
+ARG_2020_08_04,ARG,Argentina,Acordo de reestruturacao da divida,2020-08-04,day,180,2,moderada,ARG_2020_05_22; ARG_2020_03,Default da divida soberana; Pandemia Covid,-74; -141,True
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,2022-03-16,month,30,0,baixa,,,,False
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,2022-03-16,month,90,0,baixa,,,,False
+ARG_2022_03,ARG,Argentina,Renegociacao com FMI,2022-03-16,month,180,2,moderada,ARG_2022_07_02; ARG_2022_08_03,Renuncia de Martin Guzman; Posse de Sergio Massa na Economia,108; 140,True
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,2022-07-02,day,30,0,baixa,,,,False
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,2022-07-02,day,90,1,moderada,ARG_2022_08_03,Posse de Sergio Massa na Economia,32,True
+ARG_2022_07_02,ARG,Argentina,Renuncia de Martin Guzman,2022-07-02,day,180,2,moderada,ARG_2022_08_03; ARG_2022_03,Posse de Sergio Massa na Economia; Renegociacao com FMI,32; -108,True
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,2022-08-03,day,30,0,baixa,,,,False
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,2022-08-03,day,90,1,moderada,ARG_2022_07_02,Renuncia de Martin Guzman,-32,True
+ARG_2022_08_03,ARG,Argentina,Posse de Sergio Massa na Economia,2022-08-03,day,180,2,moderada,ARG_2022_07_02; ARG_2022_03,Renuncia de Martin Guzman; Renegociacao com FMI,-32; -140,True
+ARG_2023_08_14,ARG,Argentina,Desvalorizacao pos-PASO,2023-08-14,day,30,1,moderada,ARG_2023_08,Primarias com Milei forte,2,True
+ARG_2023_08_14,ARG,Argentina,Desvalorizacao pos-PASO,2023-08-14,day,90,1,moderada,ARG_2023_08,Primarias com Milei forte,2,True
+ARG_2023_08_14,ARG,Argentina,Desvalorizacao pos-PASO,2023-08-14,day,180,6,alta,ARG_2023_08; ARG_2023_11_19; ARG_2023_12_12; ARG_2023_12; ARG_2023_12_20; ARG_2024_01_24,Primarias com Milei forte; Eleicao Milei; Pacote Caputo e forte desvalorizacao; Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Greve geral contra reformas,2; 97; 120; 124; 128; 163,True
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,2023-08-16,month,30,1,moderada,ARG_2023_08_14,Desvalorizacao pos-PASO,-2,True
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,2023-08-16,month,90,1,moderada,ARG_2023_08_14,Desvalorizacao pos-PASO,-2,True
+ARG_2023_08,ARG,Argentina,Primarias com Milei forte,2023-08-16,month,180,6,alta,ARG_2023_08_14; ARG_2023_11_19; ARG_2023_12_12; ARG_2023_12; ARG_2023_12_20; ARG_2024_01_24,Desvalorizacao pos-PASO; Eleicao Milei; Pacote Caputo e forte desvalorizacao; Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Greve geral contra reformas,-2; 95; 118; 122; 126; 161,True
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,2023-11-19,day,30,2,moderada,ARG_2023_12_12; ARG_2023_12,Pacote Caputo e forte desvalorizacao; Desvalorizacao inicial do peso,23; 27,True
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,2023-11-19,day,90,4,alta,ARG_2023_12_12; ARG_2023_12; ARG_2023_12_20; ARG_2024_01_24,Pacote Caputo e forte desvalorizacao; Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Greve geral contra reformas,23; 27; 31; 66,True
+ARG_2023_11_19,ARG,Argentina,Eleicao Milei,2023-11-19,day,180,7,alta,ARG_2023_12_12; ARG_2023_12; ARG_2023_12_20; ARG_2024_01_24; ARG_2023_08; ARG_2023_08_14; ARG_2024_04_30,Pacote Caputo e forte desvalorizacao; Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Greve geral contra reformas; Primarias com Milei forte; Desvalorizacao pos-PASO; Aprovacao inicial da Lei Bases na Camara,23; 27; 31; 66; -95; -97; 163,True
+ARG_2023_12_12,ARG,Argentina,Pacote Caputo e forte desvalorizacao,2023-12-12,day,30,3,alta,ARG_2023_12; ARG_2023_12_20; ARG_2023_11_19,Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Eleicao Milei,4; 8; -23,True
+ARG_2023_12_12,ARG,Argentina,Pacote Caputo e forte desvalorizacao,2023-12-12,day,90,4,alta,ARG_2023_12; ARG_2023_12_20; ARG_2023_11_19; ARG_2024_01_24,Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Eleicao Milei; Greve geral contra reformas,4; 8; -23; 43,True
+ARG_2023_12_12,ARG,Argentina,Pacote Caputo e forte desvalorizacao,2023-12-12,day,180,7,alta,ARG_2023_12; ARG_2023_12_20; ARG_2023_11_19; ARG_2024_01_24; ARG_2023_08; ARG_2023_08_14; ARG_2024_04_30,Desvalorizacao inicial do peso; DNU de desregulacao de Milei; Eleicao Milei; Greve geral contra reformas; Primarias com Milei forte; Desvalorizacao pos-PASO; Aprovacao inicial da Lei Bases na Camara,4; 8; -23; 43; -118; -120; 140,True
+ARG_2023_12,ARG,Argentina,Desvalorizacao inicial do peso,2023-12-16,month,30,3,alta,ARG_2023_12_12; ARG_2023_12_20; ARG_2023_11_19,Pacote Caputo e forte desvalorizacao; DNU de desregulacao de Milei; Eleicao Milei,-4; 4; -27,True
+ARG_2023_12,ARG,Argentina,Desvalorizacao inicial do peso,2023-12-16,month,90,4,alta,ARG_2023_12_12; ARG_2023_12_20; ARG_2023_11_19; ARG_2024_01_24,Pacote Caputo e forte desvalorizacao; DNU de desregulacao de Milei; Eleicao Milei; Greve geral contra reformas,-4; 4; -27; 39,True
+ARG_2023_12,ARG,Argentina,Desvalorizacao inicial do peso,2023-12-16,month,180,8,alta,ARG_2023_12_12; ARG_2023_12_20; ARG_2023_11_19; ARG_2024_01_24; ARG_2023_08; ARG_2023_08_14; ARG_2024_04_30; ARG_2024_06_12,Pacote Caputo e forte desvalorizacao; DNU de desregulacao de Milei; Eleicao Milei; Greve geral contra reformas; Primarias com Milei forte; Desvalorizacao pos-PASO; Aprovacao inicial da Lei Bases na Camara; Aprovacao da Lei Bases no Senado,-4; 4; -27; 39; -122; -124; 136; 179,True
+ARG_2023_12_20,ARG,Argentina,DNU de desregulacao de Milei,2023-12-20,day,30,2,moderada,ARG_2023_12; ARG_2023_12_12,Desvalorizacao inicial do peso; Pacote Caputo e forte desvalorizacao,-4; -8,True
+ARG_2023_12_20,ARG,Argentina,DNU de desregulacao de Milei,2023-12-20,day,90,4,alta,ARG_2023_12; ARG_2023_12_12; ARG_2023_11_19; ARG_2024_01_24,Desvalorizacao inicial do peso; Pacote Caputo e forte desvalorizacao; Eleicao Milei; Greve geral contra reformas,-4; -8; -31; 35,True
+ARG_2023_12_20,ARG,Argentina,DNU de desregulacao de Milei,2023-12-20,day,180,8,alta,ARG_2023_12; ARG_2023_12_12; ARG_2023_11_19; ARG_2024_01_24; ARG_2023_08; ARG_2023_08_14; ARG_2024_04_30; ARG_2024_06_12,Desvalorizacao inicial do peso; Pacote Caputo e forte desvalorizacao; Eleicao Milei; Greve geral contra reformas; Primarias com Milei forte; Desvalorizacao pos-PASO; Aprovacao inicial da Lei Bases na Camara; Aprovacao da Lei Bases no Senado,-4; -8; -31; 35; -126; -128; 132; 175,True
+ARG_2024_01_24,ARG,Argentina,Greve geral contra reformas,2024-01-24,day,30,0,baixa,,,,False
+ARG_2024_01_24,ARG,Argentina,Greve geral contra reformas,2024-01-24,day,90,4,alta,ARG_2023_12_20; ARG_2023_12; ARG_2023_12_12; ARG_2023_11_19,DNU de desregulacao de Milei; Desvalorizacao inicial do peso; Pacote Caputo e forte desvalorizacao; Eleicao Milei,-35; -39; -43; -66,True
+ARG_2024_01_24,ARG,Argentina,Greve geral contra reformas,2024-01-24,day,180,8,alta,ARG_2023_12_20; ARG_2023_12; ARG_2023_12_12; ARG_2023_11_19; ARG_2024_04_30; ARG_2024_06_12; ARG_2023_08; ARG_2023_08_14,DNU de desregulacao de Milei; Desvalorizacao inicial do peso; Pacote Caputo e forte desvalorizacao; Eleicao Milei; Aprovacao inicial da Lei Bases na Camara; Aprovacao da Lei Bases no Senado; Primarias com Milei forte; Desvalorizacao pos-PASO,-35; -39; -43; -66; 97; 140; -161; -163,True
+ARG_2024_04_30,ARG,Argentina,Aprovacao inicial da Lei Bases na Camara,2024-04-30,day,30,0,baixa,,,,False
+ARG_2024_04_30,ARG,Argentina,Aprovacao inicial da Lei Bases na Camara,2024-04-30,day,90,1,moderada,ARG_2024_06_12,Aprovacao da Lei Bases no Senado,43,True
+ARG_2024_04_30,ARG,Argentina,Aprovacao inicial da Lei Bases na Camara,2024-04-30,day,180,6,alta,ARG_2024_06_12; ARG_2024_01_24; ARG_2023_12_20; ARG_2023_12; ARG_2023_12_12; ARG_2023_11_19,Aprovacao da Lei Bases no Senado; Greve geral contra reformas; DNU de desregulacao de Milei; Desvalorizacao inicial do peso; Pacote Caputo e forte desvalorizacao; Eleicao Milei,43; -97; -132; -136; -140; -163,True
+ARG_2024_06_12,ARG,Argentina,Aprovacao da Lei Bases no Senado,2024-06-12,day,30,0,baixa,,,,False
+ARG_2024_06_12,ARG,Argentina,Aprovacao da Lei Bases no Senado,2024-06-12,day,90,1,moderada,ARG_2024_04_30,Aprovacao inicial da Lei Bases na Camara,-43,True
+ARG_2024_06_12,ARG,Argentina,Aprovacao da Lei Bases no Senado,2024-06-12,day,180,4,alta,ARG_2024_04_30; ARG_2024_01_24; ARG_2023_12_20; ARG_2023_12,Aprovacao inicial da Lei Bases na Camara; Greve geral contra reformas; DNU de desregulacao de Milei; Desvalorizacao inicial do peso,-43; -140; -175; -179,True
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,2016-08-31,day,30,0,baixa,,,,False
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,2016-08-31,day,90,1,moderada,BRA_2016_10_19,Inicio do ciclo de corte da Selic,49,True
+BRA_2016_08_31,BRA,Brazil,Impeachment Dilma,2016-08-31,day,180,2,moderada,BRA_2016_10_19; BRA_2016_12_15,Inicio do ciclo de corte da Selic; Teto de gastos,49; 106,True
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,2016-10-19,day,30,0,baixa,,,,False
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,2016-10-19,day,90,2,moderada,BRA_2016_08_31; BRA_2016_12_15,Impeachment Dilma; Teto de gastos,-49; 57,True
+BRA_2016_10_19,BRA,Brazil,Inicio do ciclo de corte da Selic,2016-10-19,day,180,2,moderada,BRA_2016_08_31; BRA_2016_12_15,Impeachment Dilma; Teto de gastos,-49; 57,True
+BRA_2016_12_15,BRA,Brazil,Teto de gastos,2016-12-15,day,30,0,baixa,,,,False
+BRA_2016_12_15,BRA,Brazil,Teto de gastos,2016-12-15,day,90,1,moderada,BRA_2016_10_19,Inicio do ciclo de corte da Selic,-57,True
+BRA_2016_12_15,BRA,Brazil,Teto de gastos,2016-12-15,day,180,3,alta,BRA_2016_10_19; BRA_2016_08_31; BRA_2017_05_17,Inicio do ciclo de corte da Selic; Impeachment Dilma; Crise Joesley Day,-57; -106; 153,True
+BRA_2017_05_17,BRA,Brazil,Crise Joesley Day,2017-05-17,day,30,0,baixa,,,,False
+BRA_2017_05_17,BRA,Brazil,Crise Joesley Day,2017-05-17,day,90,1,moderada,BRA_2017_07_13,Reforma trabalhista,57,True
+BRA_2017_05_17,BRA,Brazil,Crise Joesley Day,2017-05-17,day,180,2,moderada,BRA_2017_07_13; BRA_2016_12_15,Reforma trabalhista; Teto de gastos,57; -153,True
+BRA_2017_07_13,BRA,Brazil,Reforma trabalhista,2017-07-13,day,30,0,baixa,,,,False
+BRA_2017_07_13,BRA,Brazil,Reforma trabalhista,2017-07-13,day,90,1,moderada,BRA_2017_05_17,Crise Joesley Day,-57,True
+BRA_2017_07_13,BRA,Brazil,Reforma trabalhista,2017-07-13,day,180,1,moderada,BRA_2017_05_17,Crise Joesley Day,-57,True
+BRA_2018_04_07,BRA,Brazil,Prisao de Lula,2018-04-07,day,30,0,baixa,,,,False
+BRA_2018_04_07,BRA,Brazil,Prisao de Lula,2018-04-07,day,90,2,moderada,BRA_2018_05_21; BRA_2018_05_27,Inicio da greve dos caminhoneiros; Subvencao ao diesel apos greve,44; 50,True
+BRA_2018_04_07,BRA,Brazil,Prisao de Lula,2018-04-07,day,180,3,alta,BRA_2018_05_21; BRA_2018_05_27; BRA_2018_09_06,Inicio da greve dos caminhoneiros; Subvencao ao diesel apos greve; Facada em Bolsonaro,44; 50; 152,True
+BRA_2018_05_21,BRA,Brazil,Inicio da greve dos caminhoneiros,2018-05-21,day,30,1,moderada,BRA_2018_05_27,Subvencao ao diesel apos greve,6,True
+BRA_2018_05_21,BRA,Brazil,Inicio da greve dos caminhoneiros,2018-05-21,day,90,2,moderada,BRA_2018_05_27; BRA_2018_04_07,Subvencao ao diesel apos greve; Prisao de Lula,6; -44,True
+BRA_2018_05_21,BRA,Brazil,Inicio da greve dos caminhoneiros,2018-05-21,day,180,4,alta,BRA_2018_05_27; BRA_2018_04_07; BRA_2018_09_06; BRA_2018_10_28,Subvencao ao diesel apos greve; Prisao de Lula; Facada em Bolsonaro; Eleicao Bolsonaro,6; -44; 108; 160,True
+BRA_2018_05_27,BRA,Brazil,Subvencao ao diesel apos greve,2018-05-27,day,30,1,moderada,BRA_2018_05_21,Inicio da greve dos caminhoneiros,-6,True
+BRA_2018_05_27,BRA,Brazil,Subvencao ao diesel apos greve,2018-05-27,day,90,2,moderada,BRA_2018_05_21; BRA_2018_04_07,Inicio da greve dos caminhoneiros; Prisao de Lula,-6; -50,True
+BRA_2018_05_27,BRA,Brazil,Subvencao ao diesel apos greve,2018-05-27,day,180,4,alta,BRA_2018_05_21; BRA_2018_04_07; BRA_2018_09_06; BRA_2018_10_28,Inicio da greve dos caminhoneiros; Prisao de Lula; Facada em Bolsonaro; Eleicao Bolsonaro,-6; -50; 102; 154,True
+BRA_2018_09_06,BRA,Brazil,Facada em Bolsonaro,2018-09-06,day,30,0,baixa,,,,False
+BRA_2018_09_06,BRA,Brazil,Facada em Bolsonaro,2018-09-06,day,90,1,moderada,BRA_2018_10_28,Eleicao Bolsonaro,52,True
+BRA_2018_09_06,BRA,Brazil,Facada em Bolsonaro,2018-09-06,day,180,4,alta,BRA_2018_10_28; BRA_2018_05_27; BRA_2018_05_21; BRA_2018_04_07,Eleicao Bolsonaro; Subvencao ao diesel apos greve; Inicio da greve dos caminhoneiros; Prisao de Lula,52; -102; -108; -152,True
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,2018-10-28,day,30,0,baixa,,,,False
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,2018-10-28,day,90,1,moderada,BRA_2018_09_06,Facada em Bolsonaro,-52,True
+BRA_2018_10_28,BRA,Brazil,Eleicao Bolsonaro,2018-10-28,day,180,3,alta,BRA_2018_09_06; BRA_2018_05_27; BRA_2018_05_21,Facada em Bolsonaro; Subvencao ao diesel apos greve; Inicio da greve dos caminhoneiros,-52; -154; -160,True
+BRA_2019_11_08,BRA,Brazil,Soltura de Lula,2019-11-08,day,30,1,moderada,BRA_2019_11_12,Reforma da Previdencia,4,True
+BRA_2019_11_08,BRA,Brazil,Soltura de Lula,2019-11-08,day,90,1,moderada,BRA_2019_11_12,Reforma da Previdencia,4,True
+BRA_2019_11_08,BRA,Brazil,Soltura de Lula,2019-11-08,day,180,3,alta,BRA_2019_11_12; BRA_2020_03_11; BRA_2020_04_02,Reforma da Previdencia; Pandemia Covid; Auxilio emergencial,4; 124; 146,True
+BRA_2019_11_12,BRA,Brazil,Reforma da Previdencia,2019-11-12,day,30,1,moderada,BRA_2019_11_08,Soltura de Lula,-4,True
+BRA_2019_11_12,BRA,Brazil,Reforma da Previdencia,2019-11-12,day,90,1,moderada,BRA_2019_11_08,Soltura de Lula,-4,True
+BRA_2019_11_12,BRA,Brazil,Reforma da Previdencia,2019-11-12,day,180,3,alta,BRA_2019_11_08; BRA_2020_03_11; BRA_2020_04_02,Soltura de Lula; Pandemia Covid; Auxilio emergencial,-4; 120; 142,True
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,2020-03-11,day,30,1,moderada,BRA_2020_04_02,Auxilio emergencial,22,True
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,2020-03-11,day,90,1,moderada,BRA_2020_04_02,Auxilio emergencial,22,True
+BRA_2020_03_11,BRA,Brazil,Pandemia Covid,2020-03-11,day,180,3,alta,BRA_2020_04_02; BRA_2019_11_12; BRA_2019_11_08,Auxilio emergencial; Reforma da Previdencia; Soltura de Lula,22; -120; -124,True
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,2020-04-02,day,30,1,moderada,BRA_2020_03_11,Pandemia Covid,-22,True
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,2020-04-02,day,90,1,moderada,BRA_2020_03_11,Pandemia Covid,-22,True
+BRA_2020_04_02,BRA,Brazil,Auxilio emergencial,2020-04-02,day,180,3,alta,BRA_2020_03_11; BRA_2019_11_12; BRA_2019_11_08,Pandemia Covid; Reforma da Previdencia; Soltura de Lula,-22; -142; -146,True
+BRA_2021_02_19,BRA,Brazil,Troca no comando da Petrobras,2021-02-19,day,30,1,moderada,BRA_2021_03_17,Inicio do ciclo de alta da Selic,26,True
+BRA_2021_02_19,BRA,Brazil,Troca no comando da Petrobras,2021-02-19,day,90,2,moderada,BRA_2021_03_17; BRA_2021_04_27,Inicio do ciclo de alta da Selic; CPI da Covid,26; 67,True
+BRA_2021_02_19,BRA,Brazil,Troca no comando da Petrobras,2021-02-19,day,180,2,moderada,BRA_2021_03_17; BRA_2021_04_27,Inicio do ciclo de alta da Selic; CPI da Covid,26; 67,True
+BRA_2021_03_17,BRA,Brazil,Inicio do ciclo de alta da Selic,2021-03-17,day,30,1,moderada,BRA_2021_02_19,Troca no comando da Petrobras,-26,True
+BRA_2021_03_17,BRA,Brazil,Inicio do ciclo de alta da Selic,2021-03-17,day,90,2,moderada,BRA_2021_02_19; BRA_2021_04_27,Troca no comando da Petrobras; CPI da Covid,-26; 41,True
+BRA_2021_03_17,BRA,Brazil,Inicio do ciclo de alta da Selic,2021-03-17,day,180,2,moderada,BRA_2021_02_19; BRA_2021_04_27,Troca no comando da Petrobras; CPI da Covid,-26; 41,True
+BRA_2021_04_27,BRA,Brazil,CPI da Covid,2021-04-27,day,30,0,baixa,,,,False
+BRA_2021_04_27,BRA,Brazil,CPI da Covid,2021-04-27,day,90,2,moderada,BRA_2021_03_17; BRA_2021_02_19,Inicio do ciclo de alta da Selic; Troca no comando da Petrobras,-41; -67,True
+BRA_2021_04_27,BRA,Brazil,CPI da Covid,2021-04-27,day,180,2,moderada,BRA_2021_03_17; BRA_2021_02_19,Inicio do ciclo de alta da Selic; Troca no comando da Petrobras,-41; -67,True
+BRA_2021_12_02,BRA,Brazil,Aprovacao da PEC dos Precatorios,2021-12-02,day,30,0,baixa,,,,False
+BRA_2021_12_02,BRA,Brazil,Aprovacao da PEC dos Precatorios,2021-12-02,day,90,1,moderada,BRA_2022_02_24,Choque global da guerra na Ucrania,84,True
+BRA_2021_12_02,BRA,Brazil,Aprovacao da PEC dos Precatorios,2021-12-02,day,180,1,moderada,BRA_2022_02_24,Choque global da guerra na Ucrania,84,True
+BRA_2022_02_24,BRA,Brazil,Choque global da guerra na Ucrania,2022-02-24,day,30,0,baixa,,,,False
+BRA_2022_02_24,BRA,Brazil,Choque global da guerra na Ucrania,2022-02-24,day,90,1,moderada,BRA_2021_12_02,Aprovacao da PEC dos Precatorios,-84,True
+BRA_2022_02_24,BRA,Brazil,Choque global da guerra na Ucrania,2022-02-24,day,180,3,alta,BRA_2021_12_02; BRA_2022_06_23; BRA_2022_07_14,Aprovacao da PEC dos Precatorios; Teto do ICMS dos combustiveis; PEC dos beneficios eleitorais,-84; 119; 140,True
+BRA_2022_06_23,BRA,Brazil,Teto do ICMS dos combustiveis,2022-06-23,day,30,1,moderada,BRA_2022_07_14,PEC dos beneficios eleitorais,21,True
+BRA_2022_06_23,BRA,Brazil,Teto do ICMS dos combustiveis,2022-06-23,day,90,1,moderada,BRA_2022_07_14,PEC dos beneficios eleitorais,21,True
+BRA_2022_06_23,BRA,Brazil,Teto do ICMS dos combustiveis,2022-06-23,day,180,4,alta,BRA_2022_07_14; BRA_2022_02_24; BRA_2022_10_30; BRA_2022_12_09,PEC dos beneficios eleitorais; Choque global da guerra na Ucrania; Eleicao Lula; Anuncio de Fernando Haddad na Fazenda,21; -119; 129; 169,True
+BRA_2022_07_14,BRA,Brazil,PEC dos beneficios eleitorais,2022-07-14,day,30,1,moderada,BRA_2022_06_23,Teto do ICMS dos combustiveis,-21,True
+BRA_2022_07_14,BRA,Brazil,PEC dos beneficios eleitorais,2022-07-14,day,90,1,moderada,BRA_2022_06_23,Teto do ICMS dos combustiveis,-21,True
+BRA_2022_07_14,BRA,Brazil,PEC dos beneficios eleitorais,2022-07-14,day,180,6,alta,BRA_2022_06_23; BRA_2022_10_30; BRA_2022_02_24; BRA_2022_12_09; BRA_2022_12_21; BRA_2023_01_08,Teto do ICMS dos combustiveis; Eleicao Lula; Choque global da guerra na Ucrania; Anuncio de Fernando Haddad na Fazenda; Aprovacao da PEC da Transicao; Atos de 8 de janeiro,-21; 108; -140; 148; 160; 178,True
+BRA_2022_10_30,BRA,Brazil,Eleicao Lula,2022-10-30,day,30,0,baixa,,,,False
+BRA_2022_10_30,BRA,Brazil,Eleicao Lula,2022-10-30,day,90,3,alta,BRA_2022_12_09; BRA_2022_12_21; BRA_2023_01_08,Anuncio de Fernando Haddad na Fazenda; Aprovacao da PEC da Transicao; Atos de 8 de janeiro,40; 52; 70,True
+BRA_2022_10_30,BRA,Brazil,Eleicao Lula,2022-10-30,day,180,6,alta,BRA_2022_12_09; BRA_2022_12_21; BRA_2023_01_08; BRA_2022_07_14; BRA_2022_06_23; BRA_2023_03_30,Anuncio de Fernando Haddad na Fazenda; Aprovacao da PEC da Transicao; Atos de 8 de janeiro; PEC dos beneficios eleitorais; Teto do ICMS dos combustiveis; Apresentacao do novo arcabouco fiscal,40; 52; 70; -108; -129; 151,True
+BRA_2022_12_09,BRA,Brazil,Anuncio de Fernando Haddad na Fazenda,2022-12-09,day,30,2,moderada,BRA_2022_12_21; BRA_2023_01_08,Aprovacao da PEC da Transicao; Atos de 8 de janeiro,12; 30,True
+BRA_2022_12_09,BRA,Brazil,Anuncio de Fernando Haddad na Fazenda,2022-12-09,day,90,3,alta,BRA_2022_12_21; BRA_2023_01_08; BRA_2022_10_30,Aprovacao da PEC da Transicao; Atos de 8 de janeiro; Eleicao Lula,12; 30; -40,True
+BRA_2022_12_09,BRA,Brazil,Anuncio de Fernando Haddad na Fazenda,2022-12-09,day,180,7,alta,BRA_2022_12_21; BRA_2023_01_08; BRA_2022_10_30; BRA_2023_03_30; BRA_2022_07_14; BRA_2023_05_16; BRA_2022_06_23,Aprovacao da PEC da Transicao; Atos de 8 de janeiro; Eleicao Lula; Apresentacao do novo arcabouco fiscal; PEC dos beneficios eleitorais; Mudanca na politica de precos da Petrobras; Teto do ICMS dos combustiveis,12; 30; -40; 111; -148; 158; -169,True
+BRA_2022_12_21,BRA,Brazil,Aprovacao da PEC da Transicao,2022-12-21,day,30,2,moderada,BRA_2022_12_09; BRA_2023_01_08,Anuncio de Fernando Haddad na Fazenda; Atos de 8 de janeiro,-12; 18,True
+BRA_2022_12_21,BRA,Brazil,Aprovacao da PEC da Transicao,2022-12-21,day,90,3,alta,BRA_2022_12_09; BRA_2023_01_08; BRA_2022_10_30,Anuncio de Fernando Haddad na Fazenda; Atos de 8 de janeiro; Eleicao Lula,-12; 18; -52,True
+BRA_2022_12_21,BRA,Brazil,Aprovacao da PEC da Transicao,2022-12-21,day,180,6,alta,BRA_2022_12_09; BRA_2023_01_08; BRA_2022_10_30; BRA_2023_03_30; BRA_2023_05_16; BRA_2022_07_14,Anuncio de Fernando Haddad na Fazenda; Atos de 8 de janeiro; Eleicao Lula; Apresentacao do novo arcabouco fiscal; Mudanca na politica de precos da Petrobras; PEC dos beneficios eleitorais,-12; 18; -52; 99; 146; -160,True
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,2023-01-08,day,30,2,moderada,BRA_2022_12_21; BRA_2022_12_09,Aprovacao da PEC da Transicao; Anuncio de Fernando Haddad na Fazenda,-18; -30,True
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,2023-01-08,day,90,4,alta,BRA_2022_12_21; BRA_2022_12_09; BRA_2022_10_30; BRA_2023_03_30,Aprovacao da PEC da Transicao; Anuncio de Fernando Haddad na Fazenda; Eleicao Lula; Apresentacao do novo arcabouco fiscal,-18; -30; -70; 81,True
+BRA_2023_01_08,BRA,Brazil,Atos de 8 de janeiro,2023-01-08,day,180,6,alta,BRA_2022_12_21; BRA_2022_12_09; BRA_2022_10_30; BRA_2023_03_30; BRA_2023_05_16; BRA_2022_07_14,Aprovacao da PEC da Transicao; Anuncio de Fernando Haddad na Fazenda; Eleicao Lula; Apresentacao do novo arcabouco fiscal; Mudanca na politica de precos da Petrobras; PEC dos beneficios eleitorais,-18; -30; -70; 81; 128; -178,True
+BRA_2023_03_30,BRA,Brazil,Apresentacao do novo arcabouco fiscal,2023-03-30,day,30,0,baixa,,,,False
+BRA_2023_03_30,BRA,Brazil,Apresentacao do novo arcabouco fiscal,2023-03-30,day,90,2,moderada,BRA_2023_05_16; BRA_2023_01_08,Mudanca na politica de precos da Petrobras; Atos de 8 de janeiro,47; -81,True
+BRA_2023_03_30,BRA,Brazil,Apresentacao do novo arcabouco fiscal,2023-03-30,day,180,7,alta,BRA_2023_05_16; BRA_2023_01_08; BRA_2022_12_21; BRA_2022_12_09; BRA_2023_08_02; BRA_2022_10_30; BRA_2023_08_31,Mudanca na politica de precos da Petrobras; Atos de 8 de janeiro; Aprovacao da PEC da Transicao; Anuncio de Fernando Haddad na Fazenda; Inicio do ciclo de corte da Selic de 2023; Eleicao Lula; Novo arcabouco fiscal,47; -81; -99; -111; 125; -151; 154,True
+BRA_2023_05_16,BRA,Brazil,Mudanca na politica de precos da Petrobras,2023-05-16,day,30,0,baixa,,,,False
+BRA_2023_05_16,BRA,Brazil,Mudanca na politica de precos da Petrobras,2023-05-16,day,90,2,moderada,BRA_2023_03_30; BRA_2023_08_02,Apresentacao do novo arcabouco fiscal; Inicio do ciclo de corte da Selic de 2023,-47; 78,True
+BRA_2023_05_16,BRA,Brazil,Mudanca na politica de precos da Petrobras,2023-05-16,day,180,6,alta,BRA_2023_03_30; BRA_2023_08_02; BRA_2023_08_31; BRA_2023_01_08; BRA_2022_12_21; BRA_2022_12_09,Apresentacao do novo arcabouco fiscal; Inicio do ciclo de corte da Selic de 2023; Novo arcabouco fiscal; Atos de 8 de janeiro; Aprovacao da PEC da Transicao; Anuncio de Fernando Haddad na Fazenda,-47; 78; 107; -128; -146; -158,True
+BRA_2023_08_02,BRA,Brazil,Inicio do ciclo de corte da Selic de 2023,2023-08-02,day,30,1,moderada,BRA_2023_08_31,Novo arcabouco fiscal,29,True
+BRA_2023_08_02,BRA,Brazil,Inicio do ciclo de corte da Selic de 2023,2023-08-02,day,90,2,moderada,BRA_2023_08_31; BRA_2023_05_16,Novo arcabouco fiscal; Mudanca na politica de precos da Petrobras,29; -78,True
+BRA_2023_08_02,BRA,Brazil,Inicio do ciclo de corte da Selic de 2023,2023-08-02,day,180,4,alta,BRA_2023_08_31; BRA_2023_05_16; BRA_2023_03_30; BRA_2023_12_20,Novo arcabouco fiscal; Mudanca na politica de precos da Petrobras; Apresentacao do novo arcabouco fiscal; Promulgacao da reforma tributaria,29; -78; -125; 140,True
+BRA_2023_08_31,BRA,Brazil,Novo arcabouco fiscal,2023-08-31,day,30,1,moderada,BRA_2023_08_02,Inicio do ciclo de corte da Selic de 2023,-29,True
+BRA_2023_08_31,BRA,Brazil,Novo arcabouco fiscal,2023-08-31,day,90,1,moderada,BRA_2023_08_02,Inicio do ciclo de corte da Selic de 2023,-29,True
+BRA_2023_08_31,BRA,Brazil,Novo arcabouco fiscal,2023-08-31,day,180,4,alta,BRA_2023_08_02; BRA_2023_05_16; BRA_2023_12_20; BRA_2023_03_30,Inicio do ciclo de corte da Selic de 2023; Mudanca na politica de precos da Petrobras; Promulgacao da reforma tributaria; Apresentacao do novo arcabouco fiscal,-29; -107; 111; -154,True
+BRA_2023_12_20,BRA,Brazil,Promulgacao da reforma tributaria,2023-12-20,day,30,0,baixa,,,,False
+BRA_2023_12_20,BRA,Brazil,Promulgacao da reforma tributaria,2023-12-20,day,90,0,baixa,,,,False
+BRA_2023_12_20,BRA,Brazil,Promulgacao da reforma tributaria,2023-12-20,day,180,2,moderada,BRA_2023_08_31; BRA_2023_08_02,Novo arcabouco fiscal; Inicio do ciclo de corte da Selic de 2023,-111; -140,True
+BRA_2024_09_18,BRA,Brazil,Retomada do ciclo de alta da Selic,2024-09-18,day,30,1,moderada,BRA_2024_10,Eleicoes municipais,28,True
+BRA_2024_09_18,BRA,Brazil,Retomada do ciclo de alta da Selic,2024-09-18,day,90,1,moderada,BRA_2024_10,Eleicoes municipais,28,True
+BRA_2024_09_18,BRA,Brazil,Retomada do ciclo de alta da Selic,2024-09-18,day,180,1,moderada,BRA_2024_10,Eleicoes municipais,28,True
+BRA_2024_10,BRA,Brazil,Eleicoes municipais,2024-10-16,month,30,1,moderada,BRA_2024_09_18,Retomada do ciclo de alta da Selic,-28,True
+BRA_2024_10,BRA,Brazil,Eleicoes municipais,2024-10-16,month,90,1,moderada,BRA_2024_09_18,Retomada do ciclo de alta da Selic,-28,True
+BRA_2024_10,BRA,Brazil,Eleicoes municipais,2024-10-16,month,180,1,moderada,BRA_2024_09_18,Retomada do ciclo de alta da Selic,-28,True
+USA_2016_11_08,USA,United States,Eleicao Trump,2016-11-08,day,30,0,baixa,,,,False
+USA_2016_11_08,USA,United States,Eleicao Trump,2016-11-08,day,90,1,moderada,USA_2016_12_14,Alta de juros do Fed apos eleicao Trump,36,True
+USA_2016_11_08,USA,United States,Eleicao Trump,2016-11-08,day,180,2,moderada,USA_2016_12_14; USA_2017_03_15,Alta de juros do Fed apos eleicao Trump; Fed acelera ciclo de alta de juros,36; 127,True
+USA_2016_12_14,USA,United States,Alta de juros do Fed apos eleicao Trump,2016-12-14,day,30,0,baixa,,,,False
+USA_2016_12_14,USA,United States,Alta de juros do Fed apos eleicao Trump,2016-12-14,day,90,1,moderada,USA_2016_11_08,Eleicao Trump,-36,True
+USA_2016_12_14,USA,United States,Alta de juros do Fed apos eleicao Trump,2016-12-14,day,180,2,moderada,USA_2016_11_08; USA_2017_03_15,Eleicao Trump; Fed acelera ciclo de alta de juros,-36; 91,True
+USA_2017_03_15,USA,United States,Fed acelera ciclo de alta de juros,2017-03-15,day,30,0,baixa,,,,False
+USA_2017_03_15,USA,United States,Fed acelera ciclo de alta de juros,2017-03-15,day,90,0,baixa,,,,False
+USA_2017_03_15,USA,United States,Fed acelera ciclo de alta de juros,2017-03-15,day,180,2,moderada,USA_2016_12_14; USA_2016_11_08,Alta de juros do Fed apos eleicao Trump; Eleicao Trump,-91; -127,True
+USA_2017_12_22,USA,United States,Tax Cuts and Jobs Act,2017-12-22,day,30,0,baixa,,,,False
+USA_2017_12_22,USA,United States,Tax Cuts and Jobs Act,2017-12-22,day,90,1,moderada,USA_2018_03,Tarifas comerciais contra China,84,True
+USA_2017_12_22,USA,United States,Tax Cuts and Jobs Act,2017-12-22,day,180,1,moderada,USA_2018_03,Tarifas comerciais contra China,84,True
+USA_2018_03,USA,United States,Tarifas comerciais contra China,2018-03-16,month,30,0,baixa,,,,False
+USA_2018_03,USA,United States,Tarifas comerciais contra China,2018-03-16,month,90,1,moderada,USA_2017_12_22,Tax Cuts and Jobs Act,-84,True
+USA_2018_03,USA,United States,Tarifas comerciais contra China,2018-03-16,month,180,2,moderada,USA_2017_12_22; USA_2018_07_06,Tax Cuts and Jobs Act; Inicio das tarifas EUA-China,-84; 112,True
+USA_2018_07_06,USA,United States,Inicio das tarifas EUA-China,2018-07-06,day,30,0,baixa,,,,False
+USA_2018_07_06,USA,United States,Inicio das tarifas EUA-China,2018-07-06,day,90,0,baixa,,,,False
+USA_2018_07_06,USA,United States,Inicio das tarifas EUA-China,2018-07-06,day,180,2,moderada,USA_2018_03; USA_2018_12_19,Tarifas comerciais contra China; Fed eleva juros em meio a turbulencia de mercado,-112; 166,True
+USA_2018_12_19,USA,United States,Fed eleva juros em meio a turbulencia de mercado,2018-12-19,day,30,0,baixa,,,,False
+USA_2018_12_19,USA,United States,Fed eleva juros em meio a turbulencia de mercado,2018-12-19,day,90,0,baixa,,,,False
+USA_2018_12_19,USA,United States,Fed eleva juros em meio a turbulencia de mercado,2018-12-19,day,180,1,moderada,USA_2018_07_06,Inicio das tarifas EUA-China,-166,True
+USA_2019_07_31,USA,United States,Primeiro corte de juros do Fed desde 2008,2019-07-31,day,30,0,baixa,,,,False
+USA_2019_07_31,USA,United States,Primeiro corte de juros do Fed desde 2008,2019-07-31,day,90,0,baixa,,,,False
+USA_2019_07_31,USA,United States,Primeiro corte de juros do Fed desde 2008,2019-07-31,day,180,0,baixa,,,,False
+USA_2020_03_03,USA,United States,Corte emergencial de juros do Fed,2020-03-03,day,30,3,alta,USA_2020_03_15; USA_2020_03; USA_2020_03_27,Fed leva juros a zero e relanca QE; Pandemia Covid; CARES Act,12; 13; 24,True
+USA_2020_03_03,USA,United States,Corte emergencial de juros do Fed,2020-03-03,day,90,3,alta,USA_2020_03_15; USA_2020_03; USA_2020_03_27,Fed leva juros a zero e relanca QE; Pandemia Covid; CARES Act,12; 13; 24,True
+USA_2020_03_03,USA,United States,Corte emergencial de juros do Fed,2020-03-03,day,180,3,alta,USA_2020_03_15; USA_2020_03; USA_2020_03_27,Fed leva juros a zero e relanca QE; Pandemia Covid; CARES Act,12; 13; 24,True
+USA_2020_03_15,USA,United States,Fed leva juros a zero e relanca QE,2020-03-15,day,30,3,alta,USA_2020_03; USA_2020_03_03; USA_2020_03_27,Pandemia Covid; Corte emergencial de juros do Fed; CARES Act,1; -12; 12,True
+USA_2020_03_15,USA,United States,Fed leva juros a zero e relanca QE,2020-03-15,day,90,3,alta,USA_2020_03; USA_2020_03_03; USA_2020_03_27,Pandemia Covid; Corte emergencial de juros do Fed; CARES Act,1; -12; 12,True
+USA_2020_03_15,USA,United States,Fed leva juros a zero e relanca QE,2020-03-15,day,180,3,alta,USA_2020_03; USA_2020_03_03; USA_2020_03_27,Pandemia Covid; Corte emergencial de juros do Fed; CARES Act,1; -12; 12,True
+USA_2020_03,USA,United States,Pandemia Covid,2020-03-16,month,30,3,alta,USA_2020_03_15; USA_2020_03_27; USA_2020_03_03,Fed leva juros a zero e relanca QE; CARES Act; Corte emergencial de juros do Fed,-1; 11; -13,True
+USA_2020_03,USA,United States,Pandemia Covid,2020-03-16,month,90,3,alta,USA_2020_03_15; USA_2020_03_27; USA_2020_03_03,Fed leva juros a zero e relanca QE; CARES Act; Corte emergencial de juros do Fed,-1; 11; -13,True
+USA_2020_03,USA,United States,Pandemia Covid,2020-03-16,month,180,3,alta,USA_2020_03_15; USA_2020_03_27; USA_2020_03_03,Fed leva juros a zero e relanca QE; CARES Act; Corte emergencial de juros do Fed,-1; 11; -13,True
+USA_2020_03_27,USA,United States,CARES Act,2020-03-27,day,30,3,alta,USA_2020_03; USA_2020_03_15; USA_2020_03_03,Pandemia Covid; Fed leva juros a zero e relanca QE; Corte emergencial de juros do Fed,-11; -12; -24,True
+USA_2020_03_27,USA,United States,CARES Act,2020-03-27,day,90,3,alta,USA_2020_03; USA_2020_03_15; USA_2020_03_03,Pandemia Covid; Fed leva juros a zero e relanca QE; Corte emergencial de juros do Fed,-11; -12; -24,True
+USA_2020_03_27,USA,United States,CARES Act,2020-03-27,day,180,3,alta,USA_2020_03; USA_2020_03_15; USA_2020_03_03,Pandemia Covid; Fed leva juros a zero e relanca QE; Corte emergencial de juros do Fed,-11; -12; -24,True
+USA_2020_11_03,USA,United States,Eleicao Biden,2020-11-03,day,30,0,baixa,,,,False
+USA_2020_11_03,USA,United States,Eleicao Biden,2020-11-03,day,90,2,moderada,USA_2020_12_27; USA_2021_01_06,Segundo pacote fiscal Covid; Invasao do Capitolio,54; 64,True
+USA_2020_11_03,USA,United States,Eleicao Biden,2020-11-03,day,180,3,alta,USA_2020_12_27; USA_2021_01_06; USA_2021_03_11,Segundo pacote fiscal Covid; Invasao do Capitolio; American Rescue Plan,54; 64; 128,True
+USA_2020_12_27,USA,United States,Segundo pacote fiscal Covid,2020-12-27,day,30,1,moderada,USA_2021_01_06,Invasao do Capitolio,10,True
+USA_2020_12_27,USA,United States,Segundo pacote fiscal Covid,2020-12-27,day,90,3,alta,USA_2021_01_06; USA_2020_11_03; USA_2021_03_11,Invasao do Capitolio; Eleicao Biden; American Rescue Plan,10; -54; 74,True
+USA_2020_12_27,USA,United States,Segundo pacote fiscal Covid,2020-12-27,day,180,3,alta,USA_2021_01_06; USA_2020_11_03; USA_2021_03_11,Invasao do Capitolio; Eleicao Biden; American Rescue Plan,10; -54; 74,True
+USA_2021_01_06,USA,United States,Invasao do Capitolio,2021-01-06,day,30,1,moderada,USA_2020_12_27,Segundo pacote fiscal Covid,-10,True
+USA_2021_01_06,USA,United States,Invasao do Capitolio,2021-01-06,day,90,3,alta,USA_2020_12_27; USA_2020_11_03; USA_2021_03_11,Segundo pacote fiscal Covid; Eleicao Biden; American Rescue Plan,-10; -64; 64,True
+USA_2021_01_06,USA,United States,Invasao do Capitolio,2021-01-06,day,180,3,alta,USA_2020_12_27; USA_2020_11_03; USA_2021_03_11,Segundo pacote fiscal Covid; Eleicao Biden; American Rescue Plan,-10; -64; 64,True
+USA_2021_03_11,USA,United States,American Rescue Plan,2021-03-11,day,30,0,baixa,,,,False
+USA_2021_03_11,USA,United States,American Rescue Plan,2021-03-11,day,90,2,moderada,USA_2021_01_06; USA_2020_12_27,Invasao do Capitolio; Segundo pacote fiscal Covid,-64; -74,True
+USA_2021_03_11,USA,United States,American Rescue Plan,2021-03-11,day,180,3,alta,USA_2021_01_06; USA_2020_12_27; USA_2020_11_03,Invasao do Capitolio; Segundo pacote fiscal Covid; Eleicao Biden,-64; -74; -128,True
+USA_2021_11_15,USA,United States,Infrastructure Investment and Jobs Act,2021-11-15,day,30,0,baixa,,,,False
+USA_2021_11_15,USA,United States,Infrastructure Investment and Jobs Act,2021-11-15,day,90,0,baixa,,,,False
+USA_2021_11_15,USA,United States,Infrastructure Investment and Jobs Act,2021-11-15,day,180,2,moderada,USA_2022_03; USA_2022_03_16,Ciclo de alta de juros do Fed; Primeira alta de juros do Fed no ciclo inflacionario,121; 121,True
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,2022-03-16,month,30,1,moderada,USA_2022_03_16,Primeira alta de juros do Fed no ciclo inflacionario,0,True
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,2022-03-16,month,90,1,moderada,USA_2022_03_16,Primeira alta de juros do Fed no ciclo inflacionario,0,True
+USA_2022_03,USA,United States,Ciclo de alta de juros do Fed,2022-03-16,month,180,4,alta,USA_2022_03_16; USA_2022_06_15; USA_2021_11_15; USA_2022_08_16,Primeira alta de juros do Fed no ciclo inflacionario; Fed faz alta de 75 pontos-base; Infrastructure Investment and Jobs Act; Inflation Reduction Act,0; 91; -121; 153,True
+USA_2022_03_16,USA,United States,Primeira alta de juros do Fed no ciclo inflacionario,2022-03-16,day,30,1,moderada,USA_2022_03,Ciclo de alta de juros do Fed,0,True
+USA_2022_03_16,USA,United States,Primeira alta de juros do Fed no ciclo inflacionario,2022-03-16,day,90,1,moderada,USA_2022_03,Ciclo de alta de juros do Fed,0,True
+USA_2022_03_16,USA,United States,Primeira alta de juros do Fed no ciclo inflacionario,2022-03-16,day,180,4,alta,USA_2022_03; USA_2022_06_15; USA_2021_11_15; USA_2022_08_16,Ciclo de alta de juros do Fed; Fed faz alta de 75 pontos-base; Infrastructure Investment and Jobs Act; Inflation Reduction Act,0; 91; -121; 153,True
+USA_2022_06_15,USA,United States,Fed faz alta de 75 pontos-base,2022-06-15,day,30,0,baixa,,,,False
+USA_2022_06_15,USA,United States,Fed faz alta de 75 pontos-base,2022-06-15,day,90,1,moderada,USA_2022_08_16,Inflation Reduction Act,62,True
+USA_2022_06_15,USA,United States,Fed faz alta de 75 pontos-base,2022-06-15,day,180,3,alta,USA_2022_08_16; USA_2022_03; USA_2022_03_16,Inflation Reduction Act; Ciclo de alta de juros do Fed; Primeira alta de juros do Fed no ciclo inflacionario,62; -91; -91,True
+USA_2022_08_16,USA,United States,Inflation Reduction Act,2022-08-16,day,30,0,baixa,,,,False
+USA_2022_08_16,USA,United States,Inflation Reduction Act,2022-08-16,day,90,1,moderada,USA_2022_06_15,Fed faz alta de 75 pontos-base,-62,True
+USA_2022_08_16,USA,United States,Inflation Reduction Act,2022-08-16,day,180,3,alta,USA_2022_06_15; USA_2022_03; USA_2022_03_16,Fed faz alta de 75 pontos-base; Ciclo de alta de juros do Fed; Primeira alta de juros do Fed no ciclo inflacionario,-62; -153; -153,True
+USA_2023_03_10,USA,United States,Colapso do Silicon Valley Bank,2023-03-10,day,30,0,baixa,,,,False
+USA_2023_03_10,USA,United States,Colapso do Silicon Valley Bank,2023-03-10,day,90,2,moderada,USA_2023_05_01; USA_2023_06_03,First Republic Bank assumido pelo JPMorgan; Debt ceiling deal 2023,52; 85,True
+USA_2023_03_10,USA,United States,Colapso do Silicon Valley Bank,2023-03-10,day,180,3,alta,USA_2023_05_01; USA_2023_06_03; USA_2023_07_26,First Republic Bank assumido pelo JPMorgan; Debt ceiling deal 2023; Fed atinge pico do ciclo de juros,52; 85; 138,True
+USA_2023_05_01,USA,United States,First Republic Bank assumido pelo JPMorgan,2023-05-01,day,30,0,baixa,,,,False
+USA_2023_05_01,USA,United States,First Republic Bank assumido pelo JPMorgan,2023-05-01,day,90,3,alta,USA_2023_06_03; USA_2023_03_10; USA_2023_07_26,Debt ceiling deal 2023; Colapso do Silicon Valley Bank; Fed atinge pico do ciclo de juros,33; -52; 86,True
+USA_2023_05_01,USA,United States,First Republic Bank assumido pelo JPMorgan,2023-05-01,day,180,3,alta,USA_2023_06_03; USA_2023_03_10; USA_2023_07_26,Debt ceiling deal 2023; Colapso do Silicon Valley Bank; Fed atinge pico do ciclo de juros,33; -52; 86,True
+USA_2023_06_03,USA,United States,Debt ceiling deal 2023,2023-06-03,day,30,0,baixa,,,,False
+USA_2023_06_03,USA,United States,Debt ceiling deal 2023,2023-06-03,day,90,3,alta,USA_2023_05_01; USA_2023_07_26; USA_2023_03_10,First Republic Bank assumido pelo JPMorgan; Fed atinge pico do ciclo de juros; Colapso do Silicon Valley Bank,-33; 53; -85,True
+USA_2023_06_03,USA,United States,Debt ceiling deal 2023,2023-06-03,day,180,3,alta,USA_2023_05_01; USA_2023_07_26; USA_2023_03_10,First Republic Bank assumido pelo JPMorgan; Fed atinge pico do ciclo de juros; Colapso do Silicon Valley Bank,-33; 53; -85,True
+USA_2023_07_26,USA,United States,Fed atinge pico do ciclo de juros,2023-07-26,day,30,0,baixa,,,,False
+USA_2023_07_26,USA,United States,Fed atinge pico do ciclo de juros,2023-07-26,day,90,2,moderada,USA_2023_06_03; USA_2023_05_01,Debt ceiling deal 2023; First Republic Bank assumido pelo JPMorgan,-53; -86,True
+USA_2023_07_26,USA,United States,Fed atinge pico do ciclo de juros,2023-07-26,day,180,3,alta,USA_2023_06_03; USA_2023_05_01; USA_2023_03_10,Debt ceiling deal 2023; First Republic Bank assumido pelo JPMorgan; Colapso do Silicon Valley Bank,-53; -86; -138,True
+USA_2024_09_18,USA,United States,Fed inicia ciclo de corte de juros,2024-09-18,day,30,0,baixa,,,,False
+USA_2024_09_18,USA,United States,Fed inicia ciclo de corte de juros,2024-09-18,day,90,1,moderada,USA_2024_11,Eleicao presidencial,58,True
+USA_2024_09_18,USA,United States,Fed inicia ciclo de corte de juros,2024-09-18,day,180,1,moderada,USA_2024_11,Eleicao presidencial,58,True
+USA_2024_11,USA,United States,Eleicao presidencial,2024-11-15,month,30,0,baixa,,,,False
+USA_2024_11,USA,United States,Eleicao presidencial,2024-11-15,month,90,1,moderada,USA_2024_09_18,Fed inicia ciclo de corte de juros,-59,True
+USA_2024_11,USA,United States,Eleicao presidencial,2024-11-15,month,180,1,moderada,USA_2024_09_18,Fed inicia ciclo de corte de juros,-59,True
