@@ -1672,10 +1672,16 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
         )
         default = impact_defaults or available[: min(4, len(available))]
     
-        col_ctrl1, col_ctrl2 = st.columns([2.3, 1])
+        col_ctrl1, col_ctrl2, col_ctrl3 = st.columns([1.7, 1, 1])
         with col_ctrl1:
             selected = st.multiselect("indicadores", available, default=default)
         with col_ctrl2:
+            chart_window = st.selectbox(
+                "janela",
+                ["evento +/- 2 anos", "serie completa"],
+                key=f"indicator_window_{country}_{selected_event_id}",
+            )
+        with col_ctrl3:
             show_all_events = st.toggle(
                 "marcar acontecimentos no grafico",
                 value=False,
@@ -1683,40 +1689,48 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
             )
         
         plot_df = country_indicators[country_indicators["indicator_label"].isin(selected)].copy()
-        plot_df["nearby_events"] = nearby_event_hover_labels(
-            plot_df["date"], country_events, selected_event_id, window_days=21
-        )
+        if chart_window == "evento +/- 2 anos" and pd.notna(selected_event["start_date"]):
+            window_start = selected_event["start_date"] - pd.Timedelta(days=730)
+            window_end = selected_event["start_date"] + pd.Timedelta(days=730)
+            plot_df = plot_df[(plot_df["date"] >= window_start) & (plot_df["date"] <= window_end)].copy()
 
-        fig = px.line(
-            plot_df,
-            x="date",
-            y="z_score",
-            color="indicator_label",
-            custom_data=["indicator_label", "value", "unit", "source", "frequency_label", "nearby_events"],
-            labels={"z_score": "distancia do padrao historico", "date": "data", "indicator_label": "indicador"},
-            color_discrete_sequence=px.colors.qualitative.Safe,
-        )
-        fig.update_traces(
-            hovertemplate=(
-                "<b>%{customdata[0]}</b><br>"
-                "Data: %{x|%d/%m/%Y}<br>"
-                "Distancia do padrao: %{y:.2f}<br>"
-                "Valor original: %{customdata[1]:.2f} %{customdata[2]}<br>"
-                "Frequencia: %{customdata[4]}<br>"
-                "Fonte: %{customdata[3]}<br><br>"
-                "<b>Eventos proximos (+/-21d)</b><br>%{customdata[5]}"
-                "<extra></extra>"
-            )
-        )
-        add_event_overlays(fig, country_events, selected_event, show_all_events)
-        style_chart(fig, height=600, left_margin=55)
-    
-        # Layout de duas colunas (grafico + movimentos do evento)
-        chart_col, card_col = st.columns([2.3, 1])
-        with chart_col:
-            st.plotly_chart(fig, use_container_width=True)
-        with card_col:
+        if plot_df.empty:
+            st.warning("Nao ha dados economicos disponiveis para os indicadores e a janela selecionados.")
             render_event_movement_cards(selected_event, selected_event_impacts)
+        else:
+            plot_df["nearby_events"] = nearby_event_hover_labels(
+                plot_df["date"], country_events, selected_event_id, window_days=21
+            )
+
+            fig = px.line(
+                plot_df,
+                x="date",
+                y="z_score",
+                color="indicator_label",
+                custom_data=["indicator_label", "value", "unit", "source", "frequency_label", "nearby_events"],
+                labels={"z_score": "distancia do padrao historico", "date": "data", "indicator_label": "indicador"},
+                color_discrete_sequence=px.colors.qualitative.Safe,
+            )
+            fig.update_traces(
+                hovertemplate=(
+                    "<b>%{customdata[0]}</b><br>"
+                    "Data: %{x|%d/%m/%Y}<br>"
+                    "Distancia do padrao: %{y:.2f}<br>"
+                    "Valor original: %{customdata[1]:.2f} %{customdata[2]}<br>"
+                    "Frequencia: %{customdata[4]}<br>"
+                    "Fonte: %{customdata[3]}<br><br>"
+                    "<b>Eventos proximos (+/-21d)</b><br>%{customdata[5]}"
+                    "<extra></extra>"
+                )
+            )
+            add_event_overlays(fig, country_events, selected_event, show_all_events)
+            style_chart(fig, height=560, left_margin=55)
+        
+            chart_col, card_col = st.columns([2.3, 1])
+            with chart_col:
+                st.plotly_chart(fig, use_container_width=True)
+            with card_col:
+                render_event_movement_cards(selected_event, selected_event_impacts)
 
         render_trends_section(
             selected_event,
