@@ -529,6 +529,17 @@ st.markdown(
     div[data-testid="stDataFrame"] {
         border: 1px solid var(--line);
     }
+    div[data-testid="stAlert"] {
+        border-radius: 8px !important;
+        border: 1px solid #e0b84f !important;
+        background: #fff4bf !important;
+        color: #3b2b00 !important;
+    }
+    div[data-testid="stAlert"] *,
+    div[data-testid="stAlert"] p,
+    div[data-testid="stAlert"] div {
+        color: #3b2b00 !important;
+    }
     pre {
         border: 1px solid var(--line) !important;
         background: var(--code) !important;
@@ -772,6 +783,14 @@ st.markdown(
         }
         .stPlotlyChart {
             margin: .35rem 0 1rem 0 !important;
+        }
+        .stPlotlyChart .modebar {
+            display: none !important;
+        }
+        .stPlotlyChart .nsewdrag,
+        .stPlotlyChart .draglayer,
+        .stPlotlyChart .zoomlayer {
+            pointer-events: none !important;
         }
     }
     </style>
@@ -1957,12 +1976,24 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
                     on=["event_id", "indicator_slug", "window_days"],
                     how="left",
                 )
+            event_bar_plot = (
+                top_event.sort_values("abs_standardized_change", ascending=False)
+                .drop_duplicates("indicator_label")
+                .sort_values("abs_standardized_change")
+                .copy()
+            )
+            event_bar_plot["indicator_short"] = event_bar_plot["indicator_label"].map(
+                lambda value: textwrap.shorten(str(value), width=24, placeholder="...")
+            )
+            event_bar_plot["window_label"] = event_bar_plot["window_days"].map(
+                lambda value: f"{int(value)} dias" if pd.notna(value) else ""
+            )
             fig_event = px.bar(
-                top_event.sort_values("abs_standardized_change"),
+                event_bar_plot,
                 x="abs_standardized_change",
-                y="indicator_label",
-                color="window_days",
+                y="indicator_short",
                 orientation="h",
+                text="window_label",
                 custom_data=[
                     "event_name",
                     "indicator_label",
@@ -1975,12 +2006,14 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
                 ],
                 labels={
                     "abs_standardized_change": "intensidade do movimento",
-                    "indicator_label": "",
-                    "window_days": "janela",
+                    "indicator_short": "",
                 },
-                color_continuous_scale=[[0, COR_CREAM], [0.55, COR_SECUNDARIA], [1, COR_PRINCIPAL]],
             )
             fig_event.update_traces(
+                marker_color=COR_PRINCIPAL,
+                textposition="outside",
+                textfont=dict(family="DM Mono, monospace", size=11, color=COR_MUTED),
+                cliponaxis=False,
                 hovertemplate=(
                     "<b>%{customdata[1]}</b><br>"
                     "Evento: %{customdata[0]}<br>"
@@ -1993,10 +2026,12 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
                     "<extra></extra>"
                 )
             )
-            fig_event.update_coloraxes(showscale=False)
+            max_bar = float(event_bar_plot["abs_standardized_change"].max()) if not event_bar_plot.empty else 1.0
+            fig_event.update_xaxes(range=[0, max_bar * 1.22])
             fig_event.update_yaxes(tickfont=dict(size=12), automargin=True)
-            style_chart(fig_event, height=390, left_margin=92)
-            st.plotly_chart(fig_event, use_container_width=True)
+            fig_event.update_layout(showlegend=False, bargap=0.38)
+            style_chart(fig_event, height=max(300, 82 * len(event_bar_plot)), left_margin=82)
+            st.plotly_chart(fig_event, use_container_width=True, config={"displayModeBar": False, "scrollZoom": False})
 
             if not selected_event_study.empty:
                 study_options = (
