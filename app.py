@@ -560,6 +560,53 @@ st.markdown(
     div[role="radiogroup"] label:has(input:checked) p {
         color: var(--paper) !important;
     }
+    div[data-testid="stSegmentedControl"] button,
+    div[data-testid="stSegmentedControl"] [role="button"],
+    button[data-testid="stBaseButton-segmented_control"],
+    button[data-testid="stBaseButton-segmented_controlActive"] {
+        background: var(--cream) !important;
+        color: var(--ink) !important;
+        border: 1px solid var(--line) !important;
+        border-radius: 8px !important;
+        min-height: 2.45rem !important;
+        box-shadow: none !important;
+    }
+    div[data-testid="stSegmentedControl"] button *,
+    div[data-testid="stSegmentedControl"] [role="button"] *,
+    button[data-testid="stBaseButton-segmented_control"] *,
+    button[data-testid="stBaseButton-segmented_controlActive"] * {
+        color: var(--ink) !important;
+    }
+    div[data-testid="stSegmentedControl"] button[aria-pressed="true"],
+    div[data-testid="stSegmentedControl"] [role="button"][aria-pressed="true"],
+    div[data-testid="stSegmentedControl"] button[data-selected="true"],
+    div[data-testid="stSegmentedControl"] [role="button"][data-selected="true"],
+    button[data-testid="stBaseButton-segmented_controlActive"] {
+        background: #fff6f3 !important;
+        color: var(--red) !important;
+        border-color: #e56c75 !important;
+    }
+    div[data-testid="stSegmentedControl"] button[aria-pressed="true"] *,
+    div[data-testid="stSegmentedControl"] [role="button"][aria-pressed="true"] *,
+    div[data-testid="stSegmentedControl"] button[data-selected="true"] *,
+    div[data-testid="stSegmentedControl"] [role="button"][data-selected="true"] *,
+    button[data-testid="stBaseButton-segmented_controlActive"] * {
+        color: var(--red) !important;
+    }
+    div[data-baseweb="select"] > div,
+    div[data-baseweb="select"] input,
+    div[data-testid="stSelectbox"] div[data-baseweb="select"] > div,
+    div[data-testid="stMultiSelect"] div[data-baseweb="select"] > div {
+        background: var(--cream) !important;
+        color: var(--ink) !important;
+        border-color: var(--line) !important;
+    }
+    div[data-baseweb="select"] span,
+    div[data-baseweb="select"] svg,
+    div[data-baseweb="select"] input::placeholder {
+        color: var(--ink) !important;
+        fill: var(--ink) !important;
+    }
     .stDataFrame [role="gridcell"], .stDataFrame [role="columnheader"],
     .stDataFrame [role="gridcell"] div, .stDataFrame [role="columnheader"] div,
     .stDataFrame .gdg-cell, .stDataFrame .gdg-cell span {
@@ -578,10 +625,16 @@ st.markdown(
         .insight-list { grid-template-columns: 1fr; }
         .trend-summary-grid { grid-template-columns: 1fr; }
         .stPlotlyChart {
-            overflow-x: auto;
+            overflow-x: visible !important;
+            width: 100% !important;
         }
-        .stPlotlyChart > div {
-            min-width: 680px;
+        .stPlotlyChart > div,
+        .stPlotlyChart .js-plotly-plot,
+        .stPlotlyChart .plot-container,
+        .stPlotlyChart .svg-container {
+            width: 100% !important;
+            max-width: 100% !important;
+            min-width: 0 !important;
         }
         div[data-testid="stDataFrame"] {
             overflow-x: auto;
@@ -653,10 +706,40 @@ st.markdown(
             padding: .85rem !important;
         }
         div[data-testid="stHorizontalBlock"] {
+            flex-direction: column !important;
             gap: .65rem !important;
+        }
+        div[data-testid="stHorizontalBlock"] > div {
+            width: 100% !important;
+            min-width: 0 !important;
         }
         div[data-testid="stVerticalBlockBorderWrapper"] {
             padding: .65rem !important;
+        }
+        div[data-testid="stSegmentedControl"] div[role="group"],
+        div[data-testid="stSegmentedControl"] div[data-baseweb="button-group"] {
+            display: grid !important;
+            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+            gap: .45rem !important;
+            width: 100% !important;
+        }
+        div[data-testid="stSegmentedControl"] button,
+        div[data-testid="stSegmentedControl"] [role="button"],
+        button[data-testid="stBaseButton-segmented_control"],
+        button[data-testid="stBaseButton-segmented_controlActive"] {
+            width: 100% !important;
+            min-width: 0 !important;
+            justify-content: center !important;
+            padding: .5rem .45rem !important;
+        }
+        div[data-testid="stSegmentedControl"] button *,
+        div[data-testid="stSegmentedControl"] [role="button"] *,
+        button[data-testid="stBaseButton-segmented_control"] *,
+        button[data-testid="stBaseButton-segmented_controlActive"] * {
+            font-size: .86rem !important;
+            line-height: 1.15 !important;
+            white-space: normal !important;
+            overflow-wrap: anywhere !important;
         }
         div[role="radiogroup"] {
             gap: .35rem !important;
@@ -686,6 +769,9 @@ st.markdown(
         .stDataFrame .gdg-cell, .stDataFrame .gdg-cell span {
             font-size: 13px !important;
             line-height: 1.35 !important;
+        }
+        .stPlotlyChart {
+            margin: .35rem 0 1rem 0 !important;
         }
     }
     </style>
@@ -894,11 +980,20 @@ def section_header(number: str, title: str, emphasis: str | None = None) -> None
 
 
 def style_chart(fig, height: int, left_margin: int = 40):
+    effective_left_margin = min(left_margin, 92)
     fig.update_layout(
         **CHART_LAYOUT,
         height=height,
-        margin=dict(l=left_margin, r=30, t=25, b=40),
+        margin=dict(l=effective_left_margin, r=14, t=18, b=62),
         legend_title_text="",
+        legend=dict(
+            orientation="h",
+            yanchor="top",
+            y=-0.18,
+            xanchor="left",
+            x=0,
+            font=dict(family="Syne, system-ui, sans-serif", size=12, color=COR_INK),
+        ),
         hoverlabel=dict(
             bgcolor=COR_CREAM,
             bordercolor=COR_BORDER,
@@ -918,6 +1013,7 @@ def style_chart(fig, height: int, left_margin: int = 40):
         title_font=LABEL_FONT,
         automargin=True,
     )
+    fig.update_layout(autosize=True)
     return fig
 
 
@@ -1643,16 +1739,8 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
         "A linha vermelha no gráfico marca quando esse evento aconteceu."
     )
     
-    st.segmented_control(
-        "Mapa da leitura",
-        ["Evento", "Padroes", "Score", "Rankings", "Anual"],
-        default="Evento",
-        key=f"country_reading_map_{country}",
-        width="stretch",
-        disabled=True,
-    )
     plain_note(
-        "A sequencia abaixo organiza a leitura em evento selecionado, padroes agregados, score sintetico, rankings e contexto anual."
+        "As abas abaixo organizam a leitura em evento selecionado, padroes agregados, score sintetico, rankings e contexto anual."
     )
 
     event_tab, patterns_tab, score_tab, rankings_tab, annual_tab = st.tabs(["Evento", "Padroes", "Score", "Rankings", "Anual"])
@@ -1905,8 +1993,9 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
                     "<extra></extra>"
                 )
             )
-            fig_event.update_coloraxes(colorbar=dict(title="dias", tickfont=TICK_FONT))
-            style_chart(fig_event, height=460, left_margin=190)
+            fig_event.update_coloraxes(showscale=False)
+            fig_event.update_yaxes(tickfont=dict(size=12), automargin=True)
+            style_chart(fig_event, height=390, left_margin=92)
             st.plotly_chart(fig_event, use_container_width=True)
 
             if not selected_event_study.empty:
@@ -1950,7 +2039,8 @@ def country_view(data: dict[str, pd.DataFrame], country: str, technical_mode: bo
                             "<extra></extra>"
                         )
                     )
-                    style_chart(fig_study, height=380, left_margin=60)
+                    fig_study.update_layout(showlegend=False)
+                    style_chart(fig_study, height=340, left_margin=52)
                     st.plotly_chart(fig_study, use_container_width=True)
 
             event_table_impact = top_event[
